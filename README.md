@@ -9,7 +9,7 @@
 
 ## ¿Quiénes somos?
 <p align="justify">
-  Saludos a todos, somos el Grupo 5 de Fundamentos de Diseño. En este espacio colaborativo, trabajaremos juntos para desentrañar los principios fundamentales del diseño, aprendiendo y creciendo a medida que avanzamos. Cada miembro tiene un papel crucial en este viaje, contribuyendo con sus perspectivas habilidades para construir soluciones visuales impactantes.
+  ¡Bienvenidos al espacio colaborativo del Grupo 5 de Fundamentos de Diseño! Nuestro objetivo es explorar juntos los principios fundamentales del diseño, fomentando el aprendizaje y el crecimiento en cada paso que damos. Reconocemos la importancia de cada miembro en este viaje, ya que cada uno aporta valiosas perspectivas y habilidades para crear soluciones impactantes. Utilizaremos un lenguaje técnico y atractivo para comunicar nuestra pasión. ¡Únete a nosotros en este emocionante viaje creativo!
 </p>
 
 <p align="center">
