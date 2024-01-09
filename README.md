@@ -16,3 +16,9 @@
 - **Encargado del modelado 3D:** Antony Iván Mendoza Villar (antony.mendoza@upch.pe)
 - **Encargado del diseño y redacción:** Josue Jhordan Poma Arrieta (josue.poma@upch.pe)
 - **Encargado de la manufactura digital:** Aracely Nicoll Dueñas Condori (aracely.duenas@upch.pe)
+
+## Finalidad de carpetas
+- **DOCUMENTACIÓN:**
+- **IMÁGNES:**
+- **INFORMES:**
+- **PROTOTIPADO:**
