@@ -1,16 +1,15 @@
 # Fundamentos de Diseño - Grupo 5
-<details>
-  <summary>ÍNDICE</summary>
+
+## Tabla de Contenido
 
   1. [¿Quiénes somos?](#quiénes-somos)
   2. [Información del Proyecto](#información-del-proyecto)
   3. [Finalidad de carpetas](#finalidad-de-carpetas)
   4. [Roles de los miembros](#roles-de-los-miembros)
-</details>
 
 ## ¿Quiénes somos?
 <p align="justify">
-  Saludos a todos, somos el Grupo 5 de Fundamentos de Diseño. En este espacio colaborativo, trabajaremos juntos para desentrañar los principios fundamentales del diseño, aprendiendo y creciendo a medida que avanzamos. Cada miembro tiene un papel crucial en este viaje, contribuyendo con sus perspectivas y habilidades para construir soluciones visuales impactantes.
+  Saludos a todos, somos el Grupo 5 de Fundamentos de Diseño. En este espacio colaborativo, trabajaremos juntos para desentrañar los principios fundamentales del diseño, aprendiendo y creciendo a medida que avanzamos. Cada miembro tiene un papel crucial en este viaje, contribuyendo con sus perspectivas habilidades para construir soluciones visuales impactantes.
 </p>
 
 <p align="center">
@@ -31,10 +30,10 @@ Crear conciencia para tener un futuro sostenible donde todas las personas puedan
 Proporcionar energía no contaminante y fomentar el acceso equitativo de energía sostenible.
 
 ## Finalidad de carpetas
-- **Documentación:** Presentaremos información sobre la problemática y bibliografía.
-- **Imágenes:** Presentaremos fotos de los integrantes, profesores, prototipado y lo necesario.
-- **Informes:** Presentaremos los entregables por cada laboratorio e hitos.
-- **Prototipado:** Presentaremos nuestro prototipo medianamente fiable.
+- **Documentación:** Espacio organizado que contiene todos los documentos y archivos necesarios para el desarrollo, diseño, implementación y mantenimiento del sitio web.
+- **Imágenes:** Sección donde se almacenan todos los archivos de imagen utilizados en el sitio. Estos archivos pueden incluir logotipos, fotografías, iconos y otros elementos visuales que se utilizan para mejorar el diseño y la apariencia del sitio web.
+- **Informes:** Se almacenan los archivos y documentos que contienen análisis, estadísticas, resultados y cualquier tipo de informe generado a partir de los datos recopilados por el sitio web.
+- **Prototipado:** Se almacenarán los archivos y documentos que contienen los prototipos, maquetas o bocetos iniciales de las páginas, funcionalidades y diseño del sitio web.
 
 ## Roles de los miembros
 - **Coordinadora General:** Amparo Marleny Vidaurre Juarez (amparo.vidaurre@upch.pe)
