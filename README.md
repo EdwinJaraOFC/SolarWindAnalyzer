@@ -21,10 +21,10 @@ Crear conciencia para tener un futuro sostenible donde todas las personas puedan
 Proporcionar energía no contaminante y fomentar el acceso equitativo de energía sostenible.
 
 ## Finalidad de carpetas
-- **DOCUMENTACIÓN:** Presentaremos información sobre la problemática y bibliografía.
-- **IMÁGENES:** Presentaremos fotos de los integrantes, profesores, prototipado y lo necesario.
-- **INFORMES:** Presentaremos los entregables por cada laboratorio e hitos.
-- **PROTOTIPADO:** Presentaremos nuestro prototipo medianamente fiable.
+- **Documentación:** Presentaremos información sobre la problemática y bibliografía.
+- **Imágenes:** Presentaremos fotos de los integrantes, profesores, prototipado y lo necesario.
+- **Informes:** Presentaremos los entregables por cada laboratorio e hitos.
+- **Prototipado:** Presentaremos nuestro prototipo medianamente fiable.
 
 ## Roles de los miembros
 - **Coordinadora General:** Amparo Marleny Vidaurre Juarez (amparo.vidaurre@upch.pe)
