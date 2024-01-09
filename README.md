@@ -18,7 +18,7 @@
 - **Encargado de la manufactura digital:** Aracely Nicoll Dueñas Condori (aracely.duenas@upch.pe)
 
 ## Finalidad de carpetas
-- **DOCUMENTACIÓN:**
+- **DOCUMENTACIÓN:** presentar informaciónde la problemática
 - **IMÁGNES:**
 - **INFORMES:**
 - **PROTOTIPADO:**
