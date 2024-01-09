@@ -32,7 +32,7 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 ## Finalidad de carpetas
 - **Documentación:** Espacio organizado que contiene todos los documentos y archivos necesarios para el desarrollo, diseño, implementación y mantenimiento del sitio web.
 - **Imágenes:** Sección donde se almacenan todos los archivos de imagen utilizados en el sitio. Estos archivos pueden incluir logotipos, fotografías, iconos y otros elementos visuales que se utilizan para mejorar el diseño y la apariencia del sitio web.
-- **Informes:** Se almacenan los archivos y documentos que contienen análisis, estadísticas, resultados y cualquier tipo de informe generado a partir de los datos recopilados por el sitio web.
+- **Informes:** Se almacenarán los archivos y documentos que contienen análisis, estadísticas, resultados y cualquier tipo de informe generado a partir de los datos recopilados por el sitio web.
 - **Prototipado:** Se almacenarán los archivos y documentos que contienen los prototipos, maquetas o bocetos iniciales de las páginas, funcionalidades y diseño del sitio web.
 
 ## Roles de los miembros
