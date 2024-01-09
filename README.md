@@ -28,7 +28,7 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 - **Encargado de la manufactura digital:** Aracely Nicoll Dueñas Condori (aracely.duenas@upch.pe)
 
 ## Finalidad de carpetas
-- **DOCUMENTACIÓN:** presentar información sobre la problemática y bibliografía.
-- **IMÁGENES:** presentar fotos de los integrantes, profesores, prototipado y lo necesario.
-- **INFORMES:** presentar los entregables por cada laboratorio e hitos.
-- **PROTOTIPADO:** presentar nuestro porotitpo medianamente fiable.
+- **DOCUMENTACIÓN:** presentaremos información sobre la problemática y bibliografía.
+- **IMÁGENES:** presentaremos fotos de los integrantes, profesores, prototipado y lo necesario.
+- **INFORMES:** presentaremos los entregables por cada laboratorio e hitos.
+- **PROTOTIPADO:** presentaremos nuestro prototipo medianamente fiable.
