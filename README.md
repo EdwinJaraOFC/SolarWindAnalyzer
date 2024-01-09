@@ -1,8 +1,13 @@
 # Fundamentos de Diseño - Grupo 5
-1. [¿Quiénes somos?](#quienes-somos)
-2. [Información del Proyecto](#información-del-proyecto)
-3. [Finalidad de carpetas](#finalidad-de-carpetas)
-4. [Roles de los miembros](#roles-de-los-mienbros)
+<details>
+  <summary>Click para ver más</summary>
+
+    ## ÍNDICE
+    1. [¿Quiénes somos?](#quienes-somos)
+    2. [Información del Proyecto](#información-del-proyecto)
+    3. [Finalidad de carpetas](#finalidad-de-carpetas)
+    4. [Roles de los miembros](#roles-de-los-mienbros)
+</details>
 
 ## ¿Quiénes somos?
 <p align="justify">
