@@ -1,6 +1,6 @@
 # Fundamentos de Diseño - Grupo 5
 <details>
-  <summary>## ÍNDICE</summary>
+  <summary>ÍNDICE</summary>
 
   1. [¿Quiénes somos?](#quienes-somos)
   2. [Información del Proyecto](#información-del-proyecto)
