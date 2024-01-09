@@ -9,6 +9,16 @@
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal01.jpg" width="450" style="margin: auto;">
 </p>
 
+## Información del Proyecto
+
+# Tema de la ODS 7 : Energía asequible y no contaminante
+Este proyecto tiene como objetivo analizar cómo la transición hacia fuentes de energía renovable puede beneficiar a comunidades locales en términos de salud, empleo local y desarrollo sostenible. Se explorará cómo la implementación de energías limpias contribuye al logro del ODS 7, garantizando un acceso equitativo a una energía asequible y sostenible.
+
+# Visión:
+Crear conciencia para tener un futuro sostenible donde todas las personas puedan acceder a energía, sin  perjudicar el medio ambiente.
+
+# Misión:
+Proporcionar energía no contaminante y fomentar el acceso equitativo de energía sostenible.
 
 ## Roles de los miembros
 - **Coordinadora General:** Amparo Marleny Vidaurre Juarez (amparo.vidaurre@upch.pe)
