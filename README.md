@@ -20,15 +20,15 @@ Crear conciencia para tener un futuro sostenible donde todas las personas puedan
 ### Misión:
 Proporcionar energía no contaminante y fomentar el acceso equitativo de energía sostenible.
 
+## Finalidad de carpetas
+- **DOCUMENTACIÓN:** Presentaremos información sobre la problemática y bibliografía.
+- **IMÁGENES:** Presentaremos fotos de los integrantes, profesores, prototipado y lo necesario.
+- **INFORMES:** Presentaremos los entregables por cada laboratorio e hitos.
+- **PROTOTIPADO:** Presentaremos nuestro prototipo medianamente fiable.
+
 ## Roles de los miembros
 - **Coordinadora General:** Amparo Marleny Vidaurre Juarez (amparo.vidaurre@upch.pe)
 - **Encargado de Software y Programación:** Edwin Junior Jara Bocanegra (edwin.jara@upch.pe)
 - **Encargado del modelado 3D:** Antony Iván Mendoza Villar (antony.mendoza@upch.pe)
 - **Encargado del diseño y redacción:** Josue Jhordan Poma Arrieta (josue.poma@upch.pe)
 - **Encargado de la manufactura digital:** Aracely Nicoll Dueñas Condori (aracely.duenas@upch.pe)
-
-## Finalidad de carpetas
-- **DOCUMENTACIÓN:** presentaremos información sobre la problemática y bibliografía.
-- **IMÁGENES:** presentaremos fotos de los integrantes, profesores, prototipado y lo necesario.
-- **INFORMES:** presentaremos los entregables por cada laboratorio e hitos.
-- **PROTOTIPADO:** presentaremos nuestro prototipo medianamente fiable.
