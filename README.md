@@ -1,5 +1,5 @@
 # Fundamentos de Diseño - Grupo 5
-1. [¿Quiénes somos?](##¿Quiénes somos?)
+1. [¿Quiénessomos?](##¿Quiénes somos?)
 
 ## ¿Quiénes somos?
 <p align="justify">
