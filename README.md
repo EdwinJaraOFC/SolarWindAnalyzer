@@ -1,6 +1,4 @@
-<p align="center">
-# ElectroScience
-</p>
+<h1 align="center">ElectroScience</h1>
 ## Tabla de Contenido
 
   1. [¿Quiénes somos?](#quiénes-somos)
