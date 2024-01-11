@@ -70,6 +70,10 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
   <img src="" width="450" style="margin: auto;">
 </p>
 
+<p align="center">
+ ## redirige a cierta carpeta donde está un readme.md
+ 
+ [presiona quí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n)
 
-[presiona quí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n)
+</p>
 
