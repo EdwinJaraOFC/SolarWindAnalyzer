@@ -1,5 +1,6 @@
-# Fundamentos de Diseño - Grupo 5
-
+<p align="center">
+# ElectroScience
+</p>
 ## Tabla de Contenido
 
   1. [¿Quiénes somos?](#quiénes-somos)
