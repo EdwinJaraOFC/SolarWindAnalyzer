@@ -1,5 +1,12 @@
 <h1 align="center">ElectroScience</h1>
 
+## Tabla de Contenido
+  1. [¿Quiénes somos?](#quiénes-somos)
+  2. [Roles de los miembros](#roles-de-los-miembros)
+  3. [Información del Proyecto](#información-del-proyecto)
+  4. [Finalidad de carpetas](#finalidad-de-carpetas)
+
+## ¿Quienes somos?
 <p align="justify">
   ¡Bienvenidos al espacio colaborativo del Grupo 5 de Fundamentos de Diseño! Nuestro objetivo es explorar juntos los principios fundamentales del diseño, fomentando el aprendizaje y el crecimiento en cada paso que damos. Reconocemos la importancia de cada miembro en este viaje, ya que cada uno aporta valiosas perspectivas y habilidades para crear soluciones impactantes. Utilizaremos un lenguaje técnico y atractivo para comunicar nuestra pasión. ¡Únete a nosotros en este emocionante viaje creativo!
 </p>
@@ -8,38 +15,7 @@
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal01.jpg" width="450" style="margin: auto;">
 </p>
 
-## Tabla de Contenido
----
-  1. [Información del Proyecto](#información-del-proyecto)
-  2. [Finalidad de carpetas](#finalidad-de-carpetas)
-  3. [Roles de los miembros](#roles-de-los-miembros)
-  4. [¿Quiénes somos?](#quiénes-somos)
-
-## Información del Proyecto
----
-### Tema de la ODS 7 : Energía asequible y no contaminante
----
-<p align="justify">
-Este proyecto tiene como objetivo analizar cómo la transición hacia fuentes de energía renovable puede beneficiar a comunidades locales en términos de salud, empleo local y desarrollo sostenible. Se explorará cómo la implementación de energías limpias contribuye al logro del ODS 7, garantizando un acceso equitativo a una energía asequible y sostenible.
-</p>
-
-### Visión:
----
-Crear conciencia para tener un futuro sostenible donde todas las personas puedan acceder a energía, sin  perjudicar el medio ambiente.
-
-### Misión:
----
-Proporcionar energía no contaminante y fomentar el acceso equitativo de energía sostenible.
-
-## Finalidad de carpetas
----
-- **Documentación:** Espacio organizado que contiene todos los documentos y archivos necesarios para el desarrollo, diseño, implementación y mantenimiento del sitio web.
-- **Imágenes:** Sección donde se almacenan todos los archivos de imagen utilizados en el sitio. Estos archivos pueden incluir logotipos, fotografías, iconos y otros elementos visuales que se utilizan para mejorar el diseño y la apariencia del sitio web.
-- **Informes:** Se almacenarán los archivos y documentos que contienen análisis, estadísticas, resultados y cualquier tipo de informe generado a partir de los datos recopilados por el sitio web.
-- **Prototipado:** Se almacenarán los archivos y documentos que contienen los prototipos, maquetas o bocetos iniciales de las páginas, funcionalidades y diseño del sitio web.
-
-## ¿Quienes somos?
----
+## Roles de los miembros
 - **Coordinadora General:** 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante01.png" width="750" style="margin: auto;">
@@ -66,5 +42,23 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 </p>
 <p align="center">
 
- [presiona quí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n)
+ Presiona [aquí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n) para saber más de nosotros!
 </p>
+
+## Información del Proyecto
+### Tema de la ODS 7 : Energía asequible y no contaminante
+<p align="justify">
+Este proyecto tiene como objetivo analizar cómo la transición hacia fuentes de energía renovable puede beneficiar a comunidades locales en términos de salud, empleo local y desarrollo sostenible. Se explorará cómo la implementación de energías limpias contribuye al logro del ODS 7, garantizando un acceso equitativo a una energía asequible y sostenible.
+</p>
+
+### Visión:
+Crear conciencia para tener un futuro sostenible donde todas las personas puedan acceder a energía, sin  perjudicar el medio ambiente.
+
+### Misión:
+Proporcionar energía no contaminante y fomentar el acceso equitativo de energía sostenible.
+
+## Finalidad de carpetas
+- **Documentación:** Espacio organizado que contiene todos los documentos y archivos necesarios para el desarrollo, diseño, implementación y mantenimiento del sitio web.
+- **Imágenes:** Sección donde se almacenan todos los archivos de imagen utilizados en el sitio. Estos archivos pueden incluir logotipos, fotografías, iconos y otros elementos visuales que se utilizan para mejorar el diseño y la apariencia del sitio web.
+- **Informes:** Se almacenarán los archivos y documentos que contienen análisis, estadísticas, resultados y cualquier tipo de informe generado a partir de los datos recopilados por el sitio web.
+- **Prototipado:** Se almacenarán los archivos y documentos que contienen los prototipos, maquetas o bocetos iniciales de las páginas, funcionalidades y diseño del sitio web.
