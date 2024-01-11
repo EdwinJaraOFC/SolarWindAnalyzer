@@ -1,5 +1,5 @@
 <h1 align="center">ElectroScience</h1>
----
+
 <p align="justify">
   ¡Bienvenidos al espacio colaborativo del Grupo 5 de Fundamentos de Diseño! Nuestro objetivo es explorar juntos los principios fundamentales del diseño, fomentando el aprendizaje y el crecimiento en cada paso que damos. Reconocemos la importancia de cada miembro en este viaje, ya que cada uno aporta valiosas perspectivas y habilidades para crear soluciones impactantes. Utilizaremos un lenguaje técnico y atractivo para comunicar nuestra pasión. ¡Únete a nosotros en este emocionante viaje creativo!
 </p>
@@ -40,8 +40,32 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 
 ## ¿Quienes somos?
 ---
-- **Coordinadora General:** Amparo Marleny Vidaurre Juarez (amparo.vidaurre@upch.pe)
-- **Encargado de Software y Programación:** Edwin Junior Jara Bocanegra (edwin.jara@upch.pe)
-- **Encargado del modelado 3D:** Antony Iván Mendoza Villar (antony.mendoza@upch.pe)
-- **Encargado del diseño y redacción:** Josue Jhordan Poma Arrieta (josue.poma@upch.pe)
-- **Encargado de la manufactura digital:** Aracely Nicoll Dueñas Condori (aracely.duenas@upch.pe)
+- **Coordinadora General:** 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
+  <img src="" width="450" style="margin: auto;">
+</p>
+
+- **Encargado de Software y Programación:** 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
+  <img src="" width="450" style="margin: auto;">
+</p>
+
+- **Encargado del modelado 3D:** 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
+  <img src="" width="450" style="margin: auto;">
+</p>
+
+- **Encargado del diseño y redacción:** 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
+  <img src="" width="450" style="margin: auto;">
+</p>
+
+- **Encargado de la manufactura digital:** 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
+  <img src="" width="450" style="margin: auto;">
+</p>
