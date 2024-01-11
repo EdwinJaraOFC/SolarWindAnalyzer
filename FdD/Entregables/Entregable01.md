@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal01.jpg" width="650" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal01.jpg" width="750" style="margin: auto;">
 </p>
 
 ## Roles de los miembros
