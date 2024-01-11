@@ -42,7 +42,7 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 ---
 - **Coordinadora General:** 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante01" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
   <img src="" width="450" style="margin: auto;">
 </p>
 
@@ -60,18 +60,16 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 
 - **Encargado del diseño y redacción:** 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante04" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
   <img src="" width="450" style="margin: auto;">
 </p>
 
 - **Encargado de la manufactura digital:** 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante05" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
   <img src="" width="450" style="margin: auto;">
 </p>
-
 <p align="center">
- 
- [presiona quí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n)
 
+ [presiona quí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n)
 </p>
