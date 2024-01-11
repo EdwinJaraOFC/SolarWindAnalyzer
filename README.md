@@ -1,13 +1,4 @@
 <h1 align="center">ElectroScience</h1>
-
-## Tabla de Contenido
----
-  1. [¿Quiénes somos?](#quiénes-somos)
-  2. [Información del Proyecto](#información-del-proyecto)
-  3. [Finalidad de carpetas](#finalidad-de-carpetas)
-  4. [Roles de los miembros](#roles-de-los-miembros)
-
-## ¿Quiénes somos?
 ---
 <p align="justify">
   ¡Bienvenidos al espacio colaborativo del Grupo 5 de Fundamentos de Diseño! Nuestro objetivo es explorar juntos los principios fundamentales del diseño, fomentando el aprendizaje y el crecimiento en cada paso que damos. Reconocemos la importancia de cada miembro en este viaje, ya que cada uno aporta valiosas perspectivas y habilidades para crear soluciones impactantes. Utilizaremos un lenguaje técnico y atractivo para comunicar nuestra pasión. ¡Únete a nosotros en este emocionante viaje creativo!
@@ -16,6 +7,13 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal01.jpg" width="450" style="margin: auto;">
 </p>
+
+## Tabla de Contenido
+---
+  1. [Información del Proyecto](#información-del-proyecto)
+  2. [Finalidad de carpetas](#finalidad-de-carpetas)
+  3. [Roles de los miembros](#roles-de-los-miembros)
+  4. [¿Quiénes somos?](#quiénes-somos)
 
 ## Información del Proyecto
 ---
