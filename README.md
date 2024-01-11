@@ -60,7 +60,7 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante04.png" width="750" style="margin: auto;">
 </p>
 
-- **Encargado de la manufactura digital:** 
+- **Encargada de la manufactura digital:** 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante05.png" width="750" style="margin: auto;">
 </p>
