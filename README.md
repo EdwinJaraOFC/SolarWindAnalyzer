@@ -42,7 +42,7 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 ---
 - **Coordinadora General:** 
 <p align="center">
-  <img src="[https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/](https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante01.png)" width="450" style="margin: auto;">
+  <img src="[[https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/](https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante01.png)](https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante01.png)" width="450" style="margin: auto;">
   <img src="" width="450" style="margin: auto;">
 </p>
 
