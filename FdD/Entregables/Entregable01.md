@@ -32,7 +32,3 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante05.png" width="750" style="margin: auto;">
 </p>
-<p align="center">
-
- Presiona [aquí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n) para saber más de nosotros!
-</p>
