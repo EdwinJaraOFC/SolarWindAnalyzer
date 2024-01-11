@@ -48,13 +48,13 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 
 - **Encargado de Software y Programación:** 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante02" width="450" style="margin: auto;">
   <img src="" width="450" style="margin: auto;">
 </p>
 
 - **Encargado del modelado 3D:** 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Integrante03" width="450" style="margin: auto;">
   <img src="" width="450" style="margin: auto;">
 </p>
 
@@ -69,11 +69,7 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
   <img src="" width="450" style="margin: auto;">
 </p>
-
 <p align="center">
- ## redirige a cierta carpeta donde está un readme.md
- 
+
  [presiona quí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n)
-
 </p>
-
