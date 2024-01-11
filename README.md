@@ -69,3 +69,7 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/" width="450" style="margin: auto;">
   <img src="" width="450" style="margin: auto;">
 </p>
+
+
+[presiona quí](https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n)
+
