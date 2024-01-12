@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150" style="margin-bottom: -55;">
+  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150" style="margin-bottom: -5%;">
   <h1 align="center">ElectroScience</h1>
 </p>
 
