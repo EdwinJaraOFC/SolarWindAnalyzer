@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal01.jpg" width="450" style="margin: auto;">
+  <img src="https://geniabioenergy.com/wp-content/uploads/2022/02/Las-renovables-como-vectores-de-transformacion-2.jpg" width="750" style="margin: auto;">
 </p>
 
 ## Tabla de Contenido
@@ -16,6 +16,10 @@
 
 ## ¿Quiénes somos?
 Somos un grupo de estudiantes apasionados que formamos el Grupo 5 de Fundamentos de Diseño. Nos unimos con entusiasmo y dedicación para explorar los principios fundamentales del diseño. Cada miembro desempeña un papel crucial en nuestro viaje creativo, aportando perspectivas únicas y habilidades que enriquecen nuestra experiencia colectiva.
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal01.jpg" width="750" style="margin: auto;">
+</p>
 
 ## Información del Proyecto
 ### Tema de la ODS 7 : Energía asequible y no contaminante
@@ -36,21 +40,13 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 - **Prototipado:** Se almacenarán los archivos y documentos que contienen los prototipos, maquetas o bocetos iniciales de las páginas, funcionalidades y diseño del sitio web.
 
 ## Roles de los miembros
-- **Coordinadora General:** Amparo Marleny Vidaurre Juárez
-	- **Correo electrónico:** amparo.vidaurre@upch.pe
-	- **Nombre en GitHub:** Amparo4321
-- **Encargado de Desarrollo Técnico y Prototipado:** Edwin Junior Jara Bocanegra
-	- **Correo electrónico:** edwin.jara@upch.pe
-	- **Nombre en GitHub:** Paradoxeado
-- **Coordinador de Diseño y Modelado 3D:** Antony Iván Mendoza Villar
-	- **Correo electrónico:** antony.mendoza@upch.pe
-	- **Nombre en GitHub:** Sh3ccid
-- **Encargado del Diseño y Redacción Web:** Josue Jhordan Poma Arrieta
-	- **Correo electrónico:** josue.poma@upch.pe
-	- **Nombre en GitHub:** JosuePoma
-- **Encargada de la Manufactura Digital:** Aracely Nicoll Dueñas Condori
-	- **Correo electrónico:** aracely.duenas@upch.pe
-	- **Nombre en GitHub:** NicollDC
+| Miembro | Rol Desempeñado | GitHub | Correo |
+| :------------: | :------------: | :------------: | :------------: |
+| Amparo Marleny Vidaurre Juárez | Coordinadora General | Amparo4321 | amparo.vidaurre@upch.pe |
+| Edwin Junior Jara Bocanegra | Encargado de Desarrollo Técnico y Prototipado | Paradoxeado | edwin.jara@upch.pe |
+| Antony Iván Mendoza Villar | Coordinador de Diseño y Modelado 3D | Sh3ccid | antony.mendoza@upch.pe |
+| Josue Jhordan Poma Arrieta | Encargado del Diseño y Redacción Web | JosuePoma | josue.poma@upch.pe |
+| Aracely Nicoll Dueñas Condori | Encargada de la Manufactura Digital | NicollDC | aracely.duenas@upch.pe |
 
 Presiona [aquí](https://github.com/Paradoxeado/prototypeProject/tree/main/FdD/Entregables/Entregable01.md) para saber más de nosotros!
 </p>
