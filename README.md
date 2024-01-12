@@ -42,9 +42,9 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 <div style="text-align: justify;">
   <ul>
     <li><strong><a href="https://github.com/Paradoxeado/prototypeProject/tree/main/Documentaci%C3%B3n">Documentación</a></strong> Espacio organizado que contiene todos los documentos y archivos necesarios para el desarrollo, diseño, implementación y mantenimiento del sitio web.</li>
-    <li><strong>Imágenes:</strong> Sección donde se almacenan todos los archivos de imagen utilizados en el sitio. Estos archivos pueden incluir logotipos, fotografías, iconos y otros elementos visuales que se utilizan para mejorar el diseño y la apariencia del sitio web.</li>
-    <li><strong>Informes:</strong> Se almacenarán los archivos y documentos que contienen análisis, estadísticas, resultados y cualquier tipo de informe generado a partir de los datos recopilados por el sitio web.</li>
-    <li><strong>Prototipado:</strong> Se almacenarán los archivos y documentos que contienen los prototipos, maquetas o bocetos iniciales de las páginas, funcionalidades y diseño del sitio web.</li>
+    <li><strong><a href="https://github.com/Paradoxeado/prototypeProject/tree/main/Im%C3%A1genes">Imágenes</a></strong> Sección donde se almacenan todos los archivos de imagen utilizados en el sitio. Estos archivos pueden incluir logotipos, fotografías, iconos y otros elementos visuales que se utilizan para mejorar el diseño y la apariencia del sitio web.</li>
+    <li><strong><a href="https://github.com/Paradoxeado/prototypeProject/tree/main/FdD">FdD</a></strong> Se almacenarán los archivos y documentos que contienen análisis, estadísticas, resultados y cualquier tipo de informe generado a partir de los datos recopilados por el sitio web.</li>
+    <li><strong><a href="https://github.com/Paradoxeado/prototypeProject/tree/main/Prototipado">Prototipado</a></strong> Se almacenarán los archivos y documentos que contienen los prototipos, maquetas o bocetos iniciales de las páginas, funcionalidades y diseño del sitio web.</li>
   </ul>
 </div>
 
