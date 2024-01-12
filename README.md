@@ -10,7 +10,10 @@
 <p align="center">
   <img src="https://geniabioenergy.com/wp-content/uploads/2022/02/Las-renovables-como-vectores-de-transformacion-2.jpg" width="750" style="margin: auto;">
 </p>
->Las energías renovables como vectores de transformación en el Fondo de Recuperación Europeo. (s. f.). genia bioenergy. https://geniabioenergy.com/renovables-en-el-fondo-de-transformacion-europeo/
+
+<blockquote>
+  <p>Las energías renovables como vectores de transformación en el Fondo de Recuperación Europeo. (s. f.). genia bioenergy. https://geniabioenergy.com/renovables-en-el-fondo-de-transformacion-europeo/</p>
+</blockquote>
 
 ## Tabla de Contenido
   1. [¿Quiénes somos?](#quiénes-somos)
