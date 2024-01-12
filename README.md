@@ -1,8 +1,7 @@
 <p align="left">
-  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150" style="margin: auto;">
+  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150">
+  <h1 align="center">ElectroScience</h1>
 </p>
-
-<h1 align="center">ElectroScience</h1>
 
 <p align="justify">
   ¡Bienvenidos al espacio colaborativo del Grupo 5 de Fundamentos de Diseño! Nuestro objetivo es explorar juntos los principios fundamentales del diseño, fomentando el aprendizaje y el crecimiento en cada paso que damos. Reconocemos la importancia de cada miembro en este viaje, ya que cada uno aporta valiosas perspectivas y habilidades para crear soluciones impactantes. Utilizaremos un lenguaje técnico y atractivo para comunicar nuestra pasión. ¡Únete a nosotros en este emocionante viaje creativo!
