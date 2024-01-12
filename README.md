@@ -57,5 +57,5 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 | Josue Jhordan Poma Arrieta | Encargado del Diseño y Redacción Web | JosuePoma | josue.poma@upch.pe |
 | Aracely Nicoll Dueñas Condori | Encargada de la Manufactura Digital | NicollDC | aracely.duenas@upch.pe |
 
-Presiona [aquí](https://github.com/Paradoxeado/prototypeProject/tree/main/FdD/Entregables/E01-Sobre-Nosotros.md) para saber más de nosotros!
+Presiona [aquí](https://github.com/Paradoxeado/prototypeProject/tree/main/FdD/Entregables/E01SobreNosotros.md) para saber más de nosotros!
 </p>
