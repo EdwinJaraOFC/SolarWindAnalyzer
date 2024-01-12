@@ -27,7 +27,7 @@
 </p>
 
 ## Información del Proyecto
-### Tema del ODS 7 : Energía asequible y no contaminante
+### Tema del [ODS 7](https://www.un.org/sustainabledevelopment/es/energy/) : Energía asequible y no contaminante
 <p align="justify">
 Este proyecto tiene como objetivo analizar cómo la transición hacia fuentes de energía renovable puede beneficiar a comunidades locales en términos de salud, empleo local y desarrollo sostenible. Se explorará cómo la implementación de energías limpias contribuye al logro del ODS 7, garantizando un acceso equitativo a una energía asequible y sostenible.
 </p>
