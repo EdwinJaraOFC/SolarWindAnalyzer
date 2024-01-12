@@ -15,7 +15,9 @@
   4. [Roles de los miembros](#roles-de-los-miembros)
 
 ## ¿Quiénes somos?
-Somos un grupo de estudiantes apasionados que formamos el Grupo 5 de Fundamentos de Diseño. Nos unimos con entusiasmo y dedicación para explorar los principios fundamentales del diseño. Cada miembro desempeña un papel crucial en nuestro viaje creativo, aportando perspectivas únicas y habilidades que enriquecen nuestra experiencia colectiva.
+<p align="justify">
+  Somos un grupo de estudiantes apasionados que formamos el Grupo 5 de Fundamentos de Diseño. Nos unimos con entusiasmo y dedicación para explorar los principios fundamentales del diseño. Cada miembro desempeña un papel crucial en nuestro viaje creativo, aportando perspectivas únicas y habilidades que enriquecen nuestra experiencia colectiva.
+</p>
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal01.jpg" width="600" style="margin: auto;">
