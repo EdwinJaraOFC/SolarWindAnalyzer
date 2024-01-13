@@ -4,21 +4,28 @@
 </p>
 
 ## Materiales y equipos usados
-| Modelo | Descripción | Cantidad |
-| :------------: | :------------: | :------------: |
-| HY3005BC | Fuente de Alimentación Regulable | 1 |
-| UT139C | Multímetro Digital | 1 |
-| AFG1022 | Generador de Señales | 1 |
-| TBS 1000C Series | Osciloscopio Digital | 1 |
-| - | Cable BNC Male-Male | 1 |
-| - | Punta de Osciloscopio con Conector BNC (Male) | 1 |
-| - | Par de Cables Cocodrilos | 1 |
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+| Modelo           | Descripción                         | Cantidad |
+| :--------------: | :---------------------------------: | :------: |
+| HY3005BC         | Fuente de Alimentación Regulable     |    1     |
+| UT139C           | Multímetro Digital                  |    1     |
+| AFG1022          | Generador de Señales                 |    1     |
+| TBS 1000C Series | Osciloscopio Digital                 |    1     |
+| -                | Cable BNC Male-Male                  |    1     |
+| -                | Punta de Osciloscopio con Conector BNC (Male) | 1 |
+| -                | Par de Cables Cocodrilos             |    1     |
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ## Resultados del Taller
 ### 1. Promedio de errores absoluto y relativo
 <p align="justify">
 Para obtener los siguientes valores, se llevaron a cabo 10 mediciones utilizando las puntas de prueba del multímetro. Además, se utilizó un display conectado a la fuente de alimentación para poder visualizar y registrar los valores de voltaje. El display nos mostraba los valores en tiempo real a medida que la fuente de alimentación suministraba energía al sistema.
 </p>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 | N° | Valor Real | Valor Medido | Error Absoluto | Error Relativo |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
@@ -34,6 +41,7 @@ Para obtener los siguientes valores, se llevaron a cabo 10 mediciones utilizando
 | 10 | 10V | 9.99 | 0.01 | 0.1% |
 | - | - | **Promedio** | 0.0076 | 0.206% |
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Interpretación
 <p align="justify">
