@@ -117,18 +117,18 @@ Se realizaron 10 mediciones de voltaje de 0 V a 10V  para poder hallar los valor
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller05.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller06.jpg" width="600" style="margin: auto;">
 </p>
 
 ### 2. Valores ajustados de la gráfica y valores medidos de la señal de entrada en un periodo
 Usamos un generador  para obtener señales periódicas, para controlar   su periodo y su amplitud (máximo valor que toma la tensión de la señal).
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller06.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller07.jpg" width="600" style="margin: auto;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller07.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller08.jpg" width="600" style="margin: auto;">
 </p>
 
 También se usó un osciloscopio digital que nos transmite señales eléctricas en formas de coordenadas o en específico señales periódicas lo cual nos presenta una gráfica de amplitud,se complementa con un multímetro, una fuente de alimentación y un generador de señales.
@@ -138,7 +138,7 @@ También se usó un osciloscopio digital que nos transmite señales eléctricas 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller08.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller09.jpg" width="600" style="margin: auto;">
 </p>
 
 ### 3. Evidencias de la manipulación de los equipos electrónicos
