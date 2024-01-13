@@ -5,7 +5,7 @@
 
 ## Materiales y equipos usados
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<center>
 
 | Modelo           | Descripción                         | Cantidad |
 | :--------------: | :---------------------------------: | :------: |
@@ -17,7 +17,8 @@
 | -                | Punta de Osciloscopio con Conector BNC (Male) | 1 |
 | -                | Par de Cables Cocodrilos             |    1     |
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</center>
+
 
 
 ## Resultados del Taller
@@ -25,23 +26,24 @@
 <p align="justify">
 Para obtener los siguientes valores, se llevaron a cabo 10 mediciones utilizando las puntas de prueba del multímetro. Además, se utilizó un display conectado a la fuente de alimentación para poder visualizar y registrar los valores de voltaje. El display nos mostraba los valores en tiempo real a medida que la fuente de alimentación suministraba energía al sistema.
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-| N° | Valor Real | Valor Medido | Error Absoluto | Error Relativo |
-| :------------: | :------------: | :------------: | :------------: | :------------: |
-| 1 | 1V | 0.993V | 0.007 | 0.7% |
-| 2 | 2V | 1.99V | 0.01 | 0.5% |
-| 3 | 3V | 2.999V | 0.001 | 0.033% |
-| 4 | 4V | 3.995V | 0.005 | 0.125% |
-| 5 | 5V | 4.997V | 0.003 | 0.06% |
-| 6 | 6V | 5.99V | 0.01 | 0.167% |
-| 7 | 7V | 6.99V | 0.01 | 0.143% |
-| 8 | 8V | 7.99 | 0.01 | 0.125% |
-| 9 | 9V | 8.99 | 0.01 | 0.111% |
-| 10 | 10V | 9.99 | 0.01 | 0.1% |
-| - | - | **Promedio** | 0.0076 | 0.206% |
+<center>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+  | N° | Valor Real | Valor Medido | Error Absoluto | Error Relativo |
+  | :------------: | :------------: | :------------: | :------------: | :------------: |
+  | 1 | 1V | 0.993V | 0.007 | 0.7% |
+  | 2 | 2V | 1.99V | 0.01 | 0.5% |
+  | 3 | 3V | 2.999V | 0.001 | 0.033% |
+  | 4 | 4V | 3.995V | 0.005 | 0.125% |
+  | 5 | 5V | 4.997V | 0.003 | 0.06% |
+  | 6 | 6V | 5.99V | 0.01 | 0.167% |
+  | 7 | 7V | 6.99V | 0.01 | 0.143% |
+  | 8 | 8V | 7.99 | 0.01 | 0.125% |
+  | 9 | 9V | 8.99 | 0.01 | 0.111% |
+  | 10 | 10V | 9.99 | 0.01 | 0.1% |
+  | - | - | **Promedio** | 0.0076 | 0.206% |
+
+</center>
 
 #### Interpretación
 <p align="justify">
