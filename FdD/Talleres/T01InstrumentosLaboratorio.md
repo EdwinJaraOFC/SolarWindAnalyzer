@@ -21,7 +21,7 @@
 
 
 
-## Resultados del Taller
+## Resultados del taller
 ### 1. Promedio de errores absoluto y relativo
 <p align="justify">
 Para obtener los siguientes valores, se llevaron a cabo 10 mediciones utilizando las puntas de prueba del multímetro. Además, se utilizó un display conectado a la fuente de alimentación para poder visualizar y registrar los valores de voltaje. El display nos mostraba los valores en tiempo real a medida que la fuente de alimentación suministraba energía al sistema.
@@ -102,7 +102,7 @@ Por lo tanto, la frecuencia sería de 1000 Hz en lugar de 1 KHz.
 
 El resultado obtenido indica que se ha realizado una lectura precisa del voltaje. Por lo tanto, se procederá con la siguiente medición.
 
-#### Valor del Periodo:
+#### Valor del periodo:
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller04.jpg" width="600" style="margin: auto;">
