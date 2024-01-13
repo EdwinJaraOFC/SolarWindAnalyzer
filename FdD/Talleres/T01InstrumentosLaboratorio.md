@@ -3,7 +3,7 @@
   <h1 align="center">Taller 01: Introducción a los equipos e instrumentos del laboratorio</h1>
 </p>
 
-## Materiales y equipos usados
+## Materiales y equipos utilizados
 
 <p align="center">
 
