@@ -120,7 +120,7 @@ El resultado obtenido indica que se ha realizado una lectura precisa del voltaje
 El resultado de 100 voltios medidos en el osciloscopio digital, a pesar de que se introdujo un voltaje de 5 voltios en el generador de señales, sugiere que hubo un error significativo en la medición. Asumimos qué este tipo de discrepancia puede atribuirse a varios factores técnicos, como la configuración incorrecta del osciloscopio digital, la impedancia de entrada del osciloscopio no coincidente con la impedancia de salida del generador de señales, o incluso una mala conexión entre los equipos. Por lo qué, es crucial verificar las configuraciones y asegurar una buena conexión de los equipos para garantizar mediciones precisas.
 </p>
 
-## Evidencias Fotográficas
+## Evidencias fotográficas
 ### 1. Promedio de errores absolutos y relativos
 <p align="justify">
 Se realizaron 10 mediciones de voltaje de 0 V a 10V  para poder hallar los valores. Asumiendo que lo mostrado en el display de la fuente de alimentación es el valor real.
@@ -152,6 +152,7 @@ También se usó un osciloscopio digital que nos transmite señales eléctricas 
 </p>
 
 ### 3. Evidencias de la manipulación de los equipos electrónicos
+
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal02.jpg" width="600" style="margin: auto;">
 </p>
