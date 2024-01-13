@@ -5,7 +5,7 @@
 
 ## Materiales y equipos usados
 
-<center>
+<p align="center">
 
 | Modelo           | Descripción                         | Cantidad |
 | :--------------: | :---------------------------------: | :------: |
@@ -17,7 +17,7 @@
 | -                | Punta de Osciloscopio con Conector BNC (Male) | 1 |
 | -                | Par de Cables Cocodrilos             |    1     |
 
-</center>
+</p>
 
 
 
@@ -27,7 +27,7 @@
 Para obtener los siguientes valores, se llevaron a cabo 10 mediciones utilizando las puntas de prueba del multímetro. Además, se utilizó un display conectado a la fuente de alimentación para poder visualizar y registrar los valores de voltaje. El display nos mostraba los valores en tiempo real a medida que la fuente de alimentación suministraba energía al sistema.
 </p>
 
-<center>
+<p align="center">
 
   | N° | Valor Real | Valor Medido | Error Absoluto | Error Relativo |
   | :------------: | :------------: | :------------: | :------------: | :------------: |
