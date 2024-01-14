@@ -7,7 +7,9 @@
 - **Coordenadas geográficas:** Latitud -4.95139, Longitud -80.4517
 - **Número de hogares:** 345
 
-IMAGEN
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="600" style="margin: auto;">
+</p>
 
 ## Problemática qué se enfrenta
 La falta de acceso a electricidad en el centro poblado de Santa Ana, específicamente en el sector Los Rufinos.
@@ -15,9 +17,11 @@ La falta de acceso a electricidad en el centro poblado de Santa Ana, específica
 ### Definición del Problema
 El acceso a la energía eléctrica emerge como un componente esencial para el florecimiento y bienestar de las comunidades, especialmente en entornos rurales. Sin embargo, la escasez de este servicio en el centro poblado de Santa Ana, específicamente en el sector Los Rufinos, no solo impacta negativamente en las rutinas diarias de más de 40 familias, sino que también presenta barreras significativas para la adopción de dispositivos electrónicos esenciales en la vida moderna. Este desafío se ve agravado por la carencia de infraestructura vial, que obstaculiza la instalación de transformadores y postes de alumbrado público, así como por no haber acceso al agua potable en las viviendas, limitando drásticamente las opciones de desarrollo y bienestar de la comunidad.
 
-
 La ausencia de energía eléctrica crea dificultades sustanciales en las actividades cotidianas, como cocinar e iluminar los hogares, representando un obstáculo adicional para el acceso a la educación, especialmente en un entorno de educación virtual. Esta problemática no solo afecta el bienestar inmediato de la comunidad, sino que también genera un retraso significativo en su desarrollo integral y socioeconómico. En respuesta a esta situación apremiante, se hace imperativo implementar un proyecto de energía híbrida, ya sea mediante fuentes eólicas o solares. Este proyecto no solo cuenta con la capacidad de potenciar el bienestar en la localidad Los Rufinos, sino que también contribuirá a establecer los fundamentos esenciales para un avance sostenible y equitativo en toda la comunidad.
 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
+</p>
 
 ### Problema General
 **¿Cómo incide la falta de acceso a la energía eléctrica en el progreso  socioeconómico, calidad de vida, acceso a servicios básicos, nivel educativo y perspectiva ambiental de la comunidad del centro poblado Santa Ana, específicamente en el sector Los Rufinos, Piura?**
@@ -42,8 +46,28 @@ Se destaca la urgencia de implementar un proyecto de energía híbrida (eólica 
 
 - **Catalizador para Desarrollo Sostenible:** Más allá de resolver la carencia de energía, se busca establecer un cimiento sólido para el desarrollo sostenible y equitativo a largo plazo en toda la comunidad de Santa Ana.
 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen03.png" width="600" style="margin: auto;">
+</p>
+
+### Herramientas para identificar el problema
+#### Mapa de Empatía
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen04.png" width="600" style="margin: auto;">
+</p>
+
+#### Mapa del viaje del cliente
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen05.png" width="600" style="margin: auto;">
+</p>
+
+#### Diagrama Causa-Efecto
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen06.png" width="600" style="margin: auto;">
+</p>
+
 ---
-## Bibliografía
+### Bibliografía
 Mapa de Hacienda Santa Ana en Piura, Tambo Grande, Perú - Imagen satelital (s. f.). Recuperado de:
 https://mapasamerica.dices.net/peru/mapa.php?nombre=Hacienda-Santa-Ana&id=52204
 
