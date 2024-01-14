@@ -141,3 +141,40 @@ Comprender el impacto del cambio estructural en la intensidad energética es ese
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen13.png" width="600" style="margin: auto;">
 </p>
+
+### Manifestaciones
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Manifestacion01.png" width="600" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Manifestacion02.png" width="600" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Manifestacion03.png" width="600" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Manifestacion04.png" width="600" style="margin: auto;">
+</p>
+
+---
+### Bibliografía
+
+Acceso a los Servicios Básicos en el Perú, 2021. (n.d.). Informes Y Publicaciones - Instituto Nacional De Estadística E Informática - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/inei/informes-publicaciones/3570539-acceso-a-los-servicios-basicos-en-el-peru-2021 
+
+Compendio estadístico, Piura 2022. (n.d.). Informes Y Publicaciones - Instituto Nacional De Estadística E Informática - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/inei/informes-publicaciones/4133920-compendio-estadistico-piura-2022
+
+Inei. (n.d). Instituto Nacional de Estadística E Informática - Perú: Pobreza Monetaria 2022.https://cdn.www.gob.pe/uploads/document/file/4547653/Presentaci%C3%B3n%20del%20jefe%20del%20INEI.pdf?v=1683828485  
+
+Inei. (n.d.). Instituto Nacional de Estadistica e Informatica - Comportamiento de la Economía Peruana en el Tercer Trimestre de 2023  https://cdn.www.gob.pe/uploads/document/file/5472021/4881947-pbi_trimestral_iiit2023.pdf?v=1700833780 
+
+Moran, M. (2017, November 22). Falta de acceso a la energía produce graves consecuencias en el desarrollo de los países menos adelantados. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/2017/11/falta-de-acceso-la-energia-produce-graves-consecuencias-en-el-desarrollo-de-los-paises-menos-adelantados/ 
+
+OLADE, Sistema de Información Energética de Latinoamérica y el Caribe  (SIE, 2020)  Generacion-electrica-mundial-y-para-America-Latina-y-el-Caribe-ALC_01-12-2020.pdf (olade.org)
+
+Roja, N. (2023, March 1). La luz que no llega: la pobreza energética también es un problema de género. Revista Nube Roja. https://revistanuberoja.com/2023/02/02/la-luz-que-no-llega/ 
+
+RPP Noticias. (2023, November 25). Piura: Colegio sin luz ni agua: autoridades no brindan solución [Video]. YouTube. https://www.youtube.com/watch?v=UiFapNZnCvY 
+
+Rpp, R. (2021, March 15). Año escolar 2021: Sin electricidad ni Internet, así inician el año escolar en algunos poblados de Piura. RPP Noticias. https://rpp.pe/peru/piura/ano-escolar-2021-piura-sin-electricidad-ni-internet-asi-inician-el-ano-escolar-en-algunos-poblados-noticia-1326203 
+
+Tracker, L. A. (2023, 24 enero). La brecha de electrificación en Perú: la fuente para negar otros derechos. Carbono News. https://www.carbono.news/energia/la-brecha-de-electrificacion-en-peru-la-fuente-para-negar-otros-derechos/ 
