@@ -15,9 +15,11 @@
 La falta de acceso a electricidad en el centro poblado de Santa Ana, específicamente en el sector Los Rufinos.
 
 ### Definición del Problema
+<p align="justify">
 El acceso a la energía eléctrica emerge como un componente esencial para el florecimiento y bienestar de las comunidades, especialmente en entornos rurales. Sin embargo, la escasez de este servicio en el centro poblado de Santa Ana, específicamente en el sector Los Rufinos, no solo impacta negativamente en las rutinas diarias de más de 40 familias, sino que también presenta barreras significativas para la adopción de dispositivos electrónicos esenciales en la vida moderna. Este desafío se ve agravado por la carencia de infraestructura vial, que obstaculiza la instalación de transformadores y postes de alumbrado público, así como por no haber acceso al agua potable en las viviendas, limitando drásticamente las opciones de desarrollo y bienestar de la comunidad.
 
 La ausencia de energía eléctrica crea dificultades sustanciales en las actividades cotidianas, como cocinar e iluminar los hogares, representando un obstáculo adicional para el acceso a la educación, especialmente en un entorno de educación virtual. Esta problemática no solo afecta el bienestar inmediato de la comunidad, sino que también genera un retraso significativo en su desarrollo integral y socioeconómico. En respuesta a esta situación apremiante, se hace imperativo implementar un proyecto de energía híbrida, ya sea mediante fuentes eólicas o solares. Este proyecto no solo cuenta con la capacidad de potenciar el bienestar en la localidad Los Rufinos, sino que también contribuirá a establecer los fundamentos esenciales para un avance sostenible y equitativo en toda la comunidad.
+</p>
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
