@@ -148,21 +148,6 @@ Es importante destacar que otras fuentes primarias, como el biogás, desechos ve
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen12.png" width="600" style="margin: auto;">
 </p>
 
-
-### Manifestaciones
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Manifestacion01.png" width="600" style="margin: auto;">
-</p>
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Manifestacion02.png" width="600" style="margin: auto;">
-</p>
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Manifestacion03.png" width="600" style="margin: auto;">
-</p>
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/Manifestacion04.png" width="600" style="margin: auto;">
-</p>
-
 ---
 ### Bibliografía
 
