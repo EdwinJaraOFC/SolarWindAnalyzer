@@ -73,9 +73,7 @@ Defensoría del Pueblo (2021b). Defensoría del Pueblo reitera la urgencia de ga
 https://www.defensoria.gob.pe/wp-content/uploads/2021/10/NP-1359-2021.pdf
 
 Morropón, M. D. (2017). Plan de desarrollo económico de la provincia de Morropón 2018-2022.
-
 http://www.cipca.pe/wp-content/uploads/2022/06/PLANDE-MORROPON.pdf 
 
 Pazmiño Echeverría, J. (2007). Proyecto de inversión para el suministro de electricidad en la comunidad facundo vela-provincia de bolìvar, mediante soluciones individuales de equipos fotovoltaicos (Tesis de Grado).
-
 https://www.dspace.espol.edu.ec/handle/123456789/6892
