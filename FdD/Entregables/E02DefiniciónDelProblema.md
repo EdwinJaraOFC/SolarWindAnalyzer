@@ -76,4 +76,4 @@ Morropón, M. D. (2017). Plan de desarrollo económico de la provincia de Morrop
 http://www.cipca.pe/wp-content/uploads/2022/06/PLANDE-MORROPON.pdf 
 
 Pazmiño Echeverría, J. (2007). Proyecto de inversión para el suministro de electricidad en la comunidad facundo vela-provincia de bolìvar, mediante soluciones individuales de equipos fotovoltaicos (Tesis de Grado).
-https://www.dspace.espol.edu.ec/handle/123456789/6892 
+https://www.dspace.espol.edu.ec/handle/123456789/6892
