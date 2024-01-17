@@ -17,7 +17,7 @@ La ausencia de conexión a electricidad afecta gravemente al desarrollo educativ
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="600" style="margin: auto;">
 </p>
 
 ### Características Resaltadas
@@ -47,17 +47,17 @@ Se destaca la urgencia de implementar un proyecto de energía híbrida (eólica 
 ### Herramientas para identificar el problema
 #### Mapa de Empatía
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen04.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen03.png" width="600" style="margin: auto;">
 </p>
 
 #### Mapa del viaje del cliente
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen05.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen04.png" width="600" style="margin: auto;">
 </p>
 
 #### Diagrama Causa-Efecto
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen06.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen05.png" width="600" style="margin: auto;">
 </p>
 
 ---
