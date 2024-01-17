@@ -1,32 +1,24 @@
-# Informe sobre la Falta de Acceso a la Energía Eléctrica en Santa Ana, Piura
+# Definición del Problema
 
 ## Lugar de Estudio
-- **Ubicación del estudio:** Hacienda Santa Ana (Población)
-- **Provincia:** Piura
-- **Distrito:** Tambo Grande
-- **Coordenadas geográficas:** Latitud -4.95139, Longitud -80.4517
-- **Número de hogares:** 345
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="600" style="margin: auto;">
-</p>
+- **Ubicación del estudio:** San Jose Obrero (Colegio)
+- **Departamento:** Piura
+- **Provincia:** Morropón
+- **Distrito:** Chulucanas
 
 ## Problemática qué se enfrenta
-La falta de acceso a electricidad en el centro poblado de Santa Ana, específicamente en el sector Los Rufinos.
+<p align="justify">
+La falta de acceso a la electricidad en el colegio San José Obrera 15357, específicamente en el km 41 carretera a Chulucanas.
+</p>
 
 ### Definición del Problema
 <p align="justify">
-El acceso a la energía eléctrica emerge como un componente esencial para el florecimiento y bienestar de las comunidades, especialmente en entornos rurales. Sin embargo, la escasez de este servicio en el centro poblado de Santa Ana, específicamente en el sector Los Rufinos, no solo impacta negativamente en las rutinas diarias de más de 40 familias, sino que también presenta barreras significativas para la adopción de dispositivos electrónicos esenciales en la vida moderna. Este desafío se ve agravado por la carencia de infraestructura vial, que obstaculiza la instalación de transformadores y postes de alumbrado público, así como por no haber acceso al agua potable en las viviendas, limitando drásticamente las opciones de desarrollo y bienestar de la comunidad.
-
-La ausencia de energía eléctrica crea dificultades sustanciales en las actividades cotidianas, como cocinar e iluminar los hogares, representando un obstáculo adicional para el acceso a la educación, especialmente en un entorno de educación virtual. Esta problemática no solo afecta el bienestar inmediato de la comunidad, sino que también genera un retraso significativo en su desarrollo integral y socioeconómico. En respuesta a esta situación apremiante, se hace imperativo implementar un proyecto de energía híbrida, ya sea mediante fuentes eólicas o solares. Este proyecto no solo cuenta con la capacidad de potenciar el bienestar en la localidad Los Rufinos, sino que también contribuirá a establecer los fundamentos esenciales para un avance sostenible y equitativo en toda la comunidad.
+La ausencia de conexión a electricidad afecta gravemente al desarrollo educativo en el colegio San José, según una nota de prensa emitida por la  Defensoría del Pueblo en Piura (2021).
 </p>
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
 </p>
-
-### Problema General
-**¿Cómo incide la falta de acceso a la energía eléctrica en el progreso  socioeconómico, calidad de vida, acceso a servicios básicos, nivel educativo y perspectiva ambiental de la comunidad del centro poblado Santa Ana, específicamente en el sector Los Rufinos, Piura?**
 
 ### Características Resaltadas
 - **Impacto en Actividades Diarias y Desarrollo Integral:** La carencia de energía eléctrica afecta no solo las rutinas diarias, como cocinar e iluminar hogares, sino que también ralentiza el desarrollo integral y socioeconómico de la comunidad.
@@ -70,8 +62,13 @@ Se destaca la urgencia de implementar un proyecto de energía híbrida (eólica 
 
 ---
 ### Bibliografía
-Mapa de Hacienda Santa Ana en Piura, Tambo Grande, Perú - Imagen satelital (s. f.). Recuperado de:
-https://mapasamerica.dices.net/peru/mapa.php?nombre=Hacienda-Santa-Ana&id=52204
+Servicio Nacional de Meteorología e Hidrología del Perú – SENAMHI (2023), Dirección Zonal 1, boletín climático regional. CLIMA
+https://cdn.www.gob.pe/uploads/document/file/5680699/5041970-monitoreo-clima-setiembre-2023.pdf?v=1705331703
 
-Camacho, L. A. (2023, 21 enero). La brecha de electrificación en Perú. Revista Nube Roja. Recuperado de:
-https://revistanuberoja.com/2023/01/18/la-brecha-de-electrificacion-en-peru-la-fuente-para-negar-otros-derechos/
+Defensoría del Pueblo (2021a). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.
+https://www.defensoria.gob.pe/defensoria-del-pueblo-reitera-la-urgencia-de-garantizar-acceso-a-la-educacion-en-zonas-rurales-de-piura/
+
+Defensoría del Pueblo (2021b). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.
+ https://www.defensoria.gob.pe/wp-content/uploads/2021/10/NP-1359-2021.pdf
+
+Municipalidad Provincial de Morropón - Chulucanas (2018-2022). Plan de Desarrollo Económico de la Provincia de Morropón. http://www.cipca.pe/wp-content/uploads/2022/06/PLANDE-MORROPON.pdf 
