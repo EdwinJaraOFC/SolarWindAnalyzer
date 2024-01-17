@@ -1,17 +1,15 @@
 # Definición del Problema
-
-## Lugar de Estudio
 - **Ubicación del estudio:** San Jose Obrero (Colegio)
 - **Departamento:** Piura
 - **Provincia:** Morropón
 - **Distrito:** Chulucanas
 
-## Problemática qué se enfrenta
+## Problemática que se enfrenta
 <p align="justify">
 La falta de acceso a la electricidad en el colegio San José Obrera 15357, específicamente en el km 41 carretera a Chulucanas.
 </p>
 
-### Definición del Problema
+## Definición del Problema
 <p align="justify">
 La ausencia de conexión a electricidad afecta gravemente al desarrollo educativo en el colegio San José, según una nota de prensa emitida por la  Defensoría del Pueblo en Piura (2021).
 </p>
@@ -20,45 +18,48 @@ La ausencia de conexión a electricidad afecta gravemente al desarrollo educativ
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="600" style="margin: auto;">
 </p>
 
-### Características Resaltadas
-- **Impacto en Actividades Diarias y Desarrollo Integral:** La carencia de energía eléctrica afecta no solo las rutinas diarias, como cocinar e iluminar hogares, sino que también ralentiza el desarrollo integral y socioeconómico de la comunidad.
+## Características resaltadas de la zona
+El plan de gestión de la Municipalidad Provincial de Morropón - Chulucanas para el periodo 2018-2022 menciona aspectos de gran importancia acerca del lugar de estudio, tales como:
 
-- **Barreras para la Educación Virtual:** La carencia de electricidad se convierte en un desafío adicional para involucrarse de manera efectiva en la educación en línea, vital en contextos contemporáneos.
+**Geografía:**
+La región presenta una variedad de pisos ecológicos y diversidad de suelos, así como una amplia gama de estratos socioeconómicos y actividades económicas predominantes.
 
-- **Limitaciones Infraestructurales y de Agua Potable:** La ausencia de infraestructura vial y acceso a agua potable intensifica las dificultades, creando un entorno propicio para la implantación de soluciones energéticas sostenibles.
+**Economía:**
+El área cuenta con una gran cobertura vegetal y presencia de árboles resistentes al clima, como plátanos, mangos, cítricos y otros. Además, se dedica a la ganadería, que constituye la principal fuente de ingresos, al igual que la agricultura, destinada tanto al autoconsumo como a la venta.
 
-- **Imperatividad de Proyecto de Energía Híbrida:**
-Se destaca la urgencia de implementar un proyecto de energía híbrida (eólica o solar) como la solución más adecuada.
+**Clima:**
+El clima en la provincia de Morropón se caracteriza por ser cálido y seco, con una temperatura promedio de alrededor de 24-26°C. La evaporación es alta y las lluvias son irregulares, lo que puede generar ciclos de sequía y lluvias intensas.
 
-- **Impacto Global:** Más allá de mejorar las condiciones locales, el proyecto de energía híbrida se conceptualiza como una base para el progreso sostenible y equitativo en la comunidad en su conjunto.
+**Aspectos Sociales:**
+La vulnerabilidad agrícola resulta de la combinación de factores físicos, como los impactos climáticos en la productividad, y factores sociales, como el nivel educativo, el acceso a la tecnología y el capital disponible, entre otros. Además, se ha observado un aumento en la deforestación debido al uso de la leña para la iluminación y la cocina, Morropón, M. D (2017).
 
-
-### Acciones Propuestas
-- **Implementación de Energía Híbrida:** La iniciativa clave consiste en la instalación de un sistema de energía híbrida, considerando tanto fuentes eólicas como solares.
-
-- **Mejora en Condiciones de Vida:** El proyecto busca mejorar y facilitar en Los Rufinos, abordando sus necesidades básicas y creando un entorno propicio para el bienestar.
-
-- **Catalizador para Desarrollo Sostenible:** Más allá de resolver la carencia de energía, se busca establecer un cimiento sólido para el desarrollo sostenible y equitativo a largo plazo en toda la comunidad de Santa Ana.
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
 </p>
 
-### Herramientas para identificar el problema
-#### Mapa de Empatía
+## Herramientas para identificar el problema
+### Mapa de Empatía
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen03.png" width="600" style="margin: auto;">
 </p>
 
-#### Mapa del viaje del cliente
+### Mapa del viaje del cliente
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen04.png" width="600" style="margin: auto;">
 </p>
 
-#### Diagrama Causa-Efecto
+### Diagrama Causa-Efecto
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen05.png" width="600" style="margin: auto;">
 </p>
+
+## Acciones Propuestas
+- **Implementación de energía híbrida:** La iniciativa clave consiste en la instalación de un sistema de energía híbrida, considerando tanto fuentes eólicas como solares.
+- **Catalizador para Desarrollo Sostenible:** Más allá de resolver la carencia de energía, se busca establecer un cimiento sólido para el desarrollo sostenible y equitativo.
+- **Sistemas fotovoltaicos:** La integración de sistemas fotovoltaicos complementará la generación de energía híbrida, aprovechando la radiación solar disponible en la región.
+- **Generadores para controlar la velocidad del viento:** Estos generadores podrían utilizarse para alimentar sistemas de almacenamiento de energía, como baterías, que permitan aprovechar la energía generada durante vientos fuertes para su uso posterior.
+
 
 ---
 ### Bibliografía
