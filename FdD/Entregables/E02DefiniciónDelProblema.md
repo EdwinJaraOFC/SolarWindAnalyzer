@@ -41,7 +41,7 @@ Se destaca la urgencia de implementar un proyecto de energía híbrida (eólica 
 - **Catalizador para Desarrollo Sostenible:** Más allá de resolver la carencia de energía, se busca establecer un cimiento sólido para el desarrollo sostenible y equitativo a largo plazo en toda la comunidad de Santa Ana.
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen03.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
 </p>
 
 ### Herramientas para identificar el problema
