@@ -6,12 +6,12 @@
 
 ## Problemática que se enfrenta
 <p align="justify">
-La falta de acceso a la electricidad en el colegio San José Obrera 15357, específicamente en el km 41 carretera a Chulucanas.
+La falta de acceso a la electricidad en el colegio San José Obrera 15357, específicamente en el km 41 carretera a Chulucanas. 
 </p>
 
 ## Definición del Problema
 <p align="justify">
-La ausencia de conexión a electricidad afecta gravemente al desarrollo educativo en el colegio San José, según una nota de prensa emitida por la  Defensoría del Pueblo en Piura (2021).
+La ausencia de conexión a electricidad afecta gravemente al desarrollo educativo en el colegio San José, según la nota de prensa emitida por la  Defensoría del Pueblo en Piura (2021).
 </p>
 
 <p align="center">
@@ -19,19 +19,19 @@ La ausencia de conexión a electricidad afecta gravemente al desarrollo educativ
 </p>
 
 ## Características resaltadas de la zona
-El plan de gestión de la Municipalidad Provincial de Morropón - Chulucanas para el periodo 2018-2022 menciona aspectos de gran importancia acerca del lugar de estudio, tales como:
+El plan de gestión de la Municipalidad Provincial de Morropón - Chulucanas para el periodo 2018 - 2022 hace referencia a aspectos significativos relacionados con el sitio en cuestión, tales como:
 
 - **Geografía:**
 La región presenta una variedad de pisos ecológicos y diversidad de suelos, así como una amplia gama de estratos socioeconómicos y actividades económicas predominantes.
 
 - **Economía:**
-El área cuenta con una gran cobertura vegetal y presencia de árboles resistentes al clima, como plátanos, mangos, cítricos y otros. Además, se dedica a la ganadería, que constituye la principal fuente de ingresos, al igual que la agricultura, destinada tanto al autoconsumo como a la venta.
+El área presenta una extensa cobertura vegetal con la presencia de árboles resistentes al clima, como plátanos, mangos, cítricos y otros. Además, se dedica a la ganadería, la cual representa la principal fuente de ingresos, al igual que la agricultura, destinada tanto al autoconsumo como a la comercialización.
 
 - **Clima:**
 El clima en la provincia de Morropón se caracteriza por ser cálido y seco, con una temperatura promedio de alrededor de 24-26°C. La evaporación es alta y las lluvias son irregulares, lo que puede generar ciclos de sequía y lluvias intensas.
 
 - **Aspectos Sociales:**
-La vulnerabilidad agrícola resulta de la combinación de factores físicos, como los impactos climáticos en la productividad, y factores sociales, como el nivel educativo, el acceso a la tecnología y el capital disponible, entre otros. Además, se ha observado un aumento en la deforestación debido al uso de la leña para la iluminación y la cocina, Morropón, M. D (2017).
+La vulnerabilidad agrícola surge de la interacción de factores físicos, como los efectos climáticos en la productividad, y factores sociales, como el nivel educativo, el acceso a la tecnología y el capital disponible, entre otros. Además, se ha registrado un incremento en la tasa de deforestación debido al uso de la biomasa para la iluminación y la cocción (Morropón, M. D, 2017).
 
 
 <p align="center">
@@ -62,7 +62,7 @@ La vulnerabilidad agrícola resulta de la combinación de factores físicos, com
 
 ## Propuesta formal
 ### Sistemas fotovoltaicos
-El aprovechamiento esencial de energías renovables como la solar, eólica y biomasa, dadas su inagotabilidad y baja huella ambiental, contrasta con las no renovables y sus impactos negativos en el medio ambiente (Pazmiño Echeverría, 2007). Considerando la falta de conciencia en la aplicación de las 3 R y las condiciones climáticas en Piura Chulucanas, se presenta una oportunidad para adoptar estas fuentes sostenibles.
+La utilización fundamental de energías renovables como la solar, eólica y biomasa, debido a su inagotabilidad y baja huella ambiental, contrasta con las no renovables y sus impactos adversos en el entorno (Pazmiño Echeverría, 2007). Dada la falta de conciencia en la implementación de las 3 R y las condiciones climáticas en Piura Chulucanas, se identifica una oportunidad para adoptar estas fuentes sostenibles.
 
 ---
 ### Bibliografía
