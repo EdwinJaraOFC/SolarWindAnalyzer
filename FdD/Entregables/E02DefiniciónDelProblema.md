@@ -72,8 +72,8 @@ https://www.defensoria.gob.pe/defensoria-del-pueblo-reitera-la-urgencia-de-garan
 Defensoría del Pueblo (2021b). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.
 https://www.defensoria.gob.pe/wp-content/uploads/2021/10/NP-1359-2021.pdf
 
-Municipalidad Provincial de Morropón - Chulucanas (2018-2022). Plan de Desarrollo Económico de la Provincia de Morropón.
+Morropón, M. D. (2017). Plan de desarrollo económico de la provincia de Morropón 2018-2022.
 http://www.cipca.pe/wp-content/uploads/2022/06/PLANDE-MORROPON.pdf 
 
-Servicio Nacional de Meteorología e Hidrología del Perú – SENAMHI (2023), Dirección Zonal 1, boletín climático regional. CLIMA
-https://cdn.www.gob.pe/uploads/document/file/5680699/5041970-monitoreo-clima-setiembre-2023.pdf?v=1705331703
+Pazmiño Echeverría, J. (2007). Proyecto de inversión para el suministro de electricidad en la comunidad facundo vela-provincia de bolìvar, mediante soluciones individuales de equipos fotovoltaicos (Tesis de Grado).
+https://www.dspace.espol.edu.ec/handle/123456789/6892 
