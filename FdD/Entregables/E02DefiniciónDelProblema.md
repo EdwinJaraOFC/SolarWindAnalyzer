@@ -62,13 +62,14 @@ Se destaca la urgencia de implementar un proyecto de energía híbrida (eólica 
 
 ---
 ### Bibliografía
-Servicio Nacional de Meteorología e Hidrología del Perú – SENAMHI (2023), Dirección Zonal 1, boletín climático regional. CLIMA
-https://cdn.www.gob.pe/uploads/document/file/5680699/5041970-monitoreo-clima-setiembre-2023.pdf?v=1705331703
-
 Defensoría del Pueblo (2021a). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.
 https://www.defensoria.gob.pe/defensoria-del-pueblo-reitera-la-urgencia-de-garantizar-acceso-a-la-educacion-en-zonas-rurales-de-piura/
 
 Defensoría del Pueblo (2021b). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.
- https://www.defensoria.gob.pe/wp-content/uploads/2021/10/NP-1359-2021.pdf
+https://www.defensoria.gob.pe/wp-content/uploads/2021/10/NP-1359-2021.pdf
 
-Municipalidad Provincial de Morropón - Chulucanas (2018-2022). Plan de Desarrollo Económico de la Provincia de Morropón. http://www.cipca.pe/wp-content/uploads/2022/06/PLANDE-MORROPON.pdf 
+Municipalidad Provincial de Morropón - Chulucanas (2018-2022). Plan de Desarrollo Económico de la Provincia de Morropón.
+http://www.cipca.pe/wp-content/uploads/2022/06/PLANDE-MORROPON.pdf 
+
+Servicio Nacional de Meteorología e Hidrología del Perú – SENAMHI (2023), Dirección Zonal 1, boletín climático regional. CLIMA
+https://cdn.www.gob.pe/uploads/document/file/5680699/5041970-monitoreo-clima-setiembre-2023.pdf?v=1705331703
