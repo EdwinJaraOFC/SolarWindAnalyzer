@@ -166,24 +166,21 @@ Es importante destacar que otras fuentes primarias, como el biogás, desechos ve
 ---
 ### Bibliografía
 
-•	Compendio estadístico, Piura 2022. (n.d.). Informes Y Publicaciones - Instituto Nacional De Estadística E Informática - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/inei/informes-publicaciones/4133920-compendio-estadistico-piura-2022
+Compendio estadístico, Piura 2022. (n.d.). Informes Y Publicaciones - Instituto Nacional De Estadística E Informática - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/inei/informes-publicaciones/4133920-compendio-estadistico-piura-2022
 
-•	Compendio estadístico, Piura 2022. (n.d.). Informes Y Publicaciones - Instituto Nacional De Estadística E Informática - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/inei/informes-publicaciones/4133920-compendio-estadistico-piura-2022
+Inei. (n.d.). Instituto Nacional de Estadística e Informática - Comportamiento de la Economía Peruana en el Tercer Trimestre de 2023. https://discord.com/channels/1194096820691927152/1194096820691927157/1196944476908834888
 
-•	https://www.gob.pe/institucion/minem/noticias/350449-minem-produccion-electrica-nacional-registro-4-445-gwh-en-febrero
+Instituto Nacional de Estadística e Informática (2021) . “Acceso a los servicios básicos en el Perú 2021” .  https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1863/libro.pdf
 
-•	Inei. (n.d.). Instituto Nacional de Estadística e Informática - Comportamiento de la Economía Peruana en el Tercer Trimestre de 2023. https://discord.com/channels/1194096820691927152/1194096820691927157/1196944476908834888 
+Leandro Amaya (2023) . La luz que no llega: la pobreza energética también es un problema de género. LatFem. https://latfem.org/la-luz-que-no-llega-la-pobreza-energetica-tambien-es-un-problema-de-genero/
 
-•	Instituto Nacional de Estadística e Informática (2021) . “Acceso a los servicios básicos en el Perú 2021” .  https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1863/libro.pdf 
+Minem: Producción eléctrica nacional registró 4,445 GWh en febrero. (s. f.). Noticias - Ministerio de Energía y Minas - Plataforma del Estado Peruano.
+https://www.gob.pe/institucion/minem/noticias/350449-minem-produccion-electrica-nacional-registro-4-445-gwh-en-febrero
 
-•	Leandro Amaya (2023) . La luz que no llega: la pobreza energética también es un problema de género. LatFem. https://latfem.org/la-luz-que-no-llega-la-pobreza-energetica-tambien-es-un-problema-de-genero/ 
+Moran, M. (2017, November 22). Falta de acceso a la energía produce graves consecuencias en el desarrollo de los países menos adelantados. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/2017/11/falta-de-acceso-la-energia-produce-graves-consecuencias-en-el-desarrollo-de-los-paises-menos-adelantados/ 
 
-•	Minem: Producción eléctrica nacional registró 4,445 GWh en febrero. (s. f.). Noticias - Ministerio de Energía y Minas - Plataforma del Estado Peruano.
+Osinergmin, Encuesta Resistencia de consumo y usos de energía, (2019-2020). https://cdn.www.gob.pe/uploads/document/file/2691020/ERCUE%20Electricidad%202019-2020.pdf
 
-•	Moran, M. (2017, November 22). Falta de acceso a la energía produce graves consecuencias en el desarrollo de los países menos adelantados. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/2017/11 falta-de-acceso-la-energia-produce-graves-consecuencias-en-el-desarrollo-de-los-paises-menos-adelantados/ 
+Perú Panorama general. (s. f.). World Bank. https://www.bancomundial.org/es/country/peru/overview
 
-•	Organización latinoamericana de energía. (2023), Panorama energético de América latina y el carbe.  VisorDocumentos.aspx (olade.org) 
-
-•	Osinergmin, Encuesta Resistencia de consumo y usos de energía, (2019-2020). https://cdn.www.gob.pe/uploads/document/file/2691020/ERCUE%20Electricidad%202019-2020.pdf 
-
-•	Perú Panorama general. (s. f.). World Bank. https://www.bancomundial.org/es/country/peru/overview
+Organización latinoamericana de energía. (2023), Panorama energético de América latina y el carbe.  [VisorDocumentos.aspx (olade.org)](https://sielac.olade.org/WebForms/Reportes/VisorDocumentos.aspx?or=453&documentoId=10000017)https://sielac.olade.org/WebForms/Reportes/VisorDocumentos.aspx?or=453&documentoId=10000017
