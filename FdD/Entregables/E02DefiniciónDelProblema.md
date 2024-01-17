@@ -21,16 +21,16 @@ La ausencia de conexión a electricidad afecta gravemente al desarrollo educativ
 ## Características resaltadas de la zona
 El plan de gestión de la Municipalidad Provincial de Morropón - Chulucanas para el periodo 2018-2022 menciona aspectos de gran importancia acerca del lugar de estudio, tales como:
 
-**Geografía:**
+- **Geografía:**
 La región presenta una variedad de pisos ecológicos y diversidad de suelos, así como una amplia gama de estratos socioeconómicos y actividades económicas predominantes.
 
-**Economía:**
+- **Economía:**
 El área cuenta con una gran cobertura vegetal y presencia de árboles resistentes al clima, como plátanos, mangos, cítricos y otros. Además, se dedica a la ganadería, que constituye la principal fuente de ingresos, al igual que la agricultura, destinada tanto al autoconsumo como a la venta.
 
-**Clima:**
+- **Clima:**
 El clima en la provincia de Morropón se caracteriza por ser cálido y seco, con una temperatura promedio de alrededor de 24-26°C. La evaporación es alta y las lluvias son irregulares, lo que puede generar ciclos de sequía y lluvias intensas.
 
-**Aspectos Sociales:**
+- **Aspectos Sociales:**
 La vulnerabilidad agrícola resulta de la combinación de factores físicos, como los impactos climáticos en la productividad, y factores sociales, como el nivel educativo, el acceso a la tecnología y el capital disponible, entre otros. Además, se ha observado un aumento en la deforestación debido al uso de la leña para la iluminación y la cocina, Morropón, M. D (2017).
 
 
@@ -60,6 +60,9 @@ La vulnerabilidad agrícola resulta de la combinación de factores físicos, com
 - **Sistemas fotovoltaicos:** La integración de sistemas fotovoltaicos complementará la generación de energía híbrida, aprovechando la radiación solar disponible en la región.
 - **Generadores para controlar la velocidad del viento:** Estos generadores podrían utilizarse para alimentar sistemas de almacenamiento de energía, como baterías, que permitan aprovechar la energía generada durante vientos fuertes para su uso posterior.
 
+## Propuesta formal
+### Sistemas fotovoltaicos
+El aprovechamiento esencial de energías renovables como la solar, eólica y biomasa, dadas su inagotabilidad y baja huella ambiental, contrasta con las no renovables y sus impactos negativos en el medio ambiente (Pazmiño Echeverría, 2007). Considerando la falta de conciencia en la aplicación de las 3 R y las condiciones climáticas en Piura Chulucanas, se presenta una oportunidad para adoptar estas fuentes sostenibles.
 
 ---
 ### Bibliografía
