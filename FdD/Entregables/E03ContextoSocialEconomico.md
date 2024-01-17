@@ -183,4 +183,5 @@ Osinergmin, Encuesta Resistencia de consumo y usos de energía, (2019-2020). htt
 
 Perú Panorama general. (s. f.). World Bank. https://www.bancomundial.org/es/country/peru/overview
 
-Organización latinoamericana de energía. (2023), Panorama energético de América latina y el carbe.  [VisorDocumentos.aspx (olade.org)](https://sielac.olade.org/WebForms/Reportes/VisorDocumentos.aspx?or=453&documentoId=10000017)https://sielac.olade.org/WebForms/Reportes/VisorDocumentos.aspx?or=453&documentoId=10000017
+Organización latinoamericana de energía. (2023), Panorama energético de América latina y el carbe.
+https://sielac.olade.org/WebForms/Reportes/VisorDocumentos.aspx?or=453&documentoId=10000017
