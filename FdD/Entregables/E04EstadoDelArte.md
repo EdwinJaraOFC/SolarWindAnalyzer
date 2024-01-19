@@ -9,3 +9,6 @@ Este artículo presenta un sensor predictivo inteligente que utiliza redes neuro
 <p align="justify">
 La adaptabilidad a condiciones locales, respaldada por el entrenamiento con datos específicos de ubicación, garantiza pronósticos más precisos y relevantes para cada entorno. La interfaz de usuario intuitiva no solo simplifica la configuración y visualización de datos, sino que también democratiza el acceso al sensor, haciendo que profesionales de diversas disciplinas aprovechen sus beneficios, más allá de los expertos en inteligencia artificial. Además, la integración eficiente en sistemas de Internet de las Cosas (IoT) amplía su utilidad, facilitando la monitorización remota y la transmisión de datos en tiempo real, esencial para aplicaciones a gran escala y entornos distribuidos. La validación empírica respalda la eficacia del sensor, demostrando su precisión y fiabilidad mediante rigurosas pruebas en diversas condiciones climáticas, (Scopus 2012).
 </p>
+
+#### Ilustración de las funcionalidades requeridas del dispositivo
+---
