@@ -44,8 +44,8 @@ La adaptabilidad a condiciones locales, respaldada por el entrenamiento con dato
 
 ## Contexto Comercial
 ## Productos
-**Producto 1:** Medidor de radiación solar Fluke IRR1-SOL
-**Creador:** Fluke corporation
+**Producto 1:** Medidor de radiación solar Fluke IRR1-SOL<br>
+**Creador:** Fluke corporation<br>
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen04.png" width="400" style="margin: auto;">
@@ -56,7 +56,7 @@ El Fluke IRR1-SOL es un medidor de radiación, ha sido desarrollado con el prop�
 </p>
 
 Extraído de:
-https://www.fluke.com/es-pe/producto/comprobacion-electrica/herramientas-de-energia-solar/flk-irr1-sol#
+https://www.fluke.com/es-pe/producto/comprobacion-electrica/herramientas-de-energia-solar/flk-irr1-sol#<br>
 https://dam-assets.fluke.com/s3fs-public/flk-220224-200400-es-naam-RR1-Soi-irradiance-meter-ds-w_0.pdf?isQmPxDLBawuwtd21Lok8Xi0DWvXM9Dd
 
 **Producto 2:** Anemómetro digital portátil con sensor de temperatura AN200 EXTECH
@@ -71,8 +71,8 @@ El AN200 de EXTECH destaca como un minitermoanemómetro excepcional con un enfoq
 Extraído de:
 https://www.viaindustrial.com/manuales_pdf/anemometro-digital-portatil-con-sensor-de-temperatura-an200-extech-manual-espanol.pdf
 
-**Producto 3:** Medidor de energía solar SP505
-**Creador:** EXCTECH instruments
+**Producto 3:** Medidor de energía solar SP505<br>
+**Creador:** EXCTECH instruments<br>
 
 <p align="justify">
 El Extech SP505 se destaca como un dispositivo esencial para medir la potencia de la radiación solar y facilitar la determinación de la ubicación ideal para instalaciones solares. Su versatilidad abarca la evaluación de la eficacia de la película solar, la medición precisa de la radiación solar y la comprobación de ventanas con aislamiento solar. En la industria automotriz, este medidor de bolsillo también se emplea para verificar la intensidad de los faros. Su utilidad se extiende incluso a la industria de ventanas, donde los fabricantes y propietarios de viviendas en remodelación confían en él para evaluar la transmisión de radiación solar a través de diferentes espesores de vidrio y niveles de tinte. Además, el SP505 ayuda a encontrar el ángulo óptimo de incidencia para maximizar la eficiencia de paneles solares y calentadores de agua solares. El producto se entrega completamente probado y calibrado.
@@ -83,7 +83,7 @@ El Extech SP505 se destaca como un dispositivo esencial para medir la potencia d
 </p>
 
 Extraído de:
-https://www.finaltest.com.mx/v/vspfiles/assets/datasheet/SP505_UM.pdf
+https://www.finaltest.com.mx/v/vspfiles/assets/datasheet/SP505_UM.pdf<br>
 https://www.comerciogc.com/intranet/assets/images/archivos/43-ficha-tecnica.pdf
 
 ## Patentes de Invención
