@@ -99,7 +99,9 @@ https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radia
 Este dispositivo innovador es esencialmente un panel solar inteligente que sigue la trayectoria del sol para maximizar la captación de energía solar. Imagina un panel solar especial con la capacidad de enfocar la luz solar en un punto específico utilizando una lente de Fresnel. Este panel cuenta con un "ojo" especial, un sensor de seguimiento solar, que detecta y sigue el punto focal de la luz concentrada. Además, para una eficiencia óptima, el sistema incorpora detectores de luz solar en diferentes lados del panel. Dos unidades de control ajustan la posición del panel: una basada en la luminosidad general medida por los detectores solares y la otra utilizando información detallada del punto focal de la luz concentrada. Para evitar pérdidas de luz solar valiosa, se emplean lentes estratégicamente colocadas. En resumen, este dispositivo asegura que los paneles solares estén constantemente orientados hacia el sol de la manera más eficiente posible, permitiendo una generación de energía solar óptima.
 </p>
 
-**Imagen**
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente01.png" width="350" style="margin: auto;">
+</p>
 
 ### Patente 2
 **ES2389794B2** - Sistema y método de seguimiento de la radiación solar<br>
@@ -113,7 +115,9 @@ https://patents.google.com/patent/ES2389794B2/es?q=(sensor+de+radiacion+solar)&o
 Imagina un sistema solar inteligente con un marco diseñado para seguir la trayectoria del sol. Este marco incorpora fotosensores que captan la luz solar a través de una abertura estratégica. Un módulo de cálculo evalúa la diferencia entre los datos recopilados por los fotosensores, indicando así la posición del sol. Esta información es luego utilizada por un controlador para ajustar la orientación del marco, asegurando que los paneles solares estén constantemente optimizados para recibir la máxima cantidad de energía solar. En resumen, este sistema garantiza que los paneles estén siempre alineados de manera eficiente, maximizando la eficiencia en la captación de energía solar.
 </p>
 
-**Imagen**
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente02.png" width="350" style="margin: auto;">
+</p>
 
 ### Patente 3
 **ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas<br>
@@ -131,7 +135,9 @@ Sistema que utiliza al menos un sensor en una de las aspas de la turbina para me
 La tabla resultante se utiliza como referencia para determinar, mediante unos medios de búsqueda, el valor de la característica del campo de velocidad del viento en tiempo real, considerando la condición actual del viento. En resumen, el sistema aprovecha la información recopilada previamente para estimar la velocidad del viento actual y, por ende, optimizar el rendimiento de la turbina eólica.
 </p>
 
-**Imagen**
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente03.png" width="350" style="margin: auto;">
+</p>
 
 ### Patente 4
 **ES2553980T3** - Un sensor óptico de viento de turbina eólica<br>
@@ -143,6 +149,10 @@ https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eol
 
 <p align="justify">
 Se trata de un sensor óptico instalado en el rotor de una turbina eólica, compuesto por varias fuentes de luz colocadas angularmente en el rotor. Estas fuentes emiten haces de luz que atraviesan las palas del rotor con ángulos específicos. Dispositivos receptores de luz, también montados en el rotor, detectan destellos de luz provocados por partículas en el viento. Un controlador procesa estos destellos para calcular tiempos de tránsito de las partículas a través de los haces de luz, proporcionando así información sobre la velocidad y dirección del viento tanto en la dirección axial como en el plano de rotación del rotor. En resumen, el sensor utiliza la interacción de la luz con partículas en el viento para medir la velocidad y dirección del viento en diferentes direcciones.
+</p>
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente04.png" width="350" style="margin: auto;">
 </p>
 
 ## Lista de requerimientos
