@@ -3,7 +3,7 @@
 ### Artículo 1
 ### Desarrollo de un sistema de adquisición de datos de campo para variables ambientales y de un sensor de viento, ambos de bajo costo y de arquitectura abierta
 <p align="justify">
-Esta iniciativa se centra en el inicio de la implementación de una estructura abierta orientada a la recopilación de datos ambientales. Asimismo, sienta las bases para explorar la posibilidad de utilizar sensores piezoeléctricos en la medición de la velocidad del viento en al menos una dirección. El estudio está desglosado en dos bloques principales, resaltando la interoperabilidad. Se evidencia que la implementación completa de este sistema puede lograrse a un costo considerablemente inferior en comparación con los sistemas convencionales empleados para medir la velocidad del viento, abriendo así nuevas perspectivas de investigación. El diseño propuesto es económico, presenta una capacidad de memoria destacada y capitaliza los avances en tecnología de memorias con conexión USB (Quesada-Kimsey et al., 2009).
+Este proyecto se enfoca en el comienzo de la aplicación de una estructura abierta dirigida a la recopilación de datos ambientales. También establece las bases para investigar el uso potencial de sensores piezoeléctricos para medir la velocidad del viento en al menos una dirección. La investigación se divide en dos bloques principales, destacando la importancia de la interoperabilidad. Se evidencia que la implementación completa de este sistema puede lograrse a un costo considerablemente inferior en comparación con los sistemas convencionales empleados para medir la velocidad del viento, abriendo así nuevas perspectivas de investigación. El diseño propuesto es económico, presenta una capacidad de memoria destacada y capitaliza los avances en tecnología de memorias con conexión USB (Quesada-Kimsey et al., 2009).
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@ Se realizaron pruebas para evaluar la velocidad del viento mediante un mecanismo
 ### Artículo 2
 ### Diseño IoT y validación de un sistema de medida para generación fotovoltaica
 <p align="justify">
-Este artículo analiza el aumento en el uso de sistemas fotovoltaicos (FV) en la generación de electricidad en Brasil. Este crecimiento se atribuye a la disminución de los costos de los módulos FV y a la introducción del sistema de compensación de energía eléctrica por parte de las empresas de suministro eléctrico. Este cambio ha motivado a los consumidores a invertir en microgeneración FV con el objetivo de reducir sus gastos de energía. El enfoque principal del texto se centra en el desarrollo de un sistema completo, en el contexto del Internet de las Cosas, para supervisar un sistema FV conectado a la red en una institución educativa.
+Este artículo examina el crecimiento en el uso de sistemas fotovoltaicos (FV), atribuyéndole a la disminución de los costos.La medición de corriente se ejecuta mediante el módulo sensor ACS712-20A, resaltando sus conexiones dispuestas entre la entrada DC del inversor y la caja de interruptores de circuito. Esto asegura una medición simultánea con el inversor, cercana a este. En consecuencia, el proyecto del sistema de detección evalúa la potencia suministrada por la secuencia FV y la contrasta con la registrada por el inversor para validar el sistema (Dos Santos et al., 2022).
 </p>
 <p align="justify">
-La aplicación de este sistema IoT ofrece una solución educativa asequible y de código abierto, con hardware programable. Este sistema envía datos a una base que se encuentra ubicada en la nube, permitiendo el acceso remoto desde cualquier lugar. Los resultados obtenidos mediante la metodología de análisis de datos validaron con un error inferior al 1 % los valores medidos de tensión y corriente adquiridos durante un día, demostrando la eficacia del sistema IoT para la medición en sistemas FV, según lo indicado por Dos Santos y colaboradores en 2022. Este enfoque resalta no solo la eficiencia del sistema, sino también su capacidad para ofrecer una solución integral y accesible en el monitoreo de sistemas FV, especialmente en entornos educativos (Dos Santos et al., 2022).
+La implementación de este sistema IoT proporciona una solución educativa asequible y de código abierto, con hardware programable. Los datos se envían a una base en la nube, permitiendo el acceso remoto desde cualquier lugar. Los resultados obtenidos validaron con un error inferior aproximadamente 1% los valores medidos de tensión y corriente adquiridos durante un día, demostrando la eficacia del sistema IoT para la medición en sistemas FV, según lo indicado por  Dos Santos y colaboradores en 2022. Este enfoque resalta no solo la eficiencia del sistema, sino también su capacidad para ofrecer una solución integral y accesible en el monitoreo de sistemas FV, especialmente en entornos educativos (Dos Santos et al., 2022).
 </p>
 
 <p align="center">
@@ -175,7 +175,7 @@ Se trata de un sensor óptico instalado en el rotor de una turbina eólica, comp
 ## Bibliografía
 Bertolotti, F., et al (2013). ES2431829T3 - Sistema sensor eólico que utiliza señales de aspas - Google Patents. https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4<br>
 
-Dos Santos, T. a. D., De Freitas, F. G., Gonçalves, D. L. C., & Jucá, S. C. S. (2022). Diseño IOT y validación de sistema de medida para generación fotovoltaica, 28, 44–52. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S1390-860X2022000200044<br>
+Santos, T. a. D., De Freitas, F. G., Gonçalves, D. L. C., & Jucá, S. C. S. (2022). Design and validation of IoT measurement system for photovoltaic generation. Ingenius: Revista De Ciencia Y Tecnología, 28, 44–52. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S1390-860X2022000200044<br>
 
 Hong, S. et al., (2014) . ES2473640T3 - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia - Google Patents. https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1<br>
 
