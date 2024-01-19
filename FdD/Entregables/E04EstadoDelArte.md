@@ -104,15 +104,15 @@ Este dispositivo innovador es esencialmente un panel solar inteligente que sigue
 </p>
 
 ### Patente 2
-**ES2389794B2** - Sistema y método de seguimiento de la radiación solar<br>
-**Fecha de Publicación:** 31/10/2012<br>
-**Número de Publicación:** 2389794<br>
-**Inventor(es):** Paul Stavrou y David W. Catter<br>
+**WO2008145796** - Sensor de Radiación Solar<br>
+**Fecha de Publicación:** 04/12/2008<br>
+**Número de Publicación:** WO/2008/145796<br>
+**Inventor(es):** CRUZ PERAGON Fernando A.; CASANOVA PELAEZ Pedro; DIAZ GARRIDO Francisco A. y PALOMAR CARNICERO José Manuel<br>
 
-https://patents.google.com/patent/ES2389794B2/es?q=(sensor+de+radiacion+solar)&oq=sensor+de+radiacion+solar 
+https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2008145796&_cid=P11-LRK4L0-55712-1
 
 <p align="justify">
-Imagina un sistema solar inteligente con un marco diseñado para seguir la trayectoria del sol. Este marco incorpora fotosensores que captan la luz solar a través de una abertura estratégica. Un módulo de cálculo evalúa la diferencia entre los datos recopilados por los fotosensores, indicando así la posición del sol. Esta información es luego utilizada por un controlador para ajustar la orientación del marco, asegurando que los paneles solares estén constantemente optimizados para recibir la máxima cantidad de energía solar. En resumen, este sistema garantiza que los paneles estén siempre alineados de manera eficiente, maximizando la eficiencia en la captación de energía solar.
+Esta patente permite medir la radiación incidente global en cada elemento diferencial de la superficie de una semiesfera en todo momento. Utiliza una estructura simple, compacta y sin elementos electromecánicos para obtener dichas medidas. La superficie semiesférica alberga células o sensores de radiación solar, cada uno con un ángulo acimutal terrestre e inclinación distintos. Cada célula está asociada a un sensor de temperatura para corregir derivas térmicas. Las señales de ambos elementos se amplifican y se conectan a un sistema de adquisición, evaluación y gestión de datos, como un ordenador, permitiendo el control del sistema solar asociado al dispositivo.
 </p>
 
 <p align="center">
