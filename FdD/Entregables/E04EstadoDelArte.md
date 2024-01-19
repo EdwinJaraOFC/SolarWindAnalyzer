@@ -88,10 +88,10 @@ https://www.comerciogc.com/intranet/assets/images/archivos/43-ficha-tecnica.pdf
 
 ## Patentes de Invención
 ### Patente 1
-**ES2473640T3** - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia
-**Fecha de Publicación:** 07/07/2014
-**Número de Publicación:** 2473640
-**Inventor(es):** Hong Seokhoon, Kang Mun-Sig y Jang Byung-Seok
+**ES2473640T3** - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia<br>
+**Fecha de Publicación:** 07/07/2014<br>
+**Número de Publicación:** 2473640<br>
+**Inventor(es):** Hong Seokhoon, Kang Mun-Sig y Jang Byung-Seok<br>
 
 https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1
 
@@ -102,10 +102,10 @@ Este dispositivo innovador es esencialmente un panel solar inteligente que sigue
 **Imagen**
 
 ### Patente 2
-**ES2389794B2** - Sistema y método de seguimiento de la radiación solar
-**Fecha de Publicación:** 31/10/2012
-**Número de Publicación:** 2389794
-**Inventor(es):** Paul Stavrou y David W. Catter
+**ES2389794B2** - Sistema y método de seguimiento de la radiación solar<br>
+**Fecha de Publicación:** 31/10/2012<br>
+**Número de Publicación:** 2389794<br>
+**Inventor(es):** Paul Stavrou y David W. Catter<br>
 
 https://patents.google.com/patent/ES2389794B2/es?q=(sensor+de+radiacion+solar)&oq=sensor+de+radiacion+solar 
 
@@ -116,10 +116,10 @@ Imagina un sistema solar inteligente con un marco diseñado para seguir la traye
 **Imagen**
 
 ### Patente 3
-**ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas.
-**Fecha de Publicación:** 28/11/2013
-**Número de Publicación:** 2431829
-**Inventor(es):** Fabio Bertolotti y Jens Carpintero
+**ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas<br>
+**Fecha de Publicación:** 28/11/2013<br>
+**Número de Publicación:** 2431829<br>
+**Inventor(es):** Fabio Bertolotti y Jens Carpintero<br>
 
 https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4
 
@@ -134,10 +134,10 @@ La tabla resultante se utiliza como referencia para determinar, mediante unos me
 **Imagen**
 
 ### Patente 4
-**ES2553980T3** - Un sensor óptico de viento de turbina eólica.
-**Fecha de Publicación:** 15/12/2015
-**Número de Publicación:** 2553980
-**Inventor:** Olessen y IB Svend
+**ES2553980T3** - Un sensor óptico de viento de turbina eólica<br>
+**Fecha de Publicación:** 15/12/2015<br>
+**Número de Publicación:** 2553980<br>
+**Inventor:** Olessen y IB Svend<br>
 
 https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=6
 
