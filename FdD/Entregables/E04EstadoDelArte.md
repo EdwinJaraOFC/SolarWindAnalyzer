@@ -175,8 +175,6 @@ Se trata de un sensor óptico instalado en el rotor de una turbina eólica, comp
 ## Bibliografía
 Bertolotti, F., et al (2013). ES2431829T3 - Sistema sensor eólico que utiliza señales de aspas - Google Patents. https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4<br>
 
-Santos, T. a. D., De Freitas, F. G., Gonçalves, D. L. C., & Jucá, S. C. S. (2022). Design and validation of IoT measurement system for photovoltaic generation. Ingenius: Revista De Ciencia Y Tecnología, 28, 44–52. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S1390-860X2022000200044<br>
-
 Hong, S. et al., (2014) . ES2473640T3 - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia - Google Patents. https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1<br>
 
 Krulce, D. L., et al  (2020). ES2761579T3 - Sistemas y procedimientos para interacción de dispositivos en base a una mirada detectada - Google Patents. https://patents.google.com/patent/ES2761579T3/es?q=(dispositivo+de+ahorro+de+energ%C3%ADa)&oq=dispositivo+de+ahorro+de+energ%C3%ADa<br>
@@ -184,6 +182,8 @@ Krulce, D. L., et al  (2020). ES2761579T3 - Sistemas y procedimientos para inter
 Olesen, I. S. (2015). ES2553980T3 - Un sensor óptico de viento de turbina eólica - Google Patents. https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=6<br>
 
 Quesada-Kimsey, J. et al  (2009). Desarrollo de un sistema de adquisición de datos de campo para variables ambientales y de un sensor de viento, ambos de bajo costo y de arquitectura abierta. https://repositoriotec.tec.ac.cr/handle/2238/5776<br>
+
+Santos, T. a. D., De Freitas, F. G., Gonçalves, D. L. C., & Jucá, S. C. S. (2022). Design and validation of IoT measurement system for photovoltaic generation. Ingenius: Revista De Ciencia Y Tecnología, 28, 44–52. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S1390-860X2022000200044<br>
 
 Scopus preview -  Scopus (2012)  - A Neural Network Based Intelligent Predictive Sensor for Cloudiness, Solar Radiation and Air Temperature. (n.d.). https://www.scopus.com/home.uri<br>
 
