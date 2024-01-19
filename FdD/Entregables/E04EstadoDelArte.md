@@ -23,7 +23,9 @@ Este artículo analiza el aumento en el uso de sistemas fotovoltaicos (FV) en la
 La aplicación de este sistema IoT ofrece una solución educativa asequible y de código abierto, con hardware programable. Este sistema envía datos a una base que se encuentra ubicada en la nube, permitiendo el acceso remoto desde cualquier lugar. Los resultados obtenidos mediante la metodología de análisis de datos validaron con un error inferior al 1 % los valores medidos de tensión y corriente adquiridos durante un día, demostrando la eficacia del sistema IoT para la medición en sistemas FV, según lo indicado por Dos Santos y colaboradores en 2022. Este enfoque resalta no solo la eficiencia del sistema, sino también su capacidad para ofrecer una solución integral y accesible en el monitoreo de sistemas FV, especialmente en entornos educativos (Dos Santos et al., 2022).
 </p>
 
-**Imagen**
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen02.png" width="350" style="margin: auto;">
+</p>
 
 ### Artículo 3
 ### A Neural Network Based Intelligent Predictive Sensor for Cloudiness, Solar Radiation and Air Temperature (Un sensor predictivo inteligente basado en una red neuronal para la nubosidad, la radiación solar y la temperatura del aire)
@@ -36,4 +38,6 @@ La adaptabilidad a condiciones locales, respaldada por el entrenamiento con dato
 </p>
 
 #### Ilustración de las funcionalidades requeridas del dispositivo
-**Imagen**
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen03.png" width="500" style="margin: auto;">
+</p>
