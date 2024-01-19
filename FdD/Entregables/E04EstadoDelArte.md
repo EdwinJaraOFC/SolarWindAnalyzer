@@ -46,7 +46,10 @@ La adaptabilidad a condiciones locales, respaldada por el entrenamiento con dato
 ## Productos
 **Producto 1:** Medidor de radiación solar Fluke IRR1-SOL
 **Creador:** Fluke corporation
-**Imagen**
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen04.png" width="350" style="margin: auto;">
+</p>
 
 <p align="justify">
 El Fluke IRR1-SOL es un medidor de radiación, ha sido desarrollado con el propósito de simplificar el proceso de instalación, puesta en marcha y mantenimiento de sistemas fotovoltaicos a través de un único dispositivo fácil de manejar. Este instrumento portátil posibilita la medición de radiación solar, temperatura, inclinación y dirección de los paneles, cumpliendo con los estándares de la normativa IEC 62446-1. Gracias a su diseño compacto y robusto, acompañado de una pantalla LCD de alto contraste, su utilización se facilita en diversos entornos. Equipado con funciones como brújula integrada y sensor de inclinación, el IRR1-SOL permite medir y documentar de manera eficiente la orientación del techo, la instalación, así como el ángulo e inclinación de los paneles. Asimismo, puede emplearse para el diseño, supervisión y comparación del rendimiento de sistemas fotovoltaicos, asegurando que estos generen la potencia eléctrica prevista en relación con la radiación solar recibida.
@@ -57,7 +60,9 @@ https://www.fluke.com/es-pe/producto/comprobacion-electrica/herramientas-de-ener
 https://dam-assets.fluke.com/s3fs-public/flk-220224-200400-es-naam-RR1-Soi-irradiance-meter-ds-w_0.pdf?isQmPxDLBawuwtd21Lok8Xi0DWvXM9Dd
 
 **Producto 2:** Anemómetro digital portátil con sensor de temperatura AN200 EXTECH
-**Imagen**
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen05.png" width="350" style="margin: auto;">
+</p>
 
 <p align="justify">
 El AN200 de EXTECH destaca como un minitermoanemómetro excepcional con un enfoque especial en la medición del viento. Este dispositivo versátil no solo cuenta con un termómetro infrarrojo para medir la temperatura de superficies remotas hasta 500 °F (260 °C) con puntero láser, sino que también tiene la capacidad de mostrar simultáneamente el flujo de aire o la velocidad del viento junto con la temperatura ambiente. Sus características avanzadas incluyen la memorización de dimensiones de área configurables (ft² o m²) para mayor comodidad. Con una rueda de paleta de baja fricción y una precisión de velocidad del 3%, el AN200 proporciona mediciones precisas y fiables del viento. Viene completo con una batería de 9 voltios, funda protectora de goma y estuche, siendo una herramienta integral y práctica para profesionales que buscan un medidor de viento de alto rendimiento.
@@ -73,7 +78,9 @@ https://www.viaindustrial.com/manuales_pdf/anemometro-digital-portatil-con-senso
 El Extech SP505 se destaca como un dispositivo esencial para medir la potencia de la radiación solar y facilitar la determinación de la ubicación ideal para instalaciones solares. Su versatilidad abarca la evaluación de la eficacia de la película solar, la medición precisa de la radiación solar y la comprobación de ventanas con aislamiento solar. En la industria automotriz, este medidor de bolsillo también se emplea para verificar la intensidad de los faros. Su utilidad se extiende incluso a la industria de ventanas, donde los fabricantes y propietarios de viviendas en remodelación confían en él para evaluar la transmisión de radiación solar a través de diferentes espesores de vidrio y niveles de tinte. Además, el SP505 ayuda a encontrar el ángulo óptimo de incidencia para maximizar la eficiencia de paneles solares y calentadores de agua solares. El producto se entrega completamente probado y calibrado.
 </p>
 
-**Imagen**
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen06.png" width="350" style="margin: auto;">
+</p>
 
 Extraído de:
 https://www.finaltest.com.mx/v/vspfiles/assets/datasheet/SP505_UM.pdf
