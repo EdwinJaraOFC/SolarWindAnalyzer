@@ -48,7 +48,7 @@ La adaptabilidad a condiciones locales, respaldada por el entrenamiento con dato
 **Creador:** Fluke corporation
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen04.png" width="500" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen04.png" width="400" style="margin: auto;">
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ El Extech SP505 se destaca como un dispositivo esencial para medir la potencia d
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen06.png" width="500" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen06.png" width="550" style="margin: auto;">
 </p>
 
 Extraído de:
