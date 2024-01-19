@@ -7,7 +7,7 @@ Esta iniciativa se centra en el inicio de la implementación de una estructura a
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen01.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen01.png" width="200" style="margin: auto;">
 </p>
 
 <p align="justify">
