@@ -166,7 +166,7 @@ Se trata de un sensor óptico instalado en el rotor de una turbina eólica, comp
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen07.png" width="650" style="margin: auto;">
 </p>
 
-### Estrategias de solución
+### Estrategia de solución
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen09.png" width="650" style="margin: auto;">
 </p>
