@@ -6,7 +6,10 @@
 Esta iniciativa se centra en el inicio de la implementación de una estructura abierta orientada a la recopilación de datos ambientales. Asimismo, sienta las bases para explorar la posibilidad de utilizar sensores piezoeléctricos en la medición de la velocidad del viento en al menos una dirección. El estudio está desglosado en dos bloques principales, resaltando la interoperabilidad. Se evidencia que la implementación completa de este sistema puede lograrse a un costo considerablemente inferior en comparación con los sistemas convencionales empleados para medir la velocidad del viento, abriendo así nuevas perspectivas de investigación. El diseño propuesto es económico, presenta una capacidad de memoria destacada y capitaliza los avances en tecnología de memorias con conexión USB (Quesada-Kimsey et al., 2009).
 </p>
 
-**Imagen**
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen01.png" width="600" style="margin: auto;">
+</p>
+
 <p align="justify">
 Se realizaron pruebas para evaluar la velocidad del viento mediante un mecanismo específico. Se ajustaron las velocidades del viento utilizando una secadora de pelo de 2 velocidades, ubicada a diversas distancias del sensor (50 cm, 75 cm, 110 cm y 150 cm). Se desactivó la función de calentamiento de la secadora para asegurar un flujo uniforme, a diferencia de los abanicos de computadora. Para obtener mediciones estándar de velocidad del viento, se empleó un anemómetro de cazoletas Thies Clima como punto de referencia. La digitalización de los datos se realizó mediante el datalogger CEC webDAQ/100. La información recopilada del medidor de velocidad del viento con cazoletas fue analizada mediante C#, el cual transformó la frecuencia a velocidades en m/s y km/h. (Quesada-Kimsey et al., 2009).
 </p>
