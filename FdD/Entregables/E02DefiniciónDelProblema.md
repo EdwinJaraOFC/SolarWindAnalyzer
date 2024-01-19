@@ -11,7 +11,7 @@ La falta de acceso a la electricidad en el colegio San José Obrera 15357, espec
 
 ## Definición del Problema
 <p align="justify">
-La ausencia de conexión a electricidad afecta gravemente al desarrollo educativo en el colegio San José, según la nota de prensa emitida por la  Defensoría del Pueblo en Piura (2021).
+La falta de electricidad en el colegio de San José Obrero impide el desarrollo educativo.
 </p>
 
 <p align="center">
@@ -70,9 +70,8 @@ La vulnerabilidad agrícola surge de la interacción de factores físicos, como 
 - **Generadores para controlar la velocidad del viento:** Estos generadores podrían utilizarse para alimentar sistemas de almacenamiento de energía, como baterías, que permitan aprovechar la energía generada durante vientos fuertes para su uso posterior.
 
 ## Propuesta formal
-### Sistemas fotovoltaicos
 <p align="justify">
-La utilización fundamental de energías renovables como la solar, eólica y biomasa, debido a su inagotabilidad y baja huella ambiental, contrasta con las no renovables y sus impactos adversos en el entorno (Pazmiño Echeverría, 2007). Dada la falta de conciencia en la implementación de las 3 R y las condiciones climáticas en Piura Chulucanas, se identifica una oportunidad para adoptar estas fuentes sostenibles.
+Crear un sistema de baja potencia a base de sensores que puedan monitorear las características de la radiación solar y la velocidad del viento,  con el objetivo de transmitir datos desde los sensores y dispositivos IoT hacia la plataforma central.
 </p>
 
 ---
