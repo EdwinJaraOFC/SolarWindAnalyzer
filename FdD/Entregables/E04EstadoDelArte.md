@@ -107,7 +107,7 @@ Este dispositivo innovador es esencialmente un panel solar inteligente que sigue
 **WO2008145796** - Sensor de Radiación Solar<br>
 **Fecha de Publicación:** 04/12/2008<br>
 **Número de Publicación:** WO/2008/145796<br>
-**Inventor(es):** CRUZ PERAGON Fernando A.; CASANOVA PELAEZ Pedro; DIAZ GARRIDO Francisco A. y PALOMAR CARNICERO José Manuel<br>
+**Inventor(es):** Cruz Peragon Fernando, Casanova Pelaez Pedro, Diaz Garrido Francisco y Palomar Carnicero José<br>
 
 https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2008145796&_cid=P11-LRK4L0-55712-1
 
