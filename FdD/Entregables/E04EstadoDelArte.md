@@ -100,7 +100,7 @@ Este dispositivo innovador es esencialmente un panel solar inteligente que sigue
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente01.png" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente01.png" width="550" style="margin: auto;">
 </p>
 
 ### Patente 2
@@ -116,7 +116,7 @@ Imagina un sistema solar inteligente con un marco diseñado para seguir la traye
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente02.png" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente02.png" width="550" style="margin: auto;">
 </p>
 
 ### Patente 3
@@ -136,7 +136,7 @@ La tabla resultante se utiliza como referencia para determinar, mediante unos me
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente03.png" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente03.png" width="550" style="margin: auto;">
 </p>
 
 ### Patente 4
@@ -152,7 +152,7 @@ Se trata de un sensor óptico instalado en el rotor de una turbina eólica, comp
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente04.png" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente04.png" width="550" style="margin: auto;">
 </p>
 
 ## Lista de requerimientos
