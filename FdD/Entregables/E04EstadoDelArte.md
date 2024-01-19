@@ -87,3 +87,65 @@ https://www.finaltest.com.mx/v/vspfiles/assets/datasheet/SP505_UM.pdf
 https://www.comerciogc.com/intranet/assets/images/archivos/43-ficha-tecnica.pdf
 
 ## Patentes de Invención
+### Patente 1
+**ES2473640T3** - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia
+**Fecha de Publicación:** 07/07/2014
+**Número de Publicación:** 2473640
+**Inventor(es):** Hong Seokhoon, Kang Mun-Sig y Jang Byung-Seok
+
+https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1
+
+<p align="justify">
+Este dispositivo innovador es esencialmente un panel solar inteligente que sigue la trayectoria del sol para maximizar la captación de energía solar. Imagina un panel solar especial con la capacidad de enfocar la luz solar en un punto específico utilizando una lente de Fresnel. Este panel cuenta con un "ojo" especial, un sensor de seguimiento solar, que detecta y sigue el punto focal de la luz concentrada. Además, para una eficiencia óptima, el sistema incorpora detectores de luz solar en diferentes lados del panel. Dos unidades de control ajustan la posición del panel: una basada en la luminosidad general medida por los detectores solares y la otra utilizando información detallada del punto focal de la luz concentrada. Para evitar pérdidas de luz solar valiosa, se emplean lentes estratégicamente colocadas. En resumen, este dispositivo asegura que los paneles solares estén constantemente orientados hacia el sol de la manera más eficiente posible, permitiendo una generación de energía solar óptima.
+</p>
+
+**Imagen**
+
+### Patente 2
+**ES2389794B2** - Sistema y método de seguimiento de la radiación solar
+**Fecha de Publicación:** 31/10/2012
+**Número de Publicación:** 2389794
+**Inventor(es):** Paul Stavrou y David W. Catter
+
+https://patents.google.com/patent/ES2389794B2/es?q=(sensor+de+radiacion+solar)&oq=sensor+de+radiacion+solar 
+
+<p align="justify">
+Imagina un sistema solar inteligente con un marco diseñado para seguir la trayectoria del sol. Este marco incorpora fotosensores que captan la luz solar a través de una abertura estratégica. Un módulo de cálculo evalúa la diferencia entre los datos recopilados por los fotosensores, indicando así la posición del sol. Esta información es luego utilizada por un controlador para ajustar la orientación del marco, asegurando que los paneles solares estén constantemente optimizados para recibir la máxima cantidad de energía solar. En resumen, este sistema garantiza que los paneles estén siempre alineados de manera eficiente, maximizando la eficiencia en la captación de energía solar.
+</p>
+
+**Imagen**
+
+### Patente 3
+**ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas.
+**Fecha de Publicación:** 28/11/2013
+**Número de Publicación:** 2431829
+**Inventor(es):** Fabio Bertolotti y Jens Carpintero
+
+https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4
+
+<p align="justify">
+Sistema que utiliza al menos un sensor en una de las aspas de la turbina para medir una cantidad física que refleja una característica del campo de velocidad del viento. Esta información se procesa a través de una tabla que se ha construido previamente, asociando los valores de los componentes cíclicos y constantes de la señal del sensor con los valores correspondientes de la velocidad del viento bajo diversas condiciones.
+</p>
+
+<p align="justify">
+La tabla resultante se utiliza como referencia para determinar, mediante unos medios de búsqueda, el valor de la característica del campo de velocidad del viento en tiempo real, considerando la condición actual del viento. En resumen, el sistema aprovecha la información recopilada previamente para estimar la velocidad del viento actual y, por ende, optimizar el rendimiento de la turbina eólica.
+</p>
+
+**Imagen**
+
+### Patente 4
+**ES2553980T3** - Un sensor óptico de viento de turbina eólica.
+**Fecha de Publicación:** 15/12/2015
+**Número de Publicación:** 2553980
+**Inventor:** Olessen y IB Svend
+
+https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=6
+
+<p align="justify">
+Se trata de un sensor óptico instalado en el rotor de una turbina eólica, compuesto por varias fuentes de luz colocadas angularmente en el rotor. Estas fuentes emiten haces de luz que atraviesan las palas del rotor con ángulos específicos. Dispositivos receptores de luz, también montados en el rotor, detectan destellos de luz provocados por partículas en el viento. Un controlador procesa estos destellos para calcular tiempos de tránsito de las partículas a través de los haces de luz, proporcionando así información sobre la velocidad y dirección del viento tanto en la dirección axial como en el plano de rotación del rotor. En resumen, el sensor utiliza la interacción de la luz con partículas en el viento para medir la velocidad y dirección del viento en diferentes direcciones.
+</p>
+
+## Lista de requerimientos
+### Funcionales
+### No funcionales
+### Estrategias de solución
