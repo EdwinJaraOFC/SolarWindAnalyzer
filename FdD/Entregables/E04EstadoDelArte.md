@@ -112,7 +112,7 @@ Este dispositivo innovador es esencialmente un panel solar inteligente que sigue
 https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2008145796&_cid=P11-LRK4L0-55712-1
 
 <p align="justify">
-Esta patente permite medir la radiación incidente global en cada elemento diferencial de la superficie de una semiesfera en todo momento. Utiliza una estructura simple, compacta y sin elementos electromecánicos para obtener dichas medidas. La superficie semiesférica alberga células o sensores de radiación solar, cada uno con un ángulo acimutal terrestre e inclinación distintos. Cada célula está asociada a un sensor de temperatura para corregir derivas térmicas. Las señales de ambos elementos se amplifican y se conectan a un sistema de adquisición, evaluación y gestión de datos, como un ordenador, permitiendo el control del sistema solar asociado al dispositivo.
+Esta patente posibilita la medición constante de la radiación incidente global en cada unidad diferencial de la superficie de una semiesfera. Emplea una estructura sencilla y compacta, prescindiendo de elementos electromecánicos para realizar estas mediciones. La superficie semiesférica aloja células o sensores de radiación solar, cada uno con ángulos acimutales terrestres e inclinaciones únicos. Cada célula está emparejada a un sensor de temperatura, cuya función es corregir las variaciones térmicas en las señales medidas. Las señales de ambas unidades se amplifican y se conectan a un sistema de adquisición, evaluación y gestión de datos, como un ordenador, posibilitando así el control del sistema solar vinculado al dispositivo.
 </p>
 
 <p align="center">
