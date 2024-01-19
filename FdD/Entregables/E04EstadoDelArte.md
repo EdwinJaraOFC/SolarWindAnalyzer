@@ -24,7 +24,7 @@ La aplicación de este sistema IoT ofrece una solución educativa asequible y de
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen02.png" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen02.png" width="500" style="margin: auto;">
 </p>
 
 ### Artículo 3
