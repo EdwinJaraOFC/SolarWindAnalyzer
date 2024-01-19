@@ -48,7 +48,7 @@ La adaptabilidad a condiciones locales, respaldada por el entrenamiento con dato
 **Creador:** Fluke corporation
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen04.png" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen04.png" width="500" style="margin: auto;">
 </p>
 
 <p align="justify">
@@ -61,7 +61,7 @@ https://dam-assets.fluke.com/s3fs-public/flk-220224-200400-es-naam-RR1-Soi-irrad
 
 **Producto 2:** Anemómetro digital portátil con sensor de temperatura AN200 EXTECH
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen05.png" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen05.png" width="500" style="margin: auto;">
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ El Extech SP505 se destaca como un dispositivo esencial para medir la potencia d
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen06.png" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen06.png" width="500" style="margin: auto;">
 </p>
 
 Extraído de:
