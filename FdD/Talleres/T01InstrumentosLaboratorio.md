@@ -1,6 +1,19 @@
-<p align="left">
+<p align="center">
   <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
   <h1 align="center">Taller 01: Introducción a los equipos e instrumentos del laboratorio</h1>
+</p>
+
+<p align="center">
+  
+  ### Docentes:
+
+  - Mg Umbert Lewis De La Cruz  
+  - Mg. Paulo Camilo Vela Antón 
+  - Mg. Moises Stevend Meza Rodriguez 
+  - Dr. Harry Anderson Rivera Tito 
+  - Ing. Juan Manuel Zuñiga Mamani  
+  - Ing. Renzo José Chan Ríos
+    
 </p>
 
 ## Materiales y equipos utilizados
