@@ -204,8 +204,6 @@ Olesen, I. S. (2015). ES2553980T3 - Un sensor óptico de viento de turbina eóli
 
 Quesada-Kimsey, J. et al  (2009). Desarrollo de un sistema de adquisición de datos de campo para variables ambientales y de un sensor de viento, ambos de bajo costo y de arquitectura abierta. https://repositoriotec.tec.ac.cr/handle/2238/5776<br>
 
-Santos, T. a. D., De Freitas, F. G., Gonçalves, D. L. C., & Jucá, S. C. S. (2022). Design and validation of IoT measurement system for photovoltaic generation. Ingenius: Revista De Ciencia Y Tecnología, 28, 44–52. http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S1390-860X2022000200044<br>
-
 Scopus preview -  Scopus (2012)  - A Neural Network Based Intelligent Predictive Sensor for Cloudiness, Solar Radiation and Air Temperature. (n.d.). https://www.scopus.com/home.uri<br>
 
 Solpro. (2021). ¿Qué ventajas tiene instalar placas solares en los colegios? SOLPRO ENERGIA SOLAR. https://solproenergiasolar.com/ventajas-de-instalar-placas-solares-en-los-colegios/<br>
