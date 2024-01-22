@@ -1,58 +1,59 @@
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-  <center>
+  <p align="center">
     <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
-  <h1 style="margin-top: 30px; margin-bottom: 0px;">Facultad de Ciencias e ingeniería “Alberto Cazorla Talleri”</h1>
+  </p>  
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Facultad de Ciencias e ingeniería “Alberto Cazorla Talleri”</h1>
 </p>
 
 <h2 align="center" style="font-family: Arial, sans-serif;">Taller 01: Introducción a los equipos e instrumentos del laboratorio</h2>
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-  <strong>Docentes:</strong>
+  <strong> Docentes:</strong>
   <br><br>
-  - Mg Umbert Lewis De La Cruz
+  Mg Umbert Lewis De La Cruz
   <br>
-  - Mg. Paulo Camilo Vela Antón 
+  Mg. Paulo Camilo Vela Antón 
   <br>
-  - Mg. Moises Stevend Meza Rodriguez 
+  Mg. Moises Stevend Meza Rodriguez 
   <br>
-  - Dr. Harry Anderson Rivera Tito 
+  Dr. Harry Anderson Rivera Tito 
   <br>
-  - Ing. Juan Manuel Zuñiga Mamani  
+  Ing. Juan Manuel Zuñiga Mamani  
   <br>
-  - Ing. Renzo José Chan Ríos
+  Ing. Renzo José Chan Ríos
   <br><br>
-  <strong>Elaborado por:</strong>
+  <strong> Elaborado por:</strong>
+  <br><br>
+  Amparo Marleny Vidaurre Juárez
   <br>
-  + Amparo Marleny Vidaurre Juárez
+  Edwin Junior Jara Bocanegra
   <br>
-  + Edwin Junior Jara Bocanegra
+  Antony Iván Mendoza Villar
   <br>
-  + Antony Iván Mendoza Villar
+  Josue Jhordan Poma Arrieta
   <br>
-  + Josue Jhordan Poma Arrieta
-  <br>
-  + Aracely Nicoll Dueñas Condori
+  Aracely Nicoll Dueñas Condori
 </p>
 
 <hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
 
 ## Materiales y equipos utilizados
 
-<p align="center">
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
 
-| Modelo           | Descripción                         | Cantidad |
-| :--------------: | :---------------------------------: | :------: |
-| HY3005BC         | Fuente de Alimentación Regulable     |    1     |
-| UT139C           | Multímetro Digital                  |    1     |
-| AFG1022          | Generador de Señales                 |    1     |
-| TBS 1000C Series | Osciloscopio Digital                 |    1     |
-| -                | Cable BNC Male-Male                  |    1     |
-| -                | Punta de Osciloscopio con Conector BNC (Male) | 1 |
-| -                | Par de Cables Cocodrilos             |    1     |
+  | Modelo           | Descripción                         | Cantidad |
+  | :--------------: | :---------------------------------: | :------: |
+  | HY3005BC         | Fuente de Alimentación Regulable     |    1     |
+  | UT139C           | Multímetro Digital                  |    1     |
+  | AFG1022          | Generador de Señales                 |    1     |
+  | TBS 1000C Series | Osciloscopio Digital                 |    1     |
+  | -                | Cable BNC Male-Male                  |    1     |
+  | -                | Punta de Osciloscopio con Conector BNC (Male) | 1 |
+  | -                | Par de Cables Cocodrilos             |    1     |
 
 </p>
 
-## Resultados del taller
+## Resultados del laboratorio
 ### 1. Promedio de errores absoluto y relativo
 <p align="justify">
 Para obtener los siguientes valores, se llevaron a cabo 10 mediciones utilizando las puntas de prueba del multímetro. Además, se utilizó un display conectado a la fuente de alimentación para poder visualizar y registrar los valores de voltaje. El display nos mostraba los valores en tiempo real a medida que la fuente de alimentación suministraba energía al sistema.
@@ -163,31 +164,36 @@ Se realizaron 10 mediciones de voltaje de 0 V a 10V  para poder hallar los valor
 
 ### 2. Valores ajustados de la gráfica y valores medidos de la señal de entrada en un periodo
 Usamos un generador  para obtener señales periódicas, para controlar   su periodo y su amplitud (máximo valor que toma la tensión de la señal).
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller07.jpg" alt="" width="500">
+        </td>
+          <td style="border: 0px solid #ddd; padding: 6px;">
+            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller08.jpg" alt="" width="500">
+        </td>
+</table>  
 
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller07.jpg" width="600" style="margin: auto;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller08.jpg" width="600" style="margin: auto;">
-</p>
 
 También se usó un osciloscopio digital que nos transmite señales eléctricas en formas de coordenadas o en específico señales periódicas lo cual nos presenta una gráfica de amplitud,se complementa con un multímetro, una fuente de alimentación y un generador de señales.
 
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller02.jpg" width="600" style="margin: auto;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller09.jpg" width="600" style="margin: auto;">
-</p>
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller02.jpg" alt="" width="500">
+        </td>
+          <td style="border: 0px solid #ddd; padding: 6px;">
+            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller09.jpg" alt="" width="500">
+        </td>
+</table> 
 
 ### 3. Evidencias de la manipulación de los equipos electrónicos
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal02.jpg" width="600" style="margin: auto;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal03.jpg" width="600" style="margin: auto;">
-</p>
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal02.jpg" alt="" width="500">
+        </td>
+          <td style="border: 0px solid #ddd; padding: 6px;">
+            <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal03.jpg" alt="" width="500">
+        </td>
+</table> 
