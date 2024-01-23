@@ -89,14 +89,12 @@ Al momento de calcular el valor total , se encontró que era de 400 ohmios.
 #### Ejercicio 3
 Este experimento representa un circuito eléctrico que  está compuesto por seis resistencias (R1 a R6) de 1000 ohm cada una. Donde, se realizaron los siguientes cálculos:
 
-En serie:
-
+**En serie**
 R13 = R1  +  R3 = 2000 ohm
 R24 = R2  +  R4 = 2000 ohm
 R56 = R5  +  R6 = 2000 ohm
 
-En paralelo:
-
+**En paralelo**
 RT = 1 /(1/R13 + 1/R24 + 1/R56) = 666.67 ohm
 
 <div align="center"; style="display: flex; justify-content: space-between;">
@@ -104,8 +102,10 @@ RT = 1 /(1/R13 + 1/R24 + 1/R56) = 666.67 ohm
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller22.jpg" width="300px"/>
 </div>
 
-Resultado:
+**Resultado**
+<p align="justify">
 Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál primero hemos realizado el circuito con resistencias y el protoboard. Luego, realizamos el test y se comprobó qué es correcto el cálculo y el circuito eléctrico.
+</p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller23.jpg" width="300px"/>
@@ -113,21 +113,21 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
 </div>
 
 #### Ejercicio 4
-##### Circuito divisor de tensión
+**Circuito divisor de tensión**
 - **Definición:** Es un arreglo de resistencias que divide un voltaje de entrada en una proporción específica.
 - **Relación con la ley de Ohm:** el voltaje en un circuito divisor es proporcional a la resistencia utilizada.
 
-##### Componentes del Circuito
+**Componentes del Circuito**
 - **Resistencias:** componentes utilizados para dividir el voltaje de entrada.
 - **Funcionamiento:** las resistencias en serie dividen el voltaje total según su valor.
 
-##### Cálculo de las resistencias 1 y 2 
+**Cálculo de las resistencias 1 y 2**
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller15.jpg" width="300px">
 </p>
 
-##### Imagen del circuito divisor de tensión
+**Imagen del circuito divisor de tensión**
 <p align="justify">
 La tensión se divide entre las resistencias en serie, y luego esa tensión dividida se divide nuevamente entre las resistencias en paralelo. Esto nos permite obtener una salida con un valor de tensión específico basado en la configuración de las resistencias.
 </p>
@@ -137,7 +137,7 @@ La tensión se divide entre las resistencias en serie, y luego esa tensión divi
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller24.jpg" width="300px"/>
 </div>
 
-##### Resultado 
+**Resultado**
 <p align="justify">
 El multímetro es una herramienta fundamental en la medición de resistencia eléctrica. Al conectar el multitester entre los puntos A y B del circuito, obtuvimos una lectura de 1.1 k ohmios. Esta medición confirma que el valor teórico calculado coincide con la medición práctica, demostrando así la precisión del cálculo y la validez del diseño del circuito.
 </p>
