@@ -14,7 +14,7 @@
 - Dr. Harry Anderson Rivera Tito 
 - Ing. Juan Manuel Zuñiga Mamani  
 - Ing. Renzo José Chan Ríos
-<br><br>
+
 <strong>Elaborado por:</strong>
 - Amparo Marleny Vidaurre Juárez
 - Edwin Junior Jara Bocanegra
