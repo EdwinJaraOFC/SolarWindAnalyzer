@@ -41,11 +41,27 @@ Las características principales del protoboard incluyen filas y columnas de ori
 El protoboard es una herramienta fundamental para la creación y prueba de circuitos electrónicos debido a su capacidad para facilitar el prototipado rápido y la experimentación sin la necesidad de soldadura. Permite a los diseñadores y estudiantes realizar conexiones temporales de componentes electrónicos de manera ágil, lo que acelera el proceso de diseño y prueba de circuitos. 
 </p>
 
-### 2. Materiales:
+### 2. Materiales
 - Fuente de alimentación variable
 - Kit de electrónica B (Arduino UNO, cables, resistencias, protoboard)
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller10.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller11.jpg" width="300px"/>
+</div>
+
+### 3. Desarrollo de ejercicios
+#### Ejercicio 1: Nivel pollito
+En este circuito se trabajó con una resistencia de 1k ohmios, donde se apreciaba en serie y paralelo.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller12.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller13.jpg" width="300px"/>
+</div>
+
+Teniendo en cuenta los datos, hicimos los cálculos tanto en serie como en paralelo, teniendo como resultado que la resistencia total es de 666.66 ohm.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller14.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller15.jpg" width="300px"/>
 </div>
