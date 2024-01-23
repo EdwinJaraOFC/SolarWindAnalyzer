@@ -57,3 +57,7 @@ Las características principales del protoboard incluyen filas y columnas de ori
 <p align="justify">
 El protoboard es una herramienta fundamental para la creación y prueba de circuitos electrónicos debido a su capacidad para facilitar el prototipado rápido y la experimentación sin la necesidad de soldadura. Permite a los diseñadores y estudiantes realizar conexiones temporales de componentes electrónicos de manera ágil, lo que acelera el proceso de diseño y prueba de circuitos. 
 </p>
+
+### 3. Materiales:
+- Fuente de alimentación variable
+- Kit de electrónica B (Arduino UNO, cables, resistencias, protoboard)
