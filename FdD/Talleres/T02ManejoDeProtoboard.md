@@ -90,9 +90,9 @@ Al momento de calcular el valor total , se encontró que era de 400 ohmios.
 Este experimento representa un circuito eléctrico que  está compuesto por seis resistencias (R1 a R6) de 1000 ohm cada una. Donde, se realizaron los siguientes cálculos:
 
 **En serie**
-R13 = R1  +  R3 = 2000 ohm
-R24 = R2  +  R4 = 2000 ohm
-R56 = R5  +  R6 = 2000 ohm
+R13 = R1  +  R3 = 2000 ohm<br>
+R24 = R2  +  R4 = 2000 ohm<br>
+R56 = R5  +  R6 = 2000 ohm<br>
 
 **En paralelo**
 RT = 1 /(1/R13 + 1/R24 + 1/R56) = 666.67 ohm
