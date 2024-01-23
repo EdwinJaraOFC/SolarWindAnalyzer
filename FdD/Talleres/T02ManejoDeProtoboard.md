@@ -25,23 +25,21 @@
 
 <hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
 
-## Desarrollo del Taller
+## 1. Descripción del Protoboard
 
-### 1. Descripción del Protoboard
-
-#### Características y componentes del protoboard
+### Características y componentes del protoboard
 
 <p align="justify">
 Las características principales del protoboard incluyen filas y columnas de orificios, con líneas de conexión internas que permiten la interconexión de los componentes. Esto facilita la creación rápida de circuitos y la realización de pruebas sin la necesidad de realizar conexiones permanentes.
 </p>
 
-#### Importancia del  protoboard como herramienta para la creación y prueba de circuitos electrónicos
+### Importancia del  protoboard como herramienta para la creación y prueba de circuitos electrónicos
 
 <p align="justify">
 El protoboard es una herramienta fundamental para la creación y prueba de circuitos electrónicos debido a su capacidad para facilitar el prototipado rápido y la experimentación sin la necesidad de soldadura. Permite a los diseñadores y estudiantes realizar conexiones temporales de componentes electrónicos de manera ágil, lo que acelera el proceso de diseño y prueba de circuitos. 
 </p>
 
-### 2. Materiales
+## 2. Materiales
 - Fuente de alimentación variable
 - Kit de electrónica B (Arduino UNO, cables, resistencias, protoboard)
 
@@ -50,8 +48,8 @@ El protoboard es una herramienta fundamental para la creación y prueba de circu
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller11.jpg" width="300px"/>
 </div>
 
-### 3. Desarrollo de ejercicios
-#### Ejercicio 1
+## 3. Desarrollo de ejercicios
+### Ejercicio 1
 En este circuito se trabajó con una resistencia de 1k ohmios, donde se apreciaba en serie y paralelo.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
@@ -66,7 +64,7 @@ Teniendo en cuenta los datos, hicimos los cálculos tanto en serie como en paral
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller29.jpg" width="300px"/>
 </div>
 
-#### Ejercicio 2
+### Ejercicio 2
 El diagrama de un circuito eléctrico que consiste en cinco resistencias etiquetadas como R1, R2, R3, R4 y R5. El circuito tiene la forma de un pentágono con una resistencia en cada lado. 
 
 Se diseñó un esquema donde las resistencias se colocaron en paralelo en los extremos y en serie en el centro.
@@ -86,7 +84,7 @@ Al momento de calcular el valor total , se encontró que era de 400 ohmios.
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller15.jpg" width="300px">
 </p> 
 
-#### Ejercicio 3
+### Ejercicio 3
 Este experimento representa un circuito eléctrico que  está compuesto por seis resistencias (R1 a R6) de 1000 ohm cada una. Donde, se realizaron los siguientes cálculos:
 
 **En serie**<br>
@@ -112,7 +110,7 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller20.jpg" width="300px"/>
 </div>
 
-#### Ejercicio 4
+### Ejercicio 4
 **Circuito divisor de tensión**
 - **Definición:** Es un arreglo de resistencias que divide un voltaje de entrada en una proporción específica.
 - **Relación con la ley de Ohm:** el voltaje en un circuito divisor es proporcional a la resistencia utilizada.
@@ -147,14 +145,14 @@ El multímetro es una herramienta fundamental en la medición de resistencia el�
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller25.jpg" width="300px"/>
 </div>
 
-### 4. Evidencias del desarrollo de ejercicios
+## 4. Evidencias del desarrollo de ejercicios
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal04.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal05.jpg" width="300px"/>
 </div>
 
-### 5. Conclusiones
+## 5. Conclusiones
 <p align="justify">
 Los circuitos electrónicos y el uso del protoboard incluyen la importancia de la práctica en la consolidación de conocimientos teóricos, la necesidad de paciencia y precisión en la realización de conexiones, la valoración de la flexibilidad en el diseño y la resolución de problemas, así como la aplicación práctica de conceptos teóricos. Estas conclusiones resaltan la relevancia del aprendizaje experiencial y la importancia de adquirir habilidades prácticas para complementar la comprensión teórica en el campo de la electrónica.
 </p>
