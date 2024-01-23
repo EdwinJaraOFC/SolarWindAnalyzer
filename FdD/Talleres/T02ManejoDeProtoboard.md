@@ -27,26 +27,27 @@
 
 ## Desarrollo del Taller
 
-### 1. Introducción
+### 1. Descripción del Protoboard
 
-<p align="justify">
-Los circuitos eléctricos son fundamentales en el campo de la ingeniería y la electrónica. Asimismo, nos ayuda a comprender los principios de los circuitos es esencial para diseñar, analizar y mantener sistemas eléctricos. Los circuitos abarcan una amplia gama de temas, desde los conceptos básicos de resistencia, corriente y voltaje, hasta circuitos más complejos que incluyen componentes como resistencias, capacitores, inductores, fuentes de alimentación y dispositivos semiconductores.
-</p>
-
-### 2. Descripción del Protoboard
-
-#### 2.1 Características y componentes del protoboard
+#### 1.1 Características y componentes del protoboard
 
 <p align="justify">
 Las características principales del protoboard incluyen filas y columnas de orificios, con líneas de conexión internas que permiten la interconexión de los componentes. Esto facilita la creación rápida de circuitos y la realización de pruebas sin la necesidad de realizar conexiones permanentes.
 </p>
 
-#### 2.2 Importancia del  protoboard como herramienta para la creación y prueba de circuitos electrónicos
+#### 1.2 Importancia del  protoboard como herramienta para la creación y prueba de circuitos electrónicos
 
 <p align="justify">
 El protoboard es una herramienta fundamental para la creación y prueba de circuitos electrónicos debido a su capacidad para facilitar el prototipado rápido y la experimentación sin la necesidad de soldadura. Permite a los diseñadores y estudiantes realizar conexiones temporales de componentes electrónicos de manera ágil, lo que acelera el proceso de diseño y prueba de circuitos. 
 </p>
 
-### 3. Materiales:
+### 2. Materiales:
 - Fuente de alimentación variable
 - Kit de electrónica B (Arduino UNO, cables, resistencias, protoboard)
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller10.jpg" width="600" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller11.jpg" width="600" style="margin: auto;">
+</p>
