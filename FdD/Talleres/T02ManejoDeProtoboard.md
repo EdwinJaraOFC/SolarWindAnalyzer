@@ -29,13 +29,13 @@
 
 ### 1. Descripción del Protoboard
 
-#### 1.1 Características y componentes del protoboard
+#### Características y componentes del protoboard
 
 <p align="justify">
 Las características principales del protoboard incluyen filas y columnas de orificios, con líneas de conexión internas que permiten la interconexión de los componentes. Esto facilita la creación rápida de circuitos y la realización de pruebas sin la necesidad de realizar conexiones permanentes.
 </p>
 
-#### 1.2 Importancia del  protoboard como herramienta para la creación y prueba de circuitos electrónicos
+#### Importancia del  protoboard como herramienta para la creación y prueba de circuitos electrónicos
 
 <p align="justify">
 El protoboard es una herramienta fundamental para la creación y prueba de circuitos electrónicos debido a su capacidad para facilitar el prototipado rápido y la experimentación sin la necesidad de soldadura. Permite a los diseñadores y estudiantes realizar conexiones temporales de componentes electrónicos de manera ágil, lo que acelera el proceso de diseño y prueba de circuitos. 
