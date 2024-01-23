@@ -51,7 +51,7 @@ El protoboard es una herramienta fundamental para la creación y prueba de circu
 </div>
 
 ### 3. Desarrollo de ejercicios
-#### Ejercicio 1: Nivel pollito
+#### Ejercicio 1
 En este circuito se trabajó con una resistencia de 1k ohmios, donde se apreciaba en serie y paralelo.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
@@ -64,4 +64,47 @@ Teniendo en cuenta los datos, hicimos los cálculos tanto en serie como en paral
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller14.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller15.jpg" width="300px"/>
+</div>
+
+#### Ejercicio 2
+El diagrama de un circuito eléctrico que consiste en cinco resistencias etiquetadas como R1, R2, R3, R4 y R5. El circuito tiene la forma de un pentágono con una resistencia en cada lado. 
+
+Se diseñó un esquema donde las resistencias se colocaron en paralelo en los extremos y en serie en el centro.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller16.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller17.jpg" width="300px"/>
+</div>
+
+Al momento de calcular el valor total , se encontró que era de 400 ohmios.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller18.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller19.jpg" width="300px"/>
+</div>
+
+#### Ejercicio 3
+Este experimento representa un circuito eléctrico que  está compuesto por seis resistencias (R1 a R6) de 1000 ohm cada una. Donde, se realizaron los siguientes cálculos:
+
+En serie:
+
+R13 = R1  +  R3 = 2000 ohm
+R24 = R2  +  R4 = 2000 ohm
+R56 = R5  +  R6 = 2000 ohm
+
+En paralelo:
+
+RT = 1 /(1/R13 + 1/R24 + 1/R56) = 666.67 ohm
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller20.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller21.jpg" width="300px"/>
+</div>
+
+Resultado:
+Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál primero hemos realizado el circuito con resistencias y el protoboard. Luego, realizamos el test y se comprobó qué es correcto el cálculo y el circuito eléctrico.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller22.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller23.jpg" width="300px"/>
 </div>
