@@ -8,30 +8,19 @@
 <h2 align="center" style="font-family: Arial, sans-serif;">Taller 01: Introducción a los equipos e instrumentos del laboratorio</h2>
 
 <strong> Docentes:</strong>
-<br><br>
-Mg Umbert Lewis De La Cruz
-<br>
-Mg. Paulo Camilo Vela Antón 
-<br>
-Mg. Moises Stevend Meza Rodriguez 
-<br>
-Dr. Harry Anderson Rivera Tito 
-<br>
-Ing. Juan Manuel Zuñiga Mamani  
-<br>
-Ing. Renzo José Chan Ríos
+- Mg Umbert Lewis De La Cruz
+- Mg. Paulo Camilo Vela Antón 
+- Mg. Moises Stevend Meza Rodriguez 
+- Dr. Harry Anderson Rivera Tito 
+- Ing. Juan Manuel Zuñiga Mamani  
+- Ing. Renzo José Chan Ríos
 <br><br>
 <strong> Elaborado por:</strong>
-<br><br>
-Amparo Marleny Vidaurre Juárez
-<br>
-Edwin Junior Jara Bocanegra
-<br>
-Antony Iván Mendoza Villar
-<br>
-Josue Jhordan Poma Arrieta
-<br>
-Aracely Nicoll Dueñas Condori
+- Amparo Marleny Vidaurre Juárez
+- Edwin Junior Jara Bocanegra
+- Antony Iván Mendoza Villar
+- Josue Jhordan Poma Arrieta
+- Aracely Nicoll Dueñas Condori
 </p>
 
 <hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
