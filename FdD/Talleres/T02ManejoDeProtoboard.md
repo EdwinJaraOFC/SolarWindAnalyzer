@@ -82,9 +82,12 @@ Se diseñó un esquema donde las resistencias se colocaron en paralelo en los ex
 Al momento de calcular el valor total , se encontró que era de 400 ohmios.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller19.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller20.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller14.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller16.jpg" width="300px"/>
 </div>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller15.jpg" width="300px">
+</p> 
 
 #### Ejercicio 3
 Este experimento representa un circuito eléctrico que  está compuesto por seis resistencias (R1 a R6) de 1000 ohm cada una. Donde, se realizaron los siguientes cálculos:
