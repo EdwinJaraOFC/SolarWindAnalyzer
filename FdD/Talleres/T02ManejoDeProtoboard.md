@@ -70,7 +70,7 @@ El diagrama de un circuito eléctrico que consiste en cinco resistencias etiquet
 Se diseñó un esquema donde las resistencias se colocaron en paralelo en los extremos y en serie en el centro.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller12.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller12.jpg" width="400px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller13.jpg" width="300px"/>
 </div>
 
