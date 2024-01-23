@@ -111,3 +111,62 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller23.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller24.jpg" width="300px"/>
 </div>
+
+#### Ejercicio 4
+CIRCUITO DIVISOR DE TENSIÓN
+
+- Definición: un circuito divisor de tensión es un arreglo de resistencias que divide un voltaje de entrada en una proporción específica.
+
+- Relación con la ley de Ohm: el voltaje en un circuito divisor es proporcional a la resistencia utilizada.
+
+Componentes del Circuito
+- Resistencias: componentes utilizados para dividir el voltaje de entrada.
+- Funcionamiento: las resistencias en serie dividen el voltaje total según su valor.
+
+Cálculo de las resistencias 1 y 2 
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller15.jpg" width="300px">
+</p>
+
+Imagen del circuito divisor de tensión
+
+La tensión se divide entre las resistencias en serie, y luego esa tensión dividida se divide nuevamente entre las resistencias en paralelo. Esto nos permite obtener una salida con un valor de tensión específico basado en la configuración de las resistencias.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller23.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller24.jpg" width="300px"/>
+</div>
+
+Resultado 
+
+El multímetro es una herramienta fundamental en la medición de resistencia eléctrica. Al conectar el multitester entre los puntos A y B del circuito, obtuvimos una lectura de 1.1 k ohmios. Esta medición confirma que el valor teórico calculado coincide con la medición práctica, demostrando así la precisión del cálculo y la validez del diseño del circuito.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller23.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller24.jpg" width="300px"/>
+</div>
+
+### 4. Lecciones aprendidas
+
+Importancia de la organización: Mantener una disposición ordenada de los componentes en el protoboard facilita la identificación de conexiones y la resolución de problemas.
+
+Paciencia y precisión: La paciencia y la precisión al realizar conexiones en el protoboard son fundamentales para evitar errores y garantizar el funcionamiento correcto del circuito.
+
+Flexibilidad en el diseño: El protoboard permite probar diferentes configuraciones de circuitos, lo que resalta la importancia de la flexibilidad en el diseño y la capacidad de realizar ajustes según sea necesario.
+
+Aplicación práctica de conceptos teóricos: La realización de ejercicios en el protoboard proporciona una oportunidad para aplicar y reforzar los conceptos teóricos aprendidos en el estudio de circuitos electrónicos.
+
+Resolución de problemas: Trabajar con el protoboard brinda experiencia en la identificación y solución de problemas relacionados con las conexiones y el funcionamiento del circuito.
+
+### 5. Evidencias del desarrollo de ejercicios
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller23.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller24.jpg" width="300px"/>
+</div>
+
+### 6. Conclusiones
+Los circuitos electrónicos y el uso del protoboard incluyen la importancia de la práctica en la consolidación de conocimientos teóricos, la necesidad de paciencia y precisión en la realización de conexiones, la valoración de la flexibilidad en el diseño y la resolución de problemas, así como la aplicación práctica de conceptos teóricos. Estas conclusiones resaltan la relevancia del aprendizaje experiencial y la importancia de adquirir habilidades prácticas para complementar la comprensión teórica en el campo de la electrónica.
+
+Además, es importante destacar la necesidad de una organización meticulosa al trabajar con el protoboard, así como la creatividad para explorar diferentes soluciones en el desarrollo de circuitos electrónicos. Estas habilidades son fundamentales para el éxito en el diseño, análisis y resolución de problemas. 
