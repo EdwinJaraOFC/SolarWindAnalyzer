@@ -46,8 +46,8 @@ El protoboard es una herramienta fundamental para la creación y prueba de circu
 - Kit de electrónica B (Arduino UNO, cables, resistencias, protoboard)
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller10.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller10.jpg" width="200" style="margin: auto;">
 </p>
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller11.jpg" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller11.jpg" width="200" style="margin: auto;">
 </p>
