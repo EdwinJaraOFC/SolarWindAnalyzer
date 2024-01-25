@@ -25,7 +25,12 @@
 
 <hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
 
-## 1. Descripción de Internet de las cosas (IoT)
+## 1. Introducción
+<p align="justify">
+El IoT se refiere  a la interconexión de dispositivos físicos a través de internet, permitiéndoles recopilar y compartir datos. Esta red de dispositivos abarca desde electrodomésticos y vehículos hasta dispositivos médicos y equipos industriales. La IoT tiene el potencial de revolucionar la forma en que interactuamos con el mundo que nos rodea, al proporcionar una mayor eficiencia, comodidad y control. Estos datos pueden ser utilizados para automatizar procesos, tomar decisiones informadas, monitorear el rendimiento de los dispositivos y mejorar la eficiencia operativa en una amplia gama de aplicaciones.
+</p>
+
+## 2. Descripción de Internet de las cosas (IoT)
 
 ### Características y componentes del  Internet de las cosas  (IoT)
 - **Dispositivos Conectados:** Estos son los componentes físicos que forman parte del IoT, como sensores, actuadores, cámaras, medidores, etc.
@@ -39,7 +44,7 @@
 El Internet de las Cosas (IoT) es crucial para recopilar y transmitir información de manera automatizada, permitiendo la toma de decisiones informadas, el monitoreo remoto, la optimización de procesos y la innovación de productos y servicios.
 </p>
 
-## 2. Materiales
+## 3. Materiales
 - Arduino MKR WiFi 1010
 - MKR ioT Carrier
 - Cable Micro USB
@@ -50,7 +55,7 @@ El Internet de las Cosas (IoT) es crucial para recopilar y transmitir informaci�
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller30.jpg" width="300px">
 </p>
 
-## 3. Ensamblado de componentes
+## 4. Ensamblado de componentes
 <p align="justify">
 Este proyecto prescinde de sensores externos. La operación se logra al montar la placa Arduino MKR WIFI 1010 sobre la MKR IoT Carrier y conectarla a la computadora.
 </p>
@@ -62,7 +67,7 @@ Este proyecto prescinde de sensores externos. La operación se logra al montar l
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller34.jpg" width="300px"/>
 </div>
 
-## 4. Ejercicios
+## 5. Ejercicios
 ### Ejercicio 1: Ejecutar el código de la sección "CONOCE EL KIT"
 <p align="justify">
 Luego de copiar el código al editor online nos encontramos con el error técnico de conectarlo con nuestra placa. Para lo cual, se decidió usar la app arduino IDE para ejecutar el siguiente código:
@@ -308,14 +313,20 @@ void printTemperature() {
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller44.jpg" width="300px"/>
 </div>
 
-## 5. Evidencias del desarrollo de ejercicios
+## 6. Observaciones
+<p align="justify">
+En cuanto al uso de pilas en los dispositivos IoT, es cierto que muchos de ellos utilizan pilas como fuente de energía. Esto se debe principalmente a que los dispositivos IoT suelen ser pequeños y diseñados para ser autónomos, lo que significa que no siempre tienen acceso a una fuente de alimentación externa, como una toma de corriente. Por lo tanto, las pilas son 
+una opción conveniente y práctica para alimentar estos dispositivos. En todos los ejercicios realizados anteriormente se confirmó ello, ya que al colocar una pila al dispositivo ioT, lo hizo más práctico al momento de utilizarlo.
+</p>
+
+## 7. Evidencias del desarrollo de ejercicios
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller48.jpg" width="250px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal06.jpg" width="400px"/>
 </div>
 
-## 6. Conclusiones
+## 8. Conclusiones
 
 <p align="justify">
 El Internet de las Cosas (IoT) ofrece un potencial significativo para la interconexión y el control de dispositivos físicos a través de Internet. Además, la capacidad de convertir temperaturas entre diferentes escalas a medida que se adapta , ajustar el formato de la humedad y crear un sensor de proximidad que el sensor presienta el movimiento  y prenda luces de colores verdes. Asimismo , se vio que la capacidad de reconocer la temperatura y cambiar el color del indicando que a temperatura ambiente sea de color  rojo  y cuando le acercamos al aire acondicionado sea de color azul. Esta interconexión brinda la posibilidad de controlar y monitorear dispositivos de manera remota, lo que conduce a beneficios significativos en términos de automatización, eficiencia y comodidad.
