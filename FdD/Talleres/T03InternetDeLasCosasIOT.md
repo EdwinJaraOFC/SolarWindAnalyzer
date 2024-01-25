@@ -52,7 +52,7 @@ El Internet de las Cosas (IoT) es crucial para recopilar y transmitir informaci√
 - Bater√≠a
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller30.jpg" width="300px">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller30.jpg" width="400px">
 </p>
 
 ## 4. Ensamblado de componentes
