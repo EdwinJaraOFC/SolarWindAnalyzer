@@ -567,10 +567,11 @@ void printHumidity() {
 }
 ```
 
-<p align="justify">
 Para hacer ese código lo primero que se nos ocurrió fue hacer 2 mediciones:<br>
 - Medición de la temperatura del laboratorio (29.5 °C aprox.)<br>
 - Medición de la temperatura del aire acondicionado (hasta 27.5 °C aprox)<br>
+
+<p align="justify">
 Luego hicimos algunas modificaciones en el código para que se ponga de color azul cuando estemos midiendo la temperatura del aire acondicionado y rojo cuando estemos midiendo la temperatura del laboratorio (específicamente en nuestra área de trabajo), tal como se muestra a continuación:
 
 ```cpp
