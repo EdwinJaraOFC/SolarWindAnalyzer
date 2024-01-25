@@ -651,7 +651,7 @@ una opción conveniente y práctica para alimentar estos dispositivos. En todos 
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal06.jpg" width="400px"/>
 </div>
 
-## 8. Conclusiones
+## 8. Conclusión
 
 <p align="justify">
 El Internet de las Cosas (IoT) ofrece un potencial significativo para la interconexión y el control de dispositivos físicos a través de Internet. Además, la capacidad de convertir temperaturas entre diferentes escalas a medida que se adapta , ajustar el formato de la humedad y crear un sensor de proximidad que el sensor presienta el movimiento  y prenda luces de colores verdes. Asimismo , se vio que la capacidad de reconocer la temperatura y cambiar el color del indicando que a temperatura ambiente sea de color  rojo  y cuando le acercamos al aire acondicionado sea de color azul. Esta interconexión brinda la posibilidad de controlar y monitorear dispositivos de manera remota, lo que conduce a beneficios significativos en términos de automatización, eficiencia y comodidad.
