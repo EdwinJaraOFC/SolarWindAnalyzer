@@ -61,7 +61,7 @@ Este proyecto prescinde de sensores externos. La operación se logra al montar l
 </div>
 
 ## 4. Ejercicios
-**Ejercicio 1:**  Ejecutar el código de la sección "CONOCE EL KIT"
+### Ejercicio 1: Ejecutar el código de la sección "CONOCE EL KIT"
 Luego de copiar el código al editor online nos encontramos con el error técnico de conectarlo con nuestra placa. Para lo cual, se decidió usar la app arduino IDE para ejecutar el siguiente código:
 
 ```cpp
@@ -187,18 +187,6 @@ void printTemperature() {
   carrier.display.print(temperature);
   carrier.display.print(" C");
 }
- 
-void printHumidity() {
-  //configuring display, setting background color, text size and text color
-  carrier.display.fillScreen(ST77XX_BLUE); //red background
-  carrier.display.setTextColor(ST77XX_WHITE); //white text
-  carrier.display.setTextSize(2); //medium sized text
- 
-  carrier.display.setCursor(20, 110); //sets position for printing (x and y)
-  carrier.display.print("Humi: ");
-  carrier.display.print(humidity);
-  carrier.display.println(" %");
-}
 ```
 
 El código fue ejecutado con éxito y a continuación se evidencia el correcto funcionamiento de está actividad, donde muestra valores reales de la temperatura y la humedad del laboratorio de prototipado.
@@ -208,3 +196,108 @@ El código fue ejecutado con éxito y a continuación se evidencia el correcto f
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
 </div>
+
+### Ejercicio 2: Implementar código para cambiar datos de la temperatura en las escalas convencionales
+Para lograr este desafío nos ayudamos de las fórmulas físicas revisadas en google, obteniendo lo siguiente:
+
+```cpp
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+```
+
+**Explicación de las partes añadidas en el código:**
+Dentro del <code> void loop() </code>  se llamaron a las funciones creadas para mostrar las diferentes escalas de temperatura. Esto con el fin de realizar la misma secuencia usada anteriormente para actualizar la lectura y ver los diferentes tipos de datos con los botones táctiles del MKR IoT carrier, es decir, se hizo uso de los <code> TOUCH1 TOUCH2  TOUCH3 </code>.
+
+```cpp
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+```
+
+Los códigos usados en las funciones  <code> printTemperatureF() y printTemperatureK() </code> se ha reutilizado de la función <code> printTemperature() </code> . Pero con el único cambio en que se imprime la nueva variable asignada a su respectiva conversión de escala.
+
+```cpp
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+```
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
+**Ejercicio 3: Implementar código para centrar  y aumentar el tamaño de las letras de la Humedad**
+
+Para esta parte tan solo modificamos los valores del tamaño del texto en la pantalla y donde debería de estar el curso al mostrar cada texto en su respectiva lectura.
+
+```cpp
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+```
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
+### Ejercicio 4: Cambio en el nivel de temperatura ( Temperatura del laboratorio = Rojo, Temperatura del aire acondicionado = Azul)
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
+## 5. Evidencias del desarrollo de ejercicios
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
+## 6. Conclusiones
+
+El Internet de las Cosas (IoT) ofrece un potencial significativo para la interconexión y el control de dispositivos físicos a través de Internet. Además, la capacidad de convertir temperaturas entre diferentes escalas a medida que se adapta , ajustar el formato de la humedad y crear un sensor de proximidad que el sensor presienta el movimiento  y prenda luces de colores verdes. Asimismo , se vio que la capacidad de reconocer la temperatura y cambiar el color del indicando que a temperatura ambiente sea de color  rojo  y cuando le acercamos al aire acondicionado sea de color azul. Esta interconexión brinda la posibilidad de controlar y monitorear dispositivos de manera remota, lo que conduce a beneficios significativos en términos de automatización, eficiencia y comodidad.
