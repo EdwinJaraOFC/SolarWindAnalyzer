@@ -73,23 +73,6 @@ Luego de copiar el código al editor online nos encontramos con el error técnic
 </p>
 
 ```cpp
-/*
-  Explore IoT - Activity 01
- 
-  Read values from a temperature and humidity sensor
-  and print it in Serial Monitor and on a colored display.
- 
-  This example uses the IoT carrier and the MKR WiFi 1010.
- 
-  Based on code by
-  (c) 2019 D. Cuartielles for Arduino
- 
-  Written by:
-  (c) 2020 K. SÃ¶derby for Arduino
- 
-  This code is Free Software licensed under GPLv3
-*/
- 
 #include <Arduino_MKRIoTCarrier.h>
 MKRIoTCarrier carrier;
  
@@ -199,6 +182,18 @@ void printTemperature() {
   carrier.display.print(temperature);
   carrier.display.print(" C");
 }
+ 
+void printHumidity() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(2); //medium sized text
+ 
+  carrier.display.setCursor(20, 110); //sets position for printing (x and y)
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
 ```
 
 <p align="justify">
@@ -217,6 +212,58 @@ Para lograr este desafío nos ayudamos de las fórmulas físicas revisadas en go
 </p>
 
 ```cpp
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+ 
+float temperature = 0;
+float humidity = 0;
+ 
+void setup() {
+  Serial.begin(9600);
+  //Wait to open the Serial monitor to start the program and see details on errors
+  
+ 
+  //Set if it has the Enclosure mounted
+  CARRIER_CASE = true;
+  //Initialize the IoTSK carrier and output any errors in the serial monitor
+  carrier.begin();
+}
+ 
+void loop() {
+  // read the sensor values
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+ 
+  //Update touch buttons
+  carrier.Buttons.update();
+ 
+  // print each of the sensor values
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" Â°C");
+ 
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+ 
+  //function to print out values
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printHumidity();
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printTemperature();
+  }
+
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
+    printTemperatureF();
+  }
+
+  if (carrier.Buttons.onTouchDown(TOUCH3)) {
+    printTemperatureK();
+  }
+}
+
 void printTemperature() {
   //configuring display, setting background color, text size and text color
   carrier.display.fillScreen(ST77XX_RED); //red background
@@ -229,6 +276,50 @@ void printTemperature() {
   carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
   carrier.display.print(temperature);
   carrier.display.print(" C");
+}
+
+void printTemperatureF() {
+  //configuring display, setting background color, text size and text color
+  float temperatureF = (temperature * 9/5) + 32; // Convertir a Fahrenheit
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperatureF);
+  carrier.display.print(" F");
+}
+
+void printTemperatureK() {
+  //configuring display, setting background color, text size and text color
+  float temperatureK = temperature + 273.15; // Convertir a Kelvin
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperatureK);
+  carrier.display.print(" K");
+}
+
+void printHumidity() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //medium sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Humi: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
 }
 ```
 
@@ -238,23 +329,44 @@ Dentro del <code> void loop() </code>  se llamaron a las funciones creadas para 
 </p>
 
 ```cpp
-void printTemperature() {
-  //configuring display, setting background color, text size and text color
-  carrier.display.fillScreen(ST77XX_RED); //red background
-  carrier.display.setTextColor(ST77XX_WHITE); //white text
-  carrier.display.setTextSize(6); //large sized text
+void loop() {
+  // read the sensor values
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
  
-  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
-  carrier.display.print("Temp: ");
-  carrier.display.setTextSize(4); //decreasing text size
-  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
-  carrier.display.print(temperature);
-  carrier.display.print(" C");
+  //Update touch buttons
+  carrier.Buttons.update();
+ 
+  // print each of the sensor values
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" Â°C");
+ 
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+ 
+  //function to print out values
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printHumidity();
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printTemperature();
+  }
+
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
+    printTemperatureF();
+  }
+
+  if (carrier.Buttons.onTouchDown(TOUCH3)) {
+    printTemperatureK();
+  }
 }
 ```
 
 <p align="justify">
-Los códigos usados en las funciones  <code> printTemperatureF() y printTemperatureK() </code> se ha reutilizado de la función <code> printTemperature() </code> . Pero con el único cambio en que se imprime la nueva variable asignada a su respectiva conversión de escala.
+Los códigos usados en las funciones <code> printTemperatureF() y printTemperatureK() </code> se ha reutilizado de la función <code> printTemperature() </code> . Pero con el único cambio en que se imprime la nueva variable asignada a su respectiva conversión de escala.
 </p>
 
 ```cpp
@@ -270,6 +382,36 @@ void printTemperature() {
   carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
   carrier.display.print(temperature);
   carrier.display.print(" C");
+}
+
+void printTemperatureF() {
+  //configuring display, setting background color, text size and text color
+  float temperatureF = (temperature * 9/5) + 32; // Convertir a Fahrenheit
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperatureF);
+  carrier.display.print(" F");
+}
+
+void printTemperatureK() {
+  //configuring display, setting background color, text size and text color
+  float temperatureK = temperature + 273.15; // Convertir a Kelvin
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperatureK);
+  carrier.display.print(" K");
 }
 ```
 
@@ -279,24 +421,24 @@ void printTemperature() {
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller40.jpg" width="300px"/>
 </div>
 
-**Ejercicio 3: Implementar código para centrar  y aumentar el tamaño de las letras de la Humedad**
+**Ejercicio 3: Implementar código para centrar y aumentar el tamaño de las letras de la Humedad**
 <p align="justify">
 Para esta parte tan solo modificamos los valores del tamaño del texto en la pantalla y donde debería de estar el curso al mostrar cada texto en su respectiva lectura.
 </p>
 
 ```cpp
-void printTemperature() {
+void printHumidity() {
   //configuring display, setting background color, text size and text color
-  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
   carrier.display.setTextColor(ST77XX_WHITE); //white text
-  carrier.display.setTextSize(6); //large sized text
+  carrier.display.setTextSize(6); //medium sized text
  
   carrier.display.setCursor(30, 50); //sets position for printing (x and y)
-  carrier.display.print("Temp: ");
-  carrier.display.setTextSize(4); //decreasing text size
-  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
-  carrier.display.print(temperature);
-  carrier.display.print(" C");
+  carrier.display.print("Humi: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
 }
 ```
 
@@ -305,12 +447,189 @@ void printTemperature() {
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller42.jpg" width="300px"/>
 </div>
 
-### Ejercicio 4: Cambio en el nivel de temperatura ( Temperatura del laboratorio = Rojo, Temperatura del aire acondicionado = Azul)
+### Ejercicio 4: Cambio en el nivel de temperatura (Temperatura del laboratorio = Rojo, Temperatura del aire acondicionado = Azul)
+Para lograr este ejercicio implementamos el siguiente código:
+
+```cpp
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+ 
+float temperature = 0;
+float humidity = 0;
+ 
+void setup() {
+  Serial.begin(9600);
+  //Wait to open the Serial monitor to start the program and see details on errors
+  
+ 
+  //Set if it has the Enclosure mounted
+  CARRIER_CASE = true;
+  //Initialize the IoTSK carrier and output any errors in the serial monitor
+  carrier.begin();
+}
+ 
+void loop() {
+  // read the sensor values
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+ 
+  //Update touch buttons
+  carrier.Buttons.update();
+ 
+  // print each of the sensor values
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" Â°C");
+ 
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+ 
+  //function to print out values
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printHumidity();
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printTemperature();
+  }
+
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
+    printTemperatureF();
+  }
+
+  if (carrier.Buttons.onTouchDown(TOUCH3)) {
+    printTemperatureK();
+  }
+}
+
+void printTemperature() {
+  // Configurar la pantalla, establecer el color de fondo, el tamaño del texto y el color del texto
+  if (temperature < 29.45) {
+    carrier.display.fillScreen(ST77XX_BLUE); // Fondo azul si la temperatura es menor a 30°C
+  } else {
+    carrier.display.fillScreen(ST77XX_RED); // Fondo rojo si la temperatura es mayor o igual a 30°C
+  }
+
+  carrier.display.setTextColor(ST77XX_WHITE); // Texto blanco
+  carrier.display.setTextSize(6); // Texto de tamaño grande
+
+  carrier.display.setCursor(30, 50); // Establecer la posición para imprimir (x y y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); // Disminuir el tamaño del texto
+  carrier.display.setCursor(40, 120); // Establecer nueva posición para imprimir (x y y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+
+void printTemperatureF() {
+  //configuring display, setting background color, text size and text color
+  float temperatureF = (temperature * 9/5) + 32; // Convertir a Fahrenheit
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperatureF);
+  carrier.display.print(" F");
+}
+
+void printTemperatureK() {
+  //configuring display, setting background color, text size and text color
+  float temperatureK = temperature + 273.15; // Convertir a Kelvin
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperatureK);
+  carrier.display.print(" K");
+}
+
+void printHumidity() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //medium sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Humi: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
+
+<p align="justify">
+Para hacer ese código lo primero que se nos ocurrió fue hacer 2 mediciones:
+- Medición de la temperatura del laboratorio (29.5 °C aprox.)
+- Medición de la temperatura del aire acondicionado (hasta 27.5 °C aprox)
+Luego hicimos algunas modificaciones en el código para que se ponga de color azul cuando estemos midiendo la temperatura del aire acondicionado y rojo cuando estemos midiendo la temperatura del laboratorio (específicamente en nuestra área de trabajo), tal como se muestra a continuación:
+
+```cpp
+  if (temperature < 29) {
+    carrier.display.fillScreen(ST77XX_BLUE); // Fondo azul si la temperatura es menor a 29°C
+  } else {
+    carrier.display.fillScreen(ST77XX_RED); // Fondo rojo si la temperatura es mayor o igual a 29°C
+  }
+```
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller43.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller44.jpg" width="300px"/>
 </div>
+
+<p align="justify">
+Luego, desde nuestras casas, quisimos implementar las luces led para que enciendan del mismo color de la pantalla y una alerta con el buzzer que tenía incorporado el dispositivo, por lo que decidimos añadir esa parte del código:
+</p>
+
+```cpp
+void printTemperature() {
+  // Configurar la pantalla, establecer el color de fondo, el tamaño del texto y el color del texto
+  if (temperature < 29) {
+    carrier.display.fillScreen(ST77XX_BLUE); // Fondo azul si la temperatura es menor a 29°C
+  	// Iluminar los leds de color azul
+  	carrier.leds.setPixelColor(0, 0, 0, 255); 
+    carrier.leds.setPixelColor(1, 0, 0, 255);
+    carrier.leds.setPixelColor(2, 0, 0, 255);
+    carrier.leds.setPixelColor(3, 0, 0, 255);
+    carrier.leds.setPixelColor(4, 0, 0, 255); 
+	  carrier.leds.show();
+  } else {
+    carrier.display.fillScreen(ST77XX_RED); // Fondo rojo si la temperatura es mayor o igual a 29°C
+	  // Iluminar los leds de color rojo
+	  carrier.leds.setPixelColor(0, 255, 0, 0);
+    carrier.leds.setPixelColor(1, 255, 0, 0);
+    carrier.leds.setPixelColor(2, 255, 0, 0);
+    carrier.leds.setPixelColor(3, 255, 0, 0);
+    carrier.leds.setPixelColor(4, 255, 0, 0);
+	  carrier.leds.show();
+  }
+
+  carrier.Buzzer.sound(500); // Se activa la alerta del buzzer
+  delay(1000);
+  carrier.Buzzer.noSound(); // Se desactiva la alerta del buzzer
+
+  carrier.display.setTextColor(ST77XX_WHITE); // Texto blanco
+  carrier.display.setTextSize(6); // Texto de tamaño grande
+
+  carrier.display.setCursor(30, 50); // Establecer la posición para imprimir (x y y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); // Disminuir el tamaño del texto
+  carrier.display.setCursor(40, 120); // Establecer nueva posición para imprimir (x y y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+```
+
+Logrando así lo que necesitabamos en este ejercicio.
 
 ## 6. Observaciones
 <p align="justify">
