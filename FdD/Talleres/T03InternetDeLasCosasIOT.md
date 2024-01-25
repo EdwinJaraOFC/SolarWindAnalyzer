@@ -319,6 +319,12 @@ En cuanto al uso de pilas en los dispositivos IoT, es cierto que muchos de ellos
 una opción conveniente y práctica para alimentar estos dispositivos. En todos los ejercicios realizados anteriormente se confirmó ello, ya que al colocar una pila al dispositivo ioT, lo hizo más práctico al momento de utilizarlo.
 </p>
 
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller45.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller46.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller47.jpg" width="300px"/>
+</div>
+
 ## 7. Evidencias del desarrollo de ejercicios
 
 <div align="center"; style="display: flex; justify-content: space-between;">
