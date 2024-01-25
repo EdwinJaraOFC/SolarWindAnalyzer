@@ -28,7 +28,6 @@
 ## 1. Descripción de Internet de las cosas (IoT)
 
 ### Características y componentes del  Internet de las cosas  (IoT)
-
 - **Dispositivos Conectados:** Estos son los componentes físicos que forman parte del IoT, como sensores, actuadores, cámaras, medidores, etc.
 - **Conectividad:** Los dispositivos IoT se conectan a través de redes inalámbricas, como Wi-Fi, Bluetooth, etc.
 - **Plataformas de Gestión de Datos:** Estas plataformas permiten la recopilación, almacenamiento y análisis de grandes volúmenes.
@@ -36,8 +35,9 @@
 - **Protocolos de Comunicación:** Estos son los estándares que permiten la comunicación entre los dispositivos IoT y los sistemas de gestión.
 
 ### Importancia del  IoT  como herramienta para recopilar y transmitir información.
-
+<p align="justify">
 El Internet de las Cosas (IoT) es crucial para recopilar y transmitir información de manera automatizada, permitiendo la toma de decisiones informadas, el monitoreo remoto, la optimización de procesos y la innovación de productos y servicios.
+</p>
 
 ## 2. Materiales
 - Arduino MKR WiFi 1010
@@ -51,7 +51,9 @@ El Internet de las Cosas (IoT) es crucial para recopilar y transmitir informaci�
 </p>
 
 ## 3. Ensamblado de componentes
+<p align="justify">
 Este proyecto prescinde de sensores externos. La operación se logra al montar la placa Arduino MKR WIFI 1010 sobre la MKR IoT Carrier y conectarla a la computadora.
+</p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
@@ -62,7 +64,9 @@ Este proyecto prescinde de sensores externos. La operación se logra al montar l
 
 ## 4. Ejercicios
 ### Ejercicio 1: Ejecutar el código de la sección "CONOCE EL KIT"
+<p align="justify">
 Luego de copiar el código al editor online nos encontramos con el error técnico de conectarlo con nuestra placa. Para lo cual, se decidió usar la app arduino IDE para ejecutar el siguiente código:
+</p>
 
 ```cpp
 /*
@@ -155,11 +159,13 @@ void printHumidity() {
 ```
 
 **Explicación de código**
+<p align="justify">
 - Se ha hecho uso de la librería Arduino MADRId Carrier: 
 <code> #incluir <Arduino_MKRIoTCarrier.h> </code>
 - La variable <code>CARRIER_CASE</code> debe estar como <code> TRUE</code>, porque estamos usando la caja de plástico.
 <code> CARRIER_CASE = true; </code>
 - Los botones táctiles <code>printTemperature(); y printHumidity(); </code> nos permite hacer el cambio de pantalla para mostrar los valores de la temperatura y humedad respectivamente.
+</p>
 
 ```cpp
   if (carrier.Buttons.onTouchDown(TOUCH0)) {
@@ -171,7 +177,9 @@ void printHumidity() {
   }
 ```
 
+<p align="justify">
 - Para el funcionamiento correcto del anterior segmento de código se hizo lo siguiente dentro de cada función, donde podemos cambiar el color de la pantalla, el tamaño de letra, la ubicación del cursor para el texto y el color de letra:
+</p>
 
 ```cpp
 void printTemperature() {
@@ -189,7 +197,9 @@ void printTemperature() {
 }
 ```
 
+<p align="justify">
 El código fue ejecutado con éxito y a continuación se evidencia el correcto funcionamiento de está actividad, donde muestra valores reales de la temperatura y la humedad del laboratorio de prototipado.
+</p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
@@ -198,7 +208,9 @@ El código fue ejecutado con éxito y a continuación se evidencia el correcto f
 </div>
 
 ### Ejercicio 2: Implementar código para cambiar datos de la temperatura en las escalas convencionales
+<p align="justify">
 Para lograr este desafío nos ayudamos de las fórmulas físicas revisadas en google, obteniendo lo siguiente:
+</p>
 
 ```cpp
 void printTemperature() {
@@ -217,7 +229,9 @@ void printTemperature() {
 ```
 
 **Explicación de las partes añadidas en el código:**
+<p align="justify">
 Dentro del <code> void loop() </code>  se llamaron a las funciones creadas para mostrar las diferentes escalas de temperatura. Esto con el fin de realizar la misma secuencia usada anteriormente para actualizar la lectura y ver los diferentes tipos de datos con los botones táctiles del MKR IoT carrier, es decir, se hizo uso de los <code> TOUCH1 TOUCH2  TOUCH3 </code>.
+</p>
 
 ```cpp
 void printTemperature() {
@@ -235,7 +249,9 @@ void printTemperature() {
 }
 ```
 
+<p align="justify">
 Los códigos usados en las funciones  <code> printTemperatureF() y printTemperatureK() </code> se ha reutilizado de la función <code> printTemperature() </code> . Pero con el único cambio en que se imprime la nueva variable asignada a su respectiva conversión de escala.
+</p>
 
 ```cpp
 void printTemperature() {
@@ -260,8 +276,9 @@ void printTemperature() {
 </div>
 
 **Ejercicio 3: Implementar código para centrar  y aumentar el tamaño de las letras de la Humedad**
-
+<p align="justify">
 Para esta parte tan solo modificamos los valores del tamaño del texto en la pantalla y donde debería de estar el curso al mostrar cada texto en su respectiva lectura.
+</p>
 
 ```cpp
 void printTemperature() {
@@ -300,4 +317,6 @@ void printTemperature() {
 
 ## 6. Conclusiones
 
+<p align="justify">
 El Internet de las Cosas (IoT) ofrece un potencial significativo para la interconexión y el control de dispositivos físicos a través de Internet. Además, la capacidad de convertir temperaturas entre diferentes escalas a medida que se adapta , ajustar el formato de la humedad y crear un sensor de proximidad que el sensor presienta el movimiento  y prenda luces de colores verdes. Asimismo , se vio que la capacidad de reconocer la temperatura y cambiar el color del indicando que a temperatura ambiente sea de color  rojo  y cuando le acercamos al aire acondicionado sea de color azul. Esta interconexión brinda la posibilidad de controlar y monitorear dispositivos de manera remota, lo que conduce a beneficios significativos en términos de automatización, eficiencia y comodidad.
+</p>
