@@ -147,10 +147,10 @@ void printHumidity() {
 
 **Explicación de código**
 <p align="justify">
-- Se ha hecho uso de la librería Arduino MADRId Carrier: 
-<code> #incluir <Arduino_MKRIoTCarrier.h> </code>
+- Se ha hecho uso de la librería Arduino MADRId Carrier:
+<code> #incluir <Arduino_MKRIoTCarrier.h> </code><br>
 - La variable <code>CARRIER_CASE</code> debe estar como <code> TRUE</code>, porque estamos usando la caja de plástico.
-<code> CARRIER_CASE = true; </code>
+<code> CARRIER_CASE = true; </code><br>
 - Los botones táctiles <code>printTemperature(); y printHumidity(); </code> nos permite hacer el cambio de pantalla para mostrar los valores de la temperatura y humedad respectivamente.
 </p>
 
