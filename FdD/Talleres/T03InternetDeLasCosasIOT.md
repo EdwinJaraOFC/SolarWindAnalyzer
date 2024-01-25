@@ -24,3 +24,187 @@
 </p>
 
 <hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
+
+## 1. Descripción de Internet de las cosas (IoT)
+
+### Características y componentes del  Internet de las cosas  (IoT)
+
+- **Dispositivos Conectados:** Estos son los componentes físicos que forman parte del IoT, como sensores, actuadores, cámaras, medidores, etc.
+- **Conectividad:** Los dispositivos IoT se conectan a través de redes inalámbricas, como Wi-Fi, Bluetooth, etc.
+- **Plataformas de Gestión de Datos:** Estas plataformas permiten la recopilación, almacenamiento y análisis de grandes volúmenes.
+- **Seguridad:** Dado que los dispositivos IoT recopilan y transmiten datos sensibles, la seguridad es fundamental para proteger la integridad y la privacidad de la información.
+- **Protocolos de Comunicación:** Estos son los estándares que permiten la comunicación entre los dispositivos IoT y los sistemas de gestión.
+
+### Importancia del  IoT  como herramienta para recopilar y transmitir información.
+
+El Internet de las Cosas (IoT) es crucial para recopilar y transmitir información de manera automatizada, permitiendo la toma de decisiones informadas, el monitoreo remoto, la optimización de procesos y la innovación de productos y servicios.
+
+## 2. Materiales
+- Arduino MKR WiFi 1010
+- MKR ioT Carrier
+- Cable Micro USB
+- Pug-and-play cables 
+- Batería
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px">
+</p>
+
+## 3. Ensamblado de componentes
+Este proyecto prescinde de sensores externos. La operación se logra al montar la placa Arduino MKR WIFI 1010 sobre la MKR IoT Carrier y conectarla a la computadora.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
+## 4. Ejercicios
+**Ejercicio 1:**  Ejecutar el código de la sección "CONOCE EL KIT"
+Luego de copiar el código al editor online nos encontramos con el error técnico de conectarlo con nuestra placa. Para lo cual, se decidió usar la app arduino IDE para ejecutar el siguiente código:
+
+```cpp
+/*
+  Explore IoT - Activity 01
+ 
+  Read values from a temperature and humidity sensor
+  and print it in Serial Monitor and on a colored display.
+ 
+  This example uses the IoT carrier and the MKR WiFi 1010.
+ 
+  Based on code by
+  (c) 2019 D. Cuartielles for Arduino
+ 
+  Written by:
+  (c) 2020 K. SÃ¶derby for Arduino
+ 
+  This code is Free Software licensed under GPLv3
+*/
+ 
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+ 
+float temperature = 0;
+float humidity = 0;
+ 
+void setup() {
+  Serial.begin(9600);
+  //Wait to open the Serial monitor to start the program and see details on errors
+  
+ 
+  //Set if it has the Enclosure mounted
+  CARRIER_CASE = false;
+  //Initialize the IoTSK carrier and output any errors in the serial monitor
+  carrier.begin();
+}
+ 
+void loop() {
+  // read the sensor values
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+ 
+  //Update touch buttons
+  carrier.Buttons.update();
+ 
+  // print each of the sensor values
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" Â°C");
+ 
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+ 
+  //function to print out values
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature();
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printHumidity();
+  }
+}
+ 
+ 
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+ 
+void printHumidity() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(2); //medium sized text
+ 
+  carrier.display.setCursor(20, 110); //sets position for printing (x and y)
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
+
+**Explicación de código**
+- Se ha hecho uso de la librería Arduino MADRId Carrier: 
+<code> #incluir <Arduino_MKRIoTCarrier.h> </code>
+- La variable <code>CARRIER_CASE</code> debe estar como <code> TRUE</code>, porque estamos usando la caja de plástico.
+<code> CARRIER_CASE = true; </code>
+- Los botones táctiles <code>printTemperature(); y printHumidity(); </code> nos permite hacer el cambio de pantalla para mostrar los valores de la temperatura y humedad respectivamente.
+
+```cpp
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature();
+  }
+ 
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printHumidity();
+  }
+```
+
+- Para el funcionamiento correcto del anterior segmento de código se hizo lo siguiente dentro de cada función, donde podemos cambiar el color de la pantalla, el tamaño de letra, la ubicación del cursor para el texto y el color de letra:
+
+```cpp
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+ 
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+ 
+void printHumidity() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(2); //medium sized text
+ 
+  carrier.display.setCursor(20, 110); //sets position for printing (x and y)
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
+
+El código fue ejecutado con éxito y a continuación se evidencia el correcto funcionamiento de está actividad, donde muestra valores reales de la temperatura y la humedad del laboratorio de prototipado.
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
