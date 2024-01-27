@@ -10,7 +10,7 @@
 - **Distrito:** Chulucanas
 
 ## Definición Formal del Problema
-<p align="justify">
+<p align="center">
 La falta de electricidad en el colegio de San José Obrero impide el desarrollo educativo.
 </p>
 
