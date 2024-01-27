@@ -7,13 +7,9 @@
 - **Departamento:** Piura
 - **Provincia:** Morropón
 - **Distrito:** Chulucanas
+- **Problemática:** La falta de acceso a la electricidad en el colegio San José Obrera 15357, específicamente en el km 41 carretera a Chulucanas. 
 
-## Problemática que se enfrenta
-<p align="justify">
-La falta de acceso a la electricidad en el colegio San José Obrera 15357, específicamente en el km 41 carretera a Chulucanas. 
-</p>
-
-## Definición del Problema
+## Definición Formal del Problema
 <p align="justify">
 La falta de electricidad en el colegio de San José Obrero impide el desarrollo educativo.
 </p>
@@ -73,7 +69,7 @@ La vulnerabilidad agrícola surge de la interacción de factores físicos, como 
 - **Sistemas fotovoltaicos:** La integración de sistemas fotovoltaicos complementará la generación de energía híbrida, aprovechando la radiación solar disponible en la región.
 - **Generadores para controlar la velocidad del viento:** Estos generadores podrían utilizarse para alimentar sistemas de almacenamiento de energía, como baterías, que permitan aprovechar la energía generada durante vientos fuertes para su uso posterior.
 
-## Propuesta formal
+## Propuesta Formal de Solución
 <p align="justify">
 Crear un sistema de baja potencia a base de sensores que puedan monitorear las características de la radiación solar y la velocidad del viento,  con el objetivo de transmitir datos desde los sensores y dispositivos IoT hacia la plataforma central.
 </p>
