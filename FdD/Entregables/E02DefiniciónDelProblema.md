@@ -19,7 +19,7 @@ La falta de electricidad en el colegio de San José Obrero impide el desarrollo 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="800" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="950" style="margin: auto;">
 </p>
 
 ## Características resaltadas de la zona
