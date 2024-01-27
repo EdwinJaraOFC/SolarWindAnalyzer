@@ -1,4 +1,4 @@
-## Conoce un poco más sobre nosotros
+## Conoce Más Acerca de Nosotros
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E01Imagen01.png" width="950" style="margin: auto;">
 </p>
