@@ -19,7 +19,7 @@ La falta de electricidad en el colegio de San José Obrero impide el desarrollo 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="800" style="margin: auto;">
 </p>
 
 ## Características resaltadas de la zona
@@ -48,23 +48,23 @@ La vulnerabilidad agrícola surge de la interacción de factores físicos, como 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="800" style="margin: auto;">
 </p>
 
 ## Herramientas para identificar el problema
 ### Mapa de Empatía
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen03.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen03.png" width="800" style="margin: auto;">
 </p>
 
 ### Mapa del viaje del cliente
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen04.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen04.png" width="800" style="margin: auto;">
 </p>
 
 ### Diagrama Causa-Efecto
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen05.png" width="600" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen05.png" width="800" style="margin: auto;">
 </p>
 
 ## Acciones Propuestas
@@ -80,14 +80,10 @@ Crear un sistema de baja potencia a base de sensores que puedan monitorear las c
 
 ---
 ### Bibliografía
-Defensoría del Pueblo (2021a). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.
-https://www.defensoria.gob.pe/defensoria-del-pueblo-reitera-la-urgencia-de-garantizar-acceso-a-la-educacion-en-zonas-rurales-de-piura/
+Defensoría del Pueblo (2021a). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.<br>https://www.defensoria.gob.pe/defensoria-del-pueblo-reitera-la-urgencia-de-garantizar-acceso-a-la-educacion-en-zonas-rurales-de-piura/
 
-Defensoría del Pueblo (2021b). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.
-https://www.defensoria.gob.pe/wp-content/uploads/2021/10/NP-1359-2021.pdf
+Defensoría del Pueblo (2021b). Defensoría del Pueblo reitera la urgencia de garantizar acceso a la educación en zonas rurales de Piura.<br>https://www.defensoria.gob.pe/wp-content/uploads/2021/10/NP-1359-2021.pdf
 
-Morropón, M. D. (2017). Plan de desarrollo económico de la provincia de Morropón 2018-2022.
-http://www.cipca.pe/wp-content/uploads/2022/06/PLANDE-MORROPON.pdf 
+Morropón, M. D. (2017). Plan de desarrollo económico de la provincia de Morropón 2018-2022.<br>http://www.cipca.pe/wp-content/uploads/2022/06/PLANDE-MORROPON.pdf 
 
-Pazmiño Echeverría, J. (2007). Proyecto de inversión para el suministro de electricidad en la comunidad facundo vela-provincia de bolìvar, mediante soluciones individuales de equipos fotovoltaicos (Tesis de Grado).
-https://www.dspace.espol.edu.ec/handle/123456789/6892
+Pazmiño Echeverría, J. (2007). Proyecto de inversión para el suministro de electricidad en la comunidad facundo vela-provincia de bolìvar, mediante soluciones individuales de equipos fotovoltaicos (Tesis de Grado).<br>https://www.dspace.espol.edu.ec/handle/123456789/6892
