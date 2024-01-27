@@ -41,7 +41,7 @@ Asegurar el acceso energético universal se presenta como una necesidad imperati
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen03.png" width="490px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen04.png" width="515px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen04.png" width="517px"/>
 </div>
 
 # El impacto económico de la privación del suministro a la energía eléctrica en Piura, Perú
