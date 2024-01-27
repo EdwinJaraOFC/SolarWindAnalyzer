@@ -1,4 +1,4 @@
-<p align="center" style="margin-top: 50px; margin-bottom: 50px>
+<p align="center">
   <p align="center">
     <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
   </p>  
