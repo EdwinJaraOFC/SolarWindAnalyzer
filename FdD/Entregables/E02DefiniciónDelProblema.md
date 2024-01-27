@@ -10,9 +10,7 @@
 - **Distrito:** Chulucanas
 
 ## Definición Formal del Problema
-<p align="center">
-La falta de electricidad en el colegio de San José Obrero impide el desarrollo educativo.
-</p>
+<h3 align="center">"La falta de electricidad en el colegio de San José Obrero impide el desarrollo educativo".</h1>
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen01.png" width="950" style="margin: auto;">
