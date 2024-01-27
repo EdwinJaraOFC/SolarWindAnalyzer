@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-    <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
+    <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="250" alt="LogoCayetano">
   </p>  
   <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Conoce Más Acerca de Nosotros</h1>
 </p>
