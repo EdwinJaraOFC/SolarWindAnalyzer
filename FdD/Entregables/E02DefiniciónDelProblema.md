@@ -7,7 +7,7 @@
 - **Departamento:** Piura
 - **Provincia:** Morropón
 - **Distrito:** Chulucanas
-- **Problemática:** La falta de acceso a la electricidad en el colegio San José Obrera 15357 (Km.41 Carretera a Chulucanas). 
+- **Problemática:** La falta de acceso a la electricidad en el colegio San José Obrero 15357 (Km.41 Carretera a Chulucanas). 
 
 ## Definición Formal del Problema
 <p align="justify">
