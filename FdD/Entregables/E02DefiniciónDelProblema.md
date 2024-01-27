@@ -21,25 +21,12 @@
 El plan de gestión de la Municipalidad Provincial de Morropón - Chulucanas para el periodo 2018 - 2022 hace referencia a aspectos significativos relacionados con el sitio en cuestión, tales como:
 </p>
 
-### Geografía
-<p align="justify">
-La región presenta una variedad de pisos ecológicos y diversidad de suelos, así como una amplia gama de estratos socioeconómicos y actividades económicas predominantes.
-</p>
-
-### Economía
-<p align="justify">
-El área presenta una extensa cobertura vegetal con la presencia de árboles resistentes al clima, como plátanos, mangos, cítricos y otros. Además, se dedica a la ganadería, la cual representa la principal fuente de ingresos, al igual que la agricultura, destinada tanto al autoconsumo como a la comercialización.
-</p>
-
-### Clima
-<p align="justify">
-El clima en la provincia de Morropón se caracteriza por ser cálido y seco, con una temperatura promedio de alrededor de 24-26°C. La evaporación es alta y las lluvias son irregulares, lo que puede generar ciclos de sequía y lluvias intensas.
-</p>
-
-### Aspectos Sociales
-<p align="justify">
-La vulnerabilidad agrícola surge de la interacción de factores físicos, como los efectos climáticos en la productividad, y factores sociales, como el nivel educativo, el acceso a la tecnología y el capital disponible, entre otros. Además, se ha registrado un incremento en la tasa de deforestación debido al uso de la biomasa para la iluminación y la cocción (Morropón, M. D, 2017).
-</p>
+| <center>Características Resaltadas</center> | <center>Descripción</center> |
+| ------------ | ------------ |
+| <center>**Aspectos Sociales**</center> | <p align="justify">La vulnerabilidad agrícola surge de la interacción de factores físicos, como los efectos climáticos en la productividad, y factores sociales, como el nivel educativo, el acceso a la tecnología y el capital disponible, entre otros. Además, se ha registrado un incremento en la tasa de deforestación debido al uso de la biomasa para la iluminación y la cocción (Morropón, M. D, 2017).</p> |
+| <center>**Clima**</center> | <p align="justify">El clima en la provincia de Morropón se caracteriza por ser cálido y seco, con una temperatura promedio de alrededor de 24-26°C. La evaporación es alta y las lluvias son irregulares, lo que puede generar ciclos de sequía y lluvias intensas.</p> |
+| <center>**Economía**</center> | <p align="justify">El área presenta una extensa cobertura vegetal con la presencia de árboles resistentes al clima, como plátanos, mangos, cítricos y otros. Además, se dedica a la ganadería, la cual representa la principal fuente de ingresos, al igual que la agricultura, destinada tanto al autoconsumo como a la comercialización.</p> |
+| <center>**Geografía**</center> | <p align="justify">La región presenta una variedad de pisos ecológicos y diversidad de suelos, así como una amplia gama de estratos socioeconómicos y actividades económicas predominantes.</p> |
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
