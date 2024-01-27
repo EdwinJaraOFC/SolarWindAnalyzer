@@ -1,4 +1,8 @@
-# Contexto Social y Económico
+<p align="left">
+  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
+  <h1 align="center">Contexto Social y Económico</h1>
+</p>
+
 # Impactos Sociales de la Falta de Suministro Eléctrico en Piura, Perú
 
 ## 1.- **A Nivel Regional**
