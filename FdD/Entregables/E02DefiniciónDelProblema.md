@@ -3,11 +3,11 @@
   <h1 align="center">Definición Del Problema</h1>
 </p>
 
+- **Problemática:** Falta de acceso a la electricidad en el colegio San José Obrero 15357 (Km.41 Carretera a Chulucanas). 
 - **Ubicación de estudio:** San Jose Obrero (Colegio)
 - **Departamento:** Piura
 - **Provincia:** Morropón
 - **Distrito:** Chulucanas
-- **Problemática:** La falta de acceso a la electricidad en el colegio San José Obrero 15357 (Km.41 Carretera a Chulucanas). 
 
 ## Definición Formal del Problema
 <p align="justify">
