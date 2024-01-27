@@ -1,4 +1,8 @@
-# Caja Negra y Esquema de Funciones
+<p align="left">
+  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
+  <h1 align="center">Caja Negra y Esquema de Funciones</h1>
+</p>
+
 ## Caja Negra
 
 <p align="center">
