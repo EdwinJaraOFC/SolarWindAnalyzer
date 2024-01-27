@@ -48,7 +48,7 @@ La vulnerabilidad agrícola surge de la interacción de factores físicos, como 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="800" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E02Imagen02.png" width="600" style="margin: auto;">
 </p>
 
 ## Herramientas para identificar el problema
