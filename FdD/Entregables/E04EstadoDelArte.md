@@ -190,22 +190,20 @@ Por lo general, la instalación de paneles solares en las escuelas requiere una 
 
 ---
 ## Bibliografía
-Bertolotti, F., et al (2013). ES2431829T3 - Sistema sensor eólico que utiliza señales de aspas - Google Patents. https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4<br>
+Bertolotti, F., et al (2013). ES2431829T3 - Sistema sensor eólico que utiliza señales de aspas - Google Patents.<br>https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4
 
-BOE-A-2019-5089 Real Decreto 244/2019, de 5 de abril, por el que se regulan las condiciones administrativas, técnicas y económicas del autoconsumo de energía eléctrica. (n.d.).
-https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5089<br>
+BOE-A-2019-5089 Real Decreto 244/2019, de 5 de abril, por el que se regulan las condiciones administrativas, técnicas y económicas del autoconsumo de energía eléctrica. (n.d.).<br>https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5089
 
-ENERLIFE, (2020). Velocidad del viento mínima para una instalación eólica en 3 pasos.
-https://enerlife.cl/velocidad-del-viento-minima-para-una-instalacion-eolica-en-3-pasos/<br>
+ENERLIFE, (2020). Velocidad del viento mínima para una instalación eólica en 3 pasos.<br>https://enerlife.cl/velocidad-del-viento-minima-para-una-instalacion-eolica-en-3-pasos/
 
-Hong, S. et al., (2014) . ES2473640T3 - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia - Google Patents. https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1<br>
+Hong, S. et al., (2014) . ES2473640T3 - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia - Google Patents.<br>https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1
 
-Olesen, I. S. (2015). ES2553980T3 - Un sensor óptico de viento de turbina eólica - Google Patents. https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=6<br>
+Olesen, I. S. (2015). ES2553980T3 - Un sensor óptico de viento de turbina eólica - Google Patents.<br>https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=6
 
-Quesada-Kimsey, J. et al  (2009). Desarrollo de un sistema de adquisición de datos de campo para variables ambientales y de un sensor de viento, ambos de bajo costo y de arquitectura abierta. https://repositoriotec.tec.ac.cr/handle/2238/5776<br>
+Quesada-Kimsey, J. et al  (2009). Desarrollo de un sistema de adquisición de datos de campo para variables ambientales y de un sensor de viento, ambos de bajo costo y de arquitectura abierta.<br>https://repositoriotec.tec.ac.cr/handle/2238/5776
 
-Scopus preview -  Scopus (2012)  - A Neural Network Based Intelligent Predictive Sensor for Cloudiness, Solar Radiation and Air Temperature. (n.d.). https://www.scopus.com/home.uri<br>
+Scopus preview -  Scopus (2012)  - A Neural Network Based Intelligent Predictive Sensor for Cloudiness, Solar Radiation and Air Temperature. (n.d.).<br>https://www.scopus.com/home.uri
 
-Solpro. (2021). ¿Qué ventajas tiene instalar placas solares en los colegios? SOLPRO ENERGIA SOLAR. https://solproenergiasolar.com/ventajas-de-instalar-placas-solares-en-los-colegios/<br>
+Solpro. (2021). ¿Qué ventajas tiene instalar placas solares en los colegios? SOLPRO ENERGIA SOLAR.<br>https://solproenergiasolar.com/ventajas-de-instalar-placas-solares-en-los-colegios/
 
-Stavrou, P., et al (2012). ES2389794B2 - Sistema y método de seguimiento de la radiación solar. - Google Patents. https://patents.google.com/patent/ES2389794B2/es?q=(sensor+de+radiacion+solar)&oq=sensor+de+radiacion+solar
+Stavrou, P., et al (2012). ES2389794B2 - Sistema y método de seguimiento de la radiación solar. - Google Patents.<br>https://patents.google.com/patent/ES2389794B2/es?q=(sensor+de+radiacion+solar)&oq=sensor+de+radiacion+solar
