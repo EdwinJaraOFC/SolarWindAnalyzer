@@ -3,7 +3,7 @@
   <h1 align="center">Definición Del Problema</h1>
 </p>
 
-- **Ubicación del estudio:** San Jose Obrero (Colegio)
+- **Ubicación de estudio:** San Jose Obrero (Colegio)
 - **Departamento:** Piura
 - **Provincia:** Morropón
 - **Distrito:** Chulucanas
