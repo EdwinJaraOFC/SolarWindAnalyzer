@@ -57,9 +57,9 @@ El plan de gestión de la Municipalidad Provincial de Morropón - Chulucanas par
 | <p align="center">**Sistemas fotovoltaicos**</p> | <p align="justify">La integración de sistemas fotovoltaicos complementará la generación de energía híbrida, aprovechando la radiación solar disponible en la región.</p> |
 
 ## Propuesta Formal de Solución
-<p align="justify">
-Crear un sistema de baja potencia a base de sensores que puedan monitorear las características de la radiación solar y la velocidad del viento,  con el objetivo de transmitir datos desde los sensores y dispositivos IoT hacia la plataforma central.
-</p>
+<h3 align="center">
+"Crear un sistema de baja potencia a base de sensores que puedan monitorear las características de la radiación solar y la velocidad del viento,  con el objetivo de transmitir datos desde los sensores y dispositivos IoT hacia la plataforma central".
+</h3>
 
 ---
 ### Bibliografía
