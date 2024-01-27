@@ -39,12 +39,10 @@ De acuerdo con Paul Akiwumi, representante de la UNCTAD, la ausencia de la energ
 Asegurar el acceso energético universal se presenta como una necesidad imperativa para reducir la brecha en el desarrollo global y mejorar las condiciones en una gran parte de la población. La implementación de soluciones sostenibles se erige como un pilar fundamental para alcanzar este objetivo, abordando los desafíos desde una perspectiva integral que considere factores sociales, económicos y ambientales.
 </p>
 
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen03.png" width="600" style="margin: auto;">
-</p>
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen04.png" width="600" style="margin: auto;">
-</p>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen03.png" width="500px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen04.png" width="500px"/>
+</div>
 
 # El impacto económico de la privación del suministro a la energía eléctrica en Piura, Perú
 
