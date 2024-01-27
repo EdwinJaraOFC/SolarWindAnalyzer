@@ -5,7 +5,7 @@
 
 # Impactos Sociales de la Falta de Suministro Eléctrico en Piura, Perú
 
-## 1.- **A Nivel Regional**
+## 1. **A Nivel Regional**
 
 <p align="justify">
 En Perú, más de 700 mil hogares carecen de conexión al Sistema Eléctrico Interconectado Nacional, siendo alrededor de 21 mil viviendas rurales en Piura las afectadas, según datos del Instituto Nacional de Estadística e Informática (INEI). Estos indican que aproximadamente el 5% de las viviendas en la región no tienen acceso al alumbrado eléctrico de la red pública, y un 11% de la población depende de la biomasa como fuente de energía, recolectando leña y enfrentando diversos obstáculos.
@@ -17,7 +17,7 @@ La situación de pobreza energética evidencia la falta de desarrollo sostenible
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen01.png" width="600" style="margin: auto;">
 </p>
 
-## 2.- **A Nivel Nacional**
+## 2. **A Nivel Nacional**
 
 <p align="justify">
 El informe destaca una persistente brecha de acceso al servicio eléctrico entre zonas rurales y urbanas, aunque ha disminuido relativamente en el último año. Mientras la mayoría de los departamentos costeros supera el  aproximandamente el 97% de acceso, Loreto y Amazonas presentan niveles inferiores al 88%.
@@ -29,7 +29,7 @@ Según la Encuesta Nacional de Hogares del INEI, el suministro eléctrico no est
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen02.png" width="600" style="margin: auto;">
 </p>
 
-## **3.- A Nivel Mundial**
+## **3. A Nivel Mundial**
 
 <p align="justify">
 La limitación en la disponibilidad eléctrica a nivel mundial constituye un desafío de considerable magnitud para el avance y la prosperidad de las comunidades, especialmente en países subdesarrollados. Esta carencia repercute en diversos aspectos sociales, económicos y ambientales, generando consecuencias graves y multifacéticas.
@@ -46,7 +46,7 @@ Asegurar el acceso energético universal se presenta como una necesidad imperati
 
 # El impacto económico de la privación del suministro a la energía eléctrica en Piura, Perú
 
-## **1.- A Nivel Regional**
+## **1. A Nivel Regional**
 
 En la región de Piura, se ha evidenciado una producción considerable de gigavatios de energía eléctrica, según la tabla del informe del Ministerio de Energía y Minas para el año 2021. Es relevante señalar que la generación térmica destaca como la más notable en términos de cantidad. Sin embargo, esta predominancia podría tener implicaciones negativas, ya que no contribuye a reducir la dependencia de fuentes más contaminantes ni a promover una mayor sostenibilidad en la generación de electricidad.
 
@@ -61,7 +61,7 @@ A pesar de estos esfuerzos, la persistente  escasez del derecho a la energía el
 </p>
 
 
-## **2.- A Nivel Nacional**
+## **2. A Nivel Nacional**
 
 <p align="justify">
 El Perú ha demostrado un éxito notable en su historia reciente, experimentando un significativo aumento económico y disminución de la pobreza. Datos recientes hasta agosto de 2023 revelan un panorama más complejo, con la economía peruana enfrentando una contracción del PBI, desafíos en el mercado laboral y finanzas gubernamentales afectadas por la incertidumbre política y eventos climáticos, (Banco mundial, 2023).
@@ -74,7 +74,7 @@ Sin embargo, la reducción en -0.1% del PBI en el Perú durante noviembre del 20
 </p>
 
 
-### **3.1 Sectores específicos**
+### **2.1. Sectores específicos**
 
 <p align="justify">
 En el tercer trimestre de 2023, se registró una disminución del 3.1% en la industria de comunicación y servicios informativos, indicando la presencia de posibles desafíos en este sector. En contraste, los sectores de Electricidad, gas y agua experimentaron un crecimiento del 3.0%, mientras que en transporte, almacenamiento, correo y mensajería se observó un crecimiento del 0.2% (INEI, 2023, pg. 9).
@@ -90,7 +90,7 @@ El ligero incremento en Transporte, almacenamiento, correo y mensajería puede i
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen08.png" width="600" style="margin: auto;">
 </p>
 
-### **Producción Eléctrica**
+### **2.2. Producción Eléctrica**
 <p align="justify">
 Durante el tercer trimestre de 2023, se evidenció un incremento en el valor agregado bruto de la actividad de electricidad, gas y agua en Perú, destacando principalmente por el aumento en la producción de electricidad y gas (INEI, 2023). Este resultado positivo fue impulsado en gran medida por el notable aumento en la producción de energía eléctrica por parte de diversas empresas, incluyendo Enel Generación Perú y Engie Energía Perú (INEI, 2023), lo cual compensó las reducciones experimentadas por algunas otras empresas en el mismo sector.
 
@@ -101,10 +101,10 @@ Este crecimiento en la actividad de electricidad, gas y agua evidencia la capaci
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E03Imagen09.png" width="600" style="margin: auto;">
 </p>
 
-## **3.- A Nivel Mundial**
+## **3. A Nivel Mundial**
 
 
-### **Contexto de la manufactura Eléctrica**
+### **3.1. Contexto de la manufactura Eléctrica**
 <p align="justify">
 La hidroenergía emerge como el componente dominante, representando el 59% de la generación total (OLADE, 2020). Este enfoque en la hidroenergía destaca la dependencia de fuentes renovables, pero también plantea interrogantes sobre la diversificación y la resiliencia del sistema energético ante posibles variaciones climáticas.
 
@@ -120,7 +120,7 @@ La gráfica emitida por OLADE indica un cambio significativo en la matriz energ�
 
 Dada la disminución en 2019, es esencial explorar estrategias para garantizar un suministro energético sostenible y resiliente en la Zona Andina. La inversión en la eficiencia energética son áreas clave a considerar y aprovechar las oportunidades emergentes en el panorama energético global.
 
-### **Efecto económico según la  Estructura de Intensidad Energética**
+### **3.2. Efecto económico según la  Estructura de Intensidad Energética**
 
 El fenómeno del cambio estructural en la composición sectorial del Producto Interno Bruto (PIB) puede tener consecuencias significativas en la intensidad energética final en la Zona Andina, (OLADE, 2020). En este análisis, se destaca cómo una economía orientada hacia el sector de servicios puede influir en la optimización del uso de energía y, por lo tanto, en la intensidad energética final.
 
