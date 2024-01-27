@@ -1,4 +1,8 @@
-# Estado del Arte
+<p align="left">
+  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="200">
+  <h1 align="center">Estado Del Arte</h1>
+</p>
+
 ## Contexto científico
 ### Artículo 1
 ### Desarrollo de un sistema de adquisición de datos de campo para variables ambientales y de un sensor de viento, ambos de bajo costo y de arquitectura abierta
