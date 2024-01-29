@@ -6,18 +6,21 @@
 ## Matriz Morfológica
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E05Imagen01.png" width="950" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E06Imagen01.png" width="950" style="margin: auto;">
 </p>
 
 ## Evaluación de Conceptos de Solución
 ## Tabla de Valoración
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E05Imagen01.png" width="950" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E06Imagen02.png" width="950" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E06Imagen03.png" width="950" style="margin: auto;">
 </p>
 
 ## Conclusión
 
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E05Imagen01.png" width="950" style="margin: auto;">
+<p align="justify">
+La matriz morfológica y la tabla de valoración nos han permitido identificar tres conjuntos de soluciones potenciales para nuestro desafío. Tras un exhaustivo análisis, el CS1 se destacó como la opción más idónea debido a su alta accesibilidad, rentabilidad y viabilidad para la realización exitosa de nuestro prototipo. Esta elección estratégica nos garantiza una sólida base para avanzar con confianza en nuestro proyecto, asegurando que estamos tomando decisiones fundamentadas y efectivas. 
 </p>
