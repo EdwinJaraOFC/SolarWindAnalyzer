@@ -13,7 +13,7 @@
 ## Tabla de Valoración
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E06Imagen02.png" width="650" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E06Imagen02.png" width="450" style="margin: auto;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E06Imagen03.png" width="450" style="margin: auto;">
 </div>
 
