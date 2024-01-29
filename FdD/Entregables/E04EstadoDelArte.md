@@ -180,7 +180,7 @@ Se trata de un sensor óptico instalado en el rotor de una turbina eólica, comp
 #### Velocidad del viento
 
 <p align="justify">
-La energía eólica aprovecha la fuerza del viento para producir electricidad, mientras que los paneles solares convierten la luz solar en electricidad. Por lo tanto, la velocidad del viento se mide en kilómetros por  hora (km/h), metros por segundo (m/s) o nudos, y se estudia con un anemómetro. Asimismo, para que un aerogenerador funcione, se necesita una velocidad mínima de viento de 3-4 m/s, pero para plantear un proyecto eólico, la velocidad media anual del viento debe ser al menos de 5 m/s, (ENERLIFE, 2020). 
+La energía eólica aprovecha la fuerza del viento para producir electricidad, mientras que los paneles solares convierten la luz solar en electricidad. Por lo tanto, la velocidad del viento se mide en kilómetros por  hora (km/h), metros por segundo (m/s) o nudos, y se estudia con un anemómetro. Asimismo, para que un aerogenerador funcione, se necesita una velocidad mínima de viento de 3-4 m/s, pero para plantear un proyecto eólico, la velocidad media anual del viento debe ser al menos de 5 m/s, (ENERLIFE, 2020).
 </p>
 
 #### Radiación solar
@@ -190,7 +190,17 @@ En la presente era, la electricidad desempeña un papel esencial en el respaldo 
 </p>
 
 <p align="justify">
-Por lo general, la instalación de paneles solares en las escuelas requiere una instalación fotovoltaica de menos de 100 kW, según el Real Decreto RD 244/2019. Además,  la medición se realiza con ayuda de un sensor de radiación o piranómetro ubicado hacia el sur y en un área sin sombras. La unidad de medida es vatios por metro cuadrado (W/m²), (Real decreto, 2019).
+Por lo general, la instalación de paneles solares en las escuelas requiere una instalación fotovoltaica de menos de 1000 W/m², según el Real Decreto RD 244/2019. Además,  la medición se realiza con ayuda de un sensor de radiación o piranómetro ubicado hacia el sur y en un área sin sombras. La unidad de medida es vatios por metro cuadrado (W/m²), (Real decreto, 2019).
+</p>
+
+### Tiempo de estudio
+#### Análisis prolongado del tiempo de estudio para determinar la eficiencia de energía renovable con el dispositivo
+<p align="justify">
+La realización de un estudio relámpago sobre las características de la energía renovable en el Colegio San José se enfrenta a un desafío temporal crítico, con un margen de desarrollo del proyecto limitado a tres días. Con el objetivo de realizar una evaluación instantánea, proponemos la implementación de un dispositivo de monitoreo de vanguardia, como un sistema de sensores IoT con capacidad de recopilación de datos en tiempo real. Este enfoque permitirá adquirir información detallada sobre la radiación solar, la velocidad del viento y otros parámetros pertinentes en un lapso tan breve.
+</p>
+
+<p align="justify">
+Dada la urgencia del estudio, la determinación de la fuente de energía renovable más eficiente se centrará en métricas clave de rendimiento, como la densidad de potencia y la capacidad de generación inmediata. Además, se sugiere incluir en el análisis el artículo "Sistema De Monitoreo de Variables Medioambientales Usando Una Red de Sensores Inalámbricos y Plataformas De Internet De Las Cosas", (Quiñones-Cuenca et al., 2017). Este artículo presenta una perspectiva sobre la aplicación de sistemas de monitoreo inalámbricos e IoT para evaluar variables medioambientales, lo cual podría complementar y enriquecer el análisis del estudio en el Colegio San José.
 </p>
 
 ---
