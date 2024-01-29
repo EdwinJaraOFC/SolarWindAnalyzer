@@ -19,16 +19,17 @@ Se realizaron pruebas para evaluar la velocidad del viento mediante un mecanismo
 </p>
 
 ### Artículo 2
-### Examining the decreasing share of renewable energy amid growing thermal capacity: The case of South America
+### Smart Grid y la energía solar fotovoltaica para la generación distribuida
 <p align="justify">
-En las últimas décadas, ha aumentado la promoción de las energías renovables como medida clave para abordar las crecientes emisiones de gases de efecto invernadero y enfrentar los desafíos del cambio climático, especialmente en el marco de acuerdos internacionales como el de París. A pesar de estos esfuerzos a nivel global, el sector energético continúa siendo predominantemente dependiente de combustibles fósiles, representando aproximadamente el 65,3% de la producción mundial de electricidad en 2016.
-</p>
-<p align="justify">
-En América del Sur, el enfoque en la evolución de la matriz eléctrica revela una tendencia preocupante: a pesar de los compromisos gubernamentales para fomentar las energías renovables, se observa una disminución en su participación, planteando cuestionamientos sobre la efectividad de las medidas actuales. Este análisis, estructurado en secciones que abordan la metodología, hallazgos en el sector energético, evolución de la capacidad instalada y discusión de resultados, subraya la necesidad apremiante de reevaluar políticas y acciones para garantizar una transición efectiva hacia fuentes de energía más sostenibles, considerando específicamente la relación entre oferta y demanda de energías renovables. Esta transición es crucial no solo para cumplir con los compromisos internacionales, sino también para mitigar los impactos del cambio climático en la región, destacando la importancia de abordar los factores climáticos en la planificación de políticas energéticas, (Arango-Aramburo et al., 2020).
+La Red Inteligente (Smart Grid) se perfila como la siguiente fase crucial en la evolución de la red eléctrica tradicional, focalizándose en la integración de fuentes de energía renovable, especialmente a través de tecnologías fotovoltaicas. Con la creciente demanda global de energía, se busca el desarrollo de técnicas para aprovechar energías renovables de manera accesible, condicionado por políticas estatales y reducciones en costos tecnológicos. Mejorar la eficiencia de la energía solar mediante estudios técnicos de conversores de paneles solares y sistemas automatizados para gestionar la carga y descarga de baterías se presenta como un enfoque clave.
 </p>
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen02.png" width="500" style="margin: auto;">
+</p>
+
+<p align="justify">
+En el panorama actual, donde más del 80 % de la energía proviene de combustibles fósiles, contribuyendo a la contaminación y al calentamiento global, las fuentes de energía renovable representan el 15-20 % de la demanda. Estas se posicionan como soluciones efectivas para abordar el cambio climático. Tecnologías fotovoltaicas a pequeña escala se consideran costo-efectivas, evidenciado en casos como Australia, donde ofrecen electricidad en áreas remotas. La transición hacia una red eléctrica moderna, impulsada por fuentes renovables, se vislumbra como esencial para afrontar la crisis energética y ambiental a nivel mundial (Berrío & Zuluaga, 2014).
 </p>
 
 ### Artículo 3
