@@ -44,21 +44,9 @@
 | ------------ |
 | <p align="justify">**ES2473640T3** - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia<br>**Fecha de Publicación:** 07/07/2014<br>**Número de Publicación:** 2473640<br>**Inventor(es):** Hong Seokhoon, Kang Mun-Sig y Jang Byung-Seok<br></p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente01.png" width="550" style="margin: auto;"></p></p><p align="justify">Este dispositivo innovador es esencialmente un panel solar inteligente que sigue la trayectoria del sol para maximizar la captación de energía solar. Imagina un panel solar especial con la capacidad de enfocar la luz solar en un punto específico utilizando una lente de Fresnel. Este panel cuenta con un "ojo" especial, un sensor de seguimiento solar, que detecta y sigue el punto focal de la luz concentrada. Además, para una eficiencia óptima, el sistema incorpora detectores de luz solar en diferentes lados del panel. Dos unidades de control ajustan la posición del panel: una basada en la luminosidad general medida por los detectores solares y la otra utilizando información detallada del punto focal de la luz concentrada. Para evitar pérdidas de luz solar valiosa, se emplean lentes estratégicamente colocadas. En resumen, este dispositivo asegura que los paneles solares estén constantemente orientados hacia el sol de la manera más eficiente posible, permitiendo una generación de energía solar óptima.<br><br>Extraído de:<br><br>https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1</p>|
 
-### Patente 2
-**WO2008145796** - Sensor de Radiación Solar<br>
-**Fecha de Publicación:** 04/12/2008<br>
-**Número de Publicación:** WO/2008/145796<br>
-**Inventor(es):** Cruz Peragon Fernando, Casanova Pelaez Pedro, Diaz Garrido Francisco y Palomar Carnicero José<br>
-
-https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2008145796&_cid=P11-LRK4L0-55712-1
-
-<p align="justify">
-Esta patente posibilita la medición constante de la radiación incidente global en cada unidad diferencial de la superficie de una semiesfera. Emplea una estructura sencilla y compacta, prescindiendo de elementos electromecánicos para realizar estas mediciones. La superficie semiesférica aloja células o sensores de radiación solar, cada uno con ángulos acimutales terrestres e inclinaciones únicos. Cada célula está emparejada a un sensor de temperatura, cuya función es corregir las variaciones térmicas en las señales medidas. Las señales de ambas unidades se amplifican y se conectan a un sistema de adquisición, evaluación y gestión de datos, como un ordenador, posibilitando así el control del sistema solar vinculado al dispositivo.
-</p>
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente02.png" width="550" style="margin: auto;">
-</p>
+| <center>Patente 2</center> |
+| ------------ |
+| <p align="justify">**WO2008145796** - Sensor de Radiación Solar<br>**Fecha de Publicación:** 04/12/2008<br>**Número de Publicación:** WO/2008/145796<br>**Inventor(es):** Cruz Peragon Fernando, Casanova Pelaez Pedro, Diaz Garrido Francisco y Palomar Carnicero José</p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente02.png" width="550" style="margin: auto;"></p></p><p align="justify">Esta patente posibilita la medición constante de la radiación incidente global en cada unidad diferencial de la superficie de una semiesfera. Emplea una estructura sencilla y compacta, prescindiendo de elementos electromecánicos para realizar estas mediciones. La superficie semiesférica aloja células o sensores de radiación solar, cada uno con ángulos acimutales terrestres e inclinaciones únicos. Cada célula está emparejada a un sensor de temperatura, cuya función es corregir las variaciones térmicas en las señales medidas. Las señales de ambas unidades se amplifican y se conectan a un sistema de adquisición, evaluación y gestión de datos, como un ordenador, posibilitando así el control del sistema solar vinculado al dispositivo.<br><br>Extraído de:<br><br>https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2008145796&_cid=P11-LRK4L0-55712-1</p>|
 
 ### Patente 3
 **ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas<br>
