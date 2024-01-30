@@ -58,7 +58,7 @@ El plan de gestión de la Municipalidad Provincial de Morropón - Chulucanas par
 
 ## Propuesta Formal de Solución
 <h3 align="center">
-"Crear un sistema de baja potencia a base de sensores que puedan monitorear las características de la radiación solar y la velocidad del viento,  con el objetivo de transmitir datos desde los sensores y dispositivos IoT hacia la plataforma central".
+"Crear un sistema de baja potencia a base de sensores que puedan monitorear las características de la radiación solar y la velocidad del viento, con el objetivo de transmitir datos desde los sensores y dispositivos IoT que enviarán los datos recopilados a una plataforma en la nube de gestión centralizada".
 </h3>
 
 ---
