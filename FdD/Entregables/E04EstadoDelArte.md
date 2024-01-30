@@ -50,23 +50,11 @@
 
 | <center>Patente 3</center> |
 | ------------ |
-| <p align="justify">**ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas<br>**Fecha de Publicación:** 28/11/2013<br>**Número de Publicación:** 2431829<br>**Inventor(es):** Fabio Bertolotti y Jens Carpintero</p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente03.png" width="550" style="margin: auto;"></p></p><p align="justify">Sistema que utiliza al menos un sensor en una de las aspas de la turbina para medir una cantidad física que refleja una característica del campo de velocidad del viento. Esta información se procesa a través de una tabla que se ha construido previamente, asociando los valores de los componentes cíclicos y constantes de la señal del sensor con los valores correspondientes de la velocidad del viento bajo diversas condiciones.<br><br></brLa>La tabla resultante se utiliza como referencia para determinar, mediante unos medios de búsqueda, el valor de la característica del campo de velocidad del viento en tiempo real, considerando la condición actual del viento. En resumen, el sistema aprovecha la información recopilada previamente para estimar la velocidad del viento actual y, por ende, optimizar el rendimiento de la turbina eólica.<br><br>Extraído de:<br><br>https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4</p>|
+| <p align="justify">**ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas<br>**Fecha de Publicación:** 28/11/2013<br>**Número de Publicación:** 2431829<br>**Inventor(es):** Fabio Bertolotti y Jens Carpintero</p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente03.png" width="550" style="margin: auto;"></p></p><p align="justify">Sistema que utiliza al menos un sensor en una de las aspas de la turbina para medir una cantidad física que refleja una característica del campo de velocidad del viento. Esta información se procesa a través de una tabla que se ha construido previamente, asociando los valores de los componentes cíclicos y constantes de la señal del sensor con los valores correspondientes de la velocidad del viento bajo diversas condiciones. La tabla resultante se utiliza como referencia para determinar, mediante unos medios de búsqueda, el valor de la característica del campo de velocidad del viento en tiempo real, considerando la condición actual del viento. En resumen, el sistema aprovecha la información recopilada previamente para estimar la velocidad del viento actual y, por ende, optimizar el rendimiento de la turbina eólica.<br><br>Extraído de:<br><br>https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4</p>|
 
-### Patente 4
-**ES2553980T3** - Un sensor óptico de viento de turbina eólica<br>
-**Fecha de Publicación:** 15/12/2015<br>
-**Número de Publicación:** 2553980<br>
-**Inventor:** Olessen y IB Svend<br>
-
-https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=6
-
-<p align="justify">
-Se trata de un sensor óptico instalado en el rotor de una turbina eólica, compuesto por varias fuentes de luz colocadas angularmente en el rotor. Estas fuentes emiten haces de luz que atraviesan las palas del rotor con ángulos específicos. Dispositivos receptores de luz, también montados en el rotor, detectan destellos de luz provocados por partículas en el viento. Un controlador procesa estos destellos para calcular tiempos de tránsito de las partículas a través de los haces de luz, proporcionando así información sobre la velocidad y dirección del viento tanto en la dirección axial como en el plano de rotación del rotor. En resumen, el sensor utiliza la interacción de la luz con partículas en el viento para medir la velocidad y dirección del viento en diferentes direcciones.
-</p>
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente04.png" width="550" style="margin: auto;">
-</p>
+| <center>Patente 4</center> |
+| ------------ |
+| <p align="justify">**ES2553980T3** - Un sensor óptico de viento de turbina eólica<br>**Fecha de Publicación:** 15/12/2015<br>**Número de Publicación:** 2553980<br>**Inventor:** Olessen y IB Svend</p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente04.png" width="550" style="margin: auto;"></p></p><p align="justify">Se trata de un sensor óptico instalado en el rotor de una turbina eólica, compuesto por varias fuentes de luz colocadas angularmente en el rotor. Estas fuentes emiten haces de luz que atraviesan las palas del rotor con ángulos específicos. Dispositivos receptores de luz, también montados en el rotor, detectan destellos de luz provocados por partículas en el viento. Un controlador procesa estos destellos para calcular tiempos de tránsito de las partículas a través de los haces de luz, proporcionando así información sobre la velocidad y dirección del viento tanto en la dirección axial como en el plano de rotación del rotor. En resumen, el sensor utiliza la interacción de la luz con partículas en el viento para medir la velocidad y dirección del viento en diferentes direcciones.<br><br>Extraído de:<br><br>https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=6</p>|
 
 ## Lista de requerimientos
 ### Funcionales
