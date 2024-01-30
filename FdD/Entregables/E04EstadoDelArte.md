@@ -40,21 +40,9 @@
 | <p align="justify">**Creador:** EXCTECH instruments</p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Imagen06.png" width="400" style="margin: auto;"></p></p><p align="justify">El Extech SP505 se destaca como un dispositivo esencial para medir la potencia de la radiación solar y facilitar la determinación de la ubicación ideal para instalaciones solares. Su versatilidad abarca la evaluación de la eficacia de la película solar, la medición precisa de la radiación solar y la comprobación de ventanas con aislamiento solar. En la industria automotriz, este medidor de bolsillo también se emplea para verificar la intensidad de los faros. Su utilidad se extiende incluso a la industria de ventanas, donde los fabricantes y propietarios de viviendas en remodelación confían en él para evaluar la transmisión de radiación solar a través de diferentes espesores de vidrio y niveles de tinte. Además, el SP505 ayuda a encontrar el ángulo óptimo de incidencia para maximizar la eficiencia de paneles solares y calentadores de agua solares. El producto se entrega completamente probado y calibrado.<br><br>Extraído de:<br><br>https://www.finaltest.com.mx/v/vspfiles/assets/datasheet/SP505_UM.pdf<br><br>https://www.comerciogc.com/intranet/assets/images/archivos/43-ficha-tecnica.pdf</p>|
 
 ## Patentes de Invención
-### Patente 1
-**ES2473640T3** - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia<br>
-**Fecha de Publicación:** 07/07/2014<br>
-**Número de Publicación:** 2473640<br>
-**Inventor(es):** Hong Seokhoon, Kang Mun-Sig y Jang Byung-Seok<br>
-
-https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1
-
-<p align="justify">
-Este dispositivo innovador es esencialmente un panel solar inteligente que sigue la trayectoria del sol para maximizar la captación de energía solar. Imagina un panel solar especial con la capacidad de enfocar la luz solar en un punto específico utilizando una lente de Fresnel. Este panel cuenta con un "ojo" especial, un sensor de seguimiento solar, que detecta y sigue el punto focal de la luz concentrada. Además, para una eficiencia óptima, el sistema incorpora detectores de luz solar en diferentes lados del panel. Dos unidades de control ajustan la posición del panel: una basada en la luminosidad general medida por los detectores solares y la otra utilizando información detallada del punto focal de la luz concentrada. Para evitar pérdidas de luz solar valiosa, se emplean lentes estratégicamente colocadas. En resumen, este dispositivo asegura que los paneles solares estén constantemente orientados hacia el sol de la manera más eficiente posible, permitiendo una generación de energía solar óptima.
-</p>
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente01.png" width="550" style="margin: auto;">
-</p>
+| <center>Patente 1</center> |
+| ------------ |
+| <p align="justify">**ES2473640T3** - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia<br>**Fecha de Publicación:** 07/07/2014<br>**Número de Publicación:** 2473640<br>**Inventor(es):** Hong Seokhoon, Kang Mun-Sig y Jang Byung-Seok<br></p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente01.png" width="550" style="margin: auto;"></p></p><p align="justify">Este dispositivo innovador es esencialmente un panel solar inteligente que sigue la trayectoria del sol para maximizar la captación de energía solar. Imagina un panel solar especial con la capacidad de enfocar la luz solar en un punto específico utilizando una lente de Fresnel. Este panel cuenta con un "ojo" especial, un sensor de seguimiento solar, que detecta y sigue el punto focal de la luz concentrada. Además, para una eficiencia óptima, el sistema incorpora detectores de luz solar en diferentes lados del panel. Dos unidades de control ajustan la posición del panel: una basada en la luminosidad general medida por los detectores solares y la otra utilizando información detallada del punto focal de la luz concentrada. Para evitar pérdidas de luz solar valiosa, se emplean lentes estratégicamente colocadas. En resumen, este dispositivo asegura que los paneles solares estén constantemente orientados hacia el sol de la manera más eficiente posible, permitiendo una generación de energía solar óptima.<br><br>Extraído de:<br><br>https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1</p>|
 
 ### Patente 2
 **WO2008145796** - Sensor de Radiación Solar<br>
