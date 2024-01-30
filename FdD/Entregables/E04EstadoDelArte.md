@@ -48,25 +48,9 @@
 | ------------ |
 | <p align="justify">**WO2008145796** - Sensor de Radiación Solar<br>**Fecha de Publicación:** 04/12/2008<br>**Número de Publicación:** WO/2008/145796<br>**Inventor(es):** Cruz Peragon Fernando, Casanova Pelaez Pedro, Diaz Garrido Francisco y Palomar Carnicero José</p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente02.png" width="550" style="margin: auto;"></p></p><p align="justify">Esta patente posibilita la medición constante de la radiación incidente global en cada unidad diferencial de la superficie de una semiesfera. Emplea una estructura sencilla y compacta, prescindiendo de elementos electromecánicos para realizar estas mediciones. La superficie semiesférica aloja células o sensores de radiación solar, cada uno con ángulos acimutales terrestres e inclinaciones únicos. Cada célula está emparejada a un sensor de temperatura, cuya función es corregir las variaciones térmicas en las señales medidas. Las señales de ambas unidades se amplifican y se conectan a un sistema de adquisición, evaluación y gestión de datos, como un ordenador, posibilitando así el control del sistema solar vinculado al dispositivo.<br><br>Extraído de:<br><br>https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2008145796&_cid=P11-LRK4L0-55712-1</p>|
 
-### Patente 3
-**ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas<br>
-**Fecha de Publicación:** 28/11/2013<br>
-**Número de Publicación:** 2431829<br>
-**Inventor(es):** Fabio Bertolotti y Jens Carpintero<br>
-
-https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4
-
-<p align="justify">
-Sistema que utiliza al menos un sensor en una de las aspas de la turbina para medir una cantidad física que refleja una característica del campo de velocidad del viento. Esta información se procesa a través de una tabla que se ha construido previamente, asociando los valores de los componentes cíclicos y constantes de la señal del sensor con los valores correspondientes de la velocidad del viento bajo diversas condiciones.
-</p>
-
-<p align="justify">
-La tabla resultante se utiliza como referencia para determinar, mediante unos medios de búsqueda, el valor de la característica del campo de velocidad del viento en tiempo real, considerando la condición actual del viento. En resumen, el sistema aprovecha la información recopilada previamente para estimar la velocidad del viento actual y, por ende, optimizar el rendimiento de la turbina eólica.
-</p>
-
-<p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente03.png" width="550" style="margin: auto;">
-</p>
+| <center>Patente 3</center> |
+| ------------ |
+| <p align="justify">**ES2431829T3** - Sistema sensor eólico que utiliza señales de aspas<br>**Fecha de Publicación:** 28/11/2013<br>**Número de Publicación:** 2431829<br>**Inventor(es):** Fabio Bertolotti y Jens Carpintero</p><p align="center"><img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E04Patente03.png" width="550" style="margin: auto;"></p></p><p align="justify">Sistema que utiliza al menos un sensor en una de las aspas de la turbina para medir una cantidad física que refleja una característica del campo de velocidad del viento. Esta información se procesa a través de una tabla que se ha construido previamente, asociando los valores de los componentes cíclicos y constantes de la señal del sensor con los valores correspondientes de la velocidad del viento bajo diversas condiciones.<br><br></brLa>La tabla resultante se utiliza como referencia para determinar, mediante unos medios de búsqueda, el valor de la característica del campo de velocidad del viento en tiempo real, considerando la condición actual del viento. En resumen, el sistema aprovecha la información recopilada previamente para estimar la velocidad del viento actual y, por ende, optimizar el rendimiento de la turbina eólica.<br><br>Extraído de:<br><br>https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4</p>|
 
 ### Patente 4
 **ES2553980T3** - Un sensor óptico de viento de turbina eólica<br>
