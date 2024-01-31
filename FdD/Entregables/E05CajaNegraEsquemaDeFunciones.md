@@ -12,7 +12,7 @@
 ## Definición de Entradas y Salidas
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E05Imagen05.png" width="950" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E05Imagen02.png" width="950" style="margin: auto;">
 </p>
 
 ## Esquema de Funciones
