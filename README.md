@@ -58,7 +58,7 @@ Proporcionar energía no contaminante y fomentar el acceso equitativo de energí
 | Amparo Marleny Vidaurre Juárez | Coordinadora General | Amparo4321 | amparo.vidaurre@upch.pe |
 | Edwin Junior Jara Bocanegra | Encargado de Desarrollo Técnico y Prototipado | Paradoxeado | edwin.jara@upch.pe |
 | Antony Iván Mendoza Villar | Coordinador de Diseño y Modelado 3D | Sh3ccid | antony.mendoza@upch.pe |
-| Josue Jhordan Poma Arrieta | Encargado del Diseño y Redacción Web | JosuePoma | josue.poma@upch.pe |
+| Josue Jhordan Poma Arrieta | Encargado de Investigación y Página Web | JosuePoma | josue.poma@upch.pe |
 | Aracely Nicoll Dueñas Condori | Encargada de la Manufactura Digital | NicollDC | aracely.duenas@upch.pe |
 
 <a href="https://github.com/Paradoxeado/prototypeProject/tree/main/FdD/Entregables/E01SobreNosotros.md" style="background: linear-gradient(45deg, #FFD700, #FF69B4, #1E90FF); color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 14px; margin: 10px; cursor: pointer; border-radius: 50px; border: none; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Descubre más</a>
