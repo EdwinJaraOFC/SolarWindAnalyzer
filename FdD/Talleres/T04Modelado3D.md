@@ -104,7 +104,8 @@ Finalmente quedando nuestro diseño del vaso de la siguiente manera:
 Para modelar una vaso en 3D, primero ubicamos el eje en la vista TOP y luego añadimos un círculo con una dimensión de 60 mm, asegurándonos de que esté centrado en el plano. Después, utilizando la función de "shelf", para crear un orificio en la parte superior y luego utilizamos la función de "extrude" para convertirlo en un modelo 3D. Luego aplicamos un "fillet" para darle forma redondeada a la lata. Finalmente, en “part 1” en apariencias puedes cambiar los colores.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen07.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen08.jpg" width="300px"/>
 </div>
 
 ### Ejercicio 3: Representación de una taza a partir del ejercicio 1
