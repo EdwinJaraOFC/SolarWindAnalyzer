@@ -125,7 +125,7 @@ Para realizar la representación del case Arduino UNO, empezamos insertando una 
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen13.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen13.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -133,7 +133,7 @@ Luego de insertar la imagen procedemos a crear un sketch en “top” e insertar
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen14.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen14.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -141,7 +141,7 @@ Luego usamos la función “extrude” con las líneas hechas anteriormente para
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen15.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen15.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -149,7 +149,7 @@ Luego decidimos quitarle la tapa para que se asemeje al case del Arduino UNO, ju
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen16.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen16.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -157,7 +157,7 @@ Paso extra: Tuvimos que recortar las partes que hacían que el case no entre cor
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen17.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen17.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -165,7 +165,7 @@ Paso extra: Usamos la función "extrude" pero con la diferencia de que esta vez 
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen18.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen18.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -173,7 +173,7 @@ Y al final de todos estos pasos el modelado del case Arduino UNO nos quedó de l
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen19.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen19.jpg" width="600px"/>
 </div>
 
 <br>
