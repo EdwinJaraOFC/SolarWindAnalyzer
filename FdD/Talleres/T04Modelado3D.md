@@ -30,9 +30,9 @@
 ### Características y componentes de Onshape
 <p align="justify">
 
-**Modelado paramétrico:** Permite realizar cambios en el diseño de forma rápida y eficiente.
-**Colaboración en tiempo real:** Los usuarios pueden trabajar en un mismo diseño de forma simultánea
-**Acceso basado en la nube:** Al estar basado en la nube, Onshape permite a los usuarios acceder a sus diseños desde cualquier dispositivo con conexión a internet
+**Modelado paramétrico:** Permite realizar cambios en el diseño de forma rápida y eficiente.<br>
+**Colaboración en tiempo real:** Los usuarios pueden trabajar en un mismo diseño de forma simultánea.<br>
+**Acceso basado en la nube:** Al estar basado en la nube, Onshape permite a los usuarios acceder a sus diseños desde cualquier dispositivo con conexión a internet.<br>
 **Versionado automático:** Onshape guarda automáticamente el historial de versiones de los diseños
 </p>
 
