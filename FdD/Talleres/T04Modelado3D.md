@@ -50,7 +50,7 @@ Onshape es una herramienta importante para el modelado 3D debido a su accesibili
 - Impresora 3D
 
 ## 3. Desarrollo de ejercicios
-### Ejercicio del vaso
+### Ejercicio 1: Representación de un vaso a partir de un círculo
 
 <p align="justify">
   
