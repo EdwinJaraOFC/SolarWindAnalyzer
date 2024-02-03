@@ -121,23 +121,59 @@ Para modelar la taza tuvimos que usar el molde ya hecho de un vaso en el ejercic
 ### Ejercicio 4: Representación de un case para Arduino UNO
 
 <p align="justify">
-Para modelar una carcasa en 3D para un Arduino Uno, primero necesitas ubicar el eje en la vista TOP y luego añadir una imagen del Arduino con las medidas específicas. Después, asegúrate de que la altura sea de 8 mm y el grosor de 1 mm, para que  esté centrada en el plano. Luego, utiliza la función "lineal" para crear el marco del Arduino y añadir las medidas correspondientes. Después, puedes utilizar la función "shelf" para crear la tapa del estuche. Finalmente, con la opción "Part 1" puedes añadir color al estuche para terminar el modelo.
+Para realizar la representación del case Arduino UNO, empezamos insertando una imagen en un sketch en “top” y redimensionando un poco para posteriormente empezar a hacer el case.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen13.jpg" width="400px"/>
+</div>
+
+<p align="justify">
+Luego de insertar la imagen procedemos a crear un sketch en “top” e insertar líneas tomando la forma del case, luego procedemos a insertar las dimensiones correspondientes.
+</p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen14.jpg" width="400px"/>
 </div>
+
+<p align="justify">
+Luego usamos la función “extrude” con las líneas hechas anteriormente para darle la forma 3D a nuestro trabajo.
+</p>
+
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen15.jpg" width="400px"/>
+</div>
+
+<p align="justify">
+Luego decidimos quitarle la tapa para que se asemeje al case del Arduino UNO, junto con asignarle un grosor que fue de 1mm.
+</p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen16.jpg" width="400px"/>
 </div>
+
+<p align="justify">
+Paso extra: Tuvimos que recortar las partes que hacían que el case no entre correctamente luego de darnos cuenta en la impresión 3D, lo hicimos creando un sketch nuevo y dando la forma del rectángulo.
+</p>
+
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen17.jpg" width="400px"/>
+</div>
+
+<p align="justify">
+Para realizar la representación del case Arduino UNO, empezamos insertando una imagen en un sketch en “top” y redimensionando un poco para posteriormente empezar a hacer el case.
+</p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen18.jpg" width="400px"/>
 </div>
+
+<p align="justify">
+Para realizar la representación del case Arduino UNO, empezamos insertando una imagen en un sketch en “top” y redimensionando un poco para posteriormente empezar a hacer el case.
+</p>
+
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen19.jpg" width="600px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen19.jpg" width="400px"/>
 </div>
 
 <br>
