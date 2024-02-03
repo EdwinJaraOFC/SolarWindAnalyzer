@@ -101,7 +101,7 @@ Finalmente quedando nuestro diseño del vaso de la siguiente manera:
 
 ### Ejercicio 2: Representación de un vaso a partir de líneas
 
-Para elaborar esta representación del vaso usamos "Sketch" con el puntero línea dándole la forma de la mitad de un vaso, luego presionando usando "revolve" y seleccionando el contorno del objeto que queremos pudimos obtener la forma del vaso a partir de simples líneas.
+Para realizar la representación de un vaso 3D a partir de líneas, empezamos en la vista "front" para luego en un sketch agregar líneas dando la forma de la mitad de un vaso en 2D, luego usamos algunas de las funciones del ejercicio 1 para convertir ese vaso 2D en uno en 3D, teniendo como resultado la segunda imagen.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen07.jpg" width="400px"/>
@@ -111,7 +111,7 @@ Para elaborar esta representación del vaso usamos "Sketch" con el puntero líne
 ### Ejercicio 3: Representación de una taza a partir del ejercicio 1
 
 <p align="justify">
-Para modelar la taza en Onshape, se comenzó creando un documento "Sketch" y luego se utilizó la herramienta de dibujo para trazar el contorno de la taza en un plano. Después, se empleó la función "Extrude" para convertir el contorno en un modelo 3D y con el “Shelf” para quitar la parte “Top”. Finalmente, se agregaron detalles como el asa y se aplicó color al diseño. Este proceso permitió crear un modelo 3D de la taza.
+Para modelar la taza tuvimos que usar el molde ya hecho de un vaso en el ejercicio 1, pero esta vez agregamos una asa para que sea una taza. Añadimos en un nuevo sketch con la opción de "3 point arc" un arco y luego dandole forma logramos rellenar la asa que necesitaba el vaso para que se forme una taza.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
