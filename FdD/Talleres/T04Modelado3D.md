@@ -149,13 +149,13 @@ Al momento de imprimir nuestro modelado 3D no tomamos en cuenta que debíamos de
 ## 4. Evidencias del desarrollo de ejercicios
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller09.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen09.jpg" width="300px"/>
 </div>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller10.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen10.jpg" width="300px"/>
 </div>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller11.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen11.jpg" width="300px"/>
 </div>
 
 ## 5. Conclusión
