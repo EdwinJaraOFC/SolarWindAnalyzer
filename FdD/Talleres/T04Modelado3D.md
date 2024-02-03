@@ -140,8 +140,9 @@ Para modelar una carcasa en 3D para un Arduino Uno, primero necesitas ubicar el 
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen19.jpg" width="600px"/>
 </div>
 
+<br>
 <p align="justify">
-Al momento de imprimir nuestro modelado 3D no tomamos en cuenta que debíamos dejar como mínimo 5 mm para que pueda insertar el arduino correctamente y a su vez nos equivocamos de posición en las entradas.
+Al momento de imprimir nuestro modelado 3D no tomamos en cuenta que el case debía tener un grosor mínimo de 5mm, nosotros lo hicimos con un grosor de 1mm, por lo que nuestro case salió delgado, y tuvimos otro pequeño error de no considerar los espacios de las entradas del Arduino. Anotamos estos errores para no volverlos a cometer en un futuro.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
