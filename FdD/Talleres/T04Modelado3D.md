@@ -76,11 +76,27 @@ Después pasamos a quitarle la parte superior del vaso para que se parezca cada 
 </div>
 
 <p align="justify">
-Finalmente le dimos bordes con la opción “Fillet”, quedando nuestro vaso de la siguiente manera:
+Le dimos bordes con la opción “Fillet”, quedando nuestro vaso de la siguiente manera:
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen04.jpg" width="300px"/>
+</div>
+
+<p align="justify">
+Después escogimos que color queríamos para el vaso y lo seleccionamos.
+</p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen05.jpg" width="300px"/>
+</div>
+
+<p align="justify">
+Finalmente quedando nuestro diseño del vaso de la siguiente manera:
+</p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen06.jpg" width="300px"/>
 </div>
 
 ### Ejercicio 2: Representación de un vaso a partir de líneas
