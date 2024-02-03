@@ -101,7 +101,7 @@ Finalmente quedando nuestro diseño del vaso de la siguiente manera:
 
 ### Ejercicio 2: Representación de un vaso a partir de líneas
 
-Para realizar la representación de un vaso 3D a partir de líneas, empezamos en la vista "front" para luego en un sketch agregar líneas dando la forma de la mitad de un vaso en 2D, luego usamos algunas de las funciones del ejercicio 1 para convertir ese vaso 2D en uno en 3D, teniendo como resultado la segunda imagen.
+Para realizar la representación de un vaso 3D a partir de líneas, comenzamos en la vista "front" y creamos un sketch donde agregamos líneas para esbozar la mitad del vaso en 2D. Utilizando funciones aprendidas en el ejercicio 1, transformamos este diseño bidimensional en uno tridimensional. Las herramientas empleadas permitieron extruir y dar forma al vaso 2D, generando así la representación final en 3D, como se muestra en la segunda imagen.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen07.jpg" width="400px"/>
@@ -111,7 +111,7 @@ Para realizar la representación de un vaso 3D a partir de líneas, empezamos en
 ### Ejercicio 3: Representación de una taza a partir del ejercicio 1
 
 <p align="justify">
-Para modelar la taza tuvimos que usar el molde ya hecho de un vaso en el ejercicio 1, pero esta vez agregamos una asa para que sea una taza. Añadimos en un nuevo sketch con la opción de "3 point arc" un arco y luego dandole forma logramos rellenar la asa que necesitaba el vaso para que se forme una taza.
+Para modelar la taza tuvimos que usar el molde ya hecho de un vaso en el ejercicio 1, partimos ese molde y lo transformamos en una taza funcional y estéticamente diferente al añadirle una asa. Comenzamos dibujando la asa con la herramienta "3 point arc" en un nuevo sketch, ajustándola cuidadosamente para que se integrara bien con la forma existente del vaso. Luego, utilizando las herramientas de modelado en 3D, dimos volumen y forma ergonómica a la asa, haciendo ajustes hasta lograr un diseño atractivo. Finalmente, refinamos la transición entre la asa y el cuerpo del vaso para obtener una apariencia suave y cohesiva.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
