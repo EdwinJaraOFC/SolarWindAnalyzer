@@ -56,3 +56,43 @@ Onshape es una herramienta importante para el modelado 3D debido a su accesibili
   
 Para modelar una vaso en 3D, primero ubicamos el eje en la vista TOP y luego añadimos un círculo con una dimensión de 60 mm, asegurándonos de que esté centrado en el plano. Después, utilizando la función de "shelf", para crear un orificio en la parte superior y luego utilizamos la función de "extrude" para convertirlo en un modelo 3D. Luego aplicamos un "fillet" para darle forma redondeada a la lata. Finalmente, en “part 1” en apariencias puedes cambiar los colores.
 </p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
+### Ejercicio 2: Representación de un vaso a partir de líneas
+
+Para modelar una vaso en 3D, primero ubicamos el eje en la vista TOP y luego añadimos un círculo con una dimensión de 60 mm, asegurándonos de que esté centrado en el plano. Después, utilizando la función de "shelf", para crear un orificio en la parte superior y luego utilizamos la función de "extrude" para convertirlo en un modelo 3D. Luego aplicamos un "fillet" para darle forma redondeada a la lata. Finalmente, en “part 1” en apariencias puedes cambiar los colores.
+
+### Ejercicio 3: Representación de una taza a partir del ejercicio 1
+
+<p align="justify">
+
+Para modelar la taza en Onshape, se comenzó creando un documento "Sketch" y luego se utilizó la herramienta de dibujo para trazar el contorno de la taza en un plano. Después, se empleó la función "Extrude" para convertir el contorno en un modelo 3D y con el “Shelf” para quitar la parte “Top”. Finalmente, se agregaron detalles como el asa y se aplicó color al diseño. Este proceso permitió crear un modelo 3D de la taza.
+</p>
+
+### Ejercicio 4: Representación de un case para Arduino UNO
+
+<p align="justify">
+
+Para modelar una carcasa en 3D para un Arduino Uno, primero necesitas ubicar el eje en la vista TOP y luego añadir una imagen del Arduino con las medidas específicas. Después, asegúrate de que la altura sea de 8 mm y el grosor de 1 mm, para que  esté centrada en el plano. Luego, utiliza la función "lineal" para crear el marco del Arduino y añadir las medidas correspondientes. Después, puedes utilizar la función "shelf" para crear la tapa del estuche. Finalmente, con la opción "Part 1" puedes añadir color al estuche para terminar el modelo.
+</p>
+
+## 4. Evidencias del desarrollo de ejercicios
+
+## 5. Conclusión
+
+<p align="justify">
+
+Durante la sesión de clase en la que modelamos una vaso ,  taza en la aplicación de Onshape y posteriormente creamos un estuche para un Arduino, adquirimos conocimientos prácticos sobre el modelado en 3D y la aplicación de Onshape. Esta experiencia nos permitió aplicar las habilidades aprendidas en un entorno práctico y nos preparó para el proceso de impresión 3D. En resumen, esta actividad fue fundamental para el desarrollo de nuestras habilidades en el campo del diseño y la fabricación digital.
+</p>
