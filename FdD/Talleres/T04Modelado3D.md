@@ -28,6 +28,7 @@
 ## 1. Descripción del Modelado 3D (Onshape)
 
 ### Características y componentes de Onshape
+
 <p align="justify">
 
 - **Modelado paramétrico:** Permite realizar cambios en el diseño de forma rápida y eficiente.<br>
@@ -37,6 +38,7 @@
 </p>
 
 ### Importancia del Onshape como herramienta para la creación del modelado 3D
+
 <p align="justify">
 
 Onshape es una herramienta importante para el modelado 3D debido a su accesibilidad, capacidad de colaboración, modelado paramétrico y herramientas integradas para simulaciones y pruebas de rendimiento. Estas características hacen de Onshape una plataforma integral y poderosa para el diseño y la ingeniería colaborativa en 3D.
@@ -49,6 +51,7 @@ Onshape es una herramienta importante para el modelado 3D debido a su accesibili
 
 ## 3. Desarrollo de ejercicios
 ### Ejercicio del vaso
+
 <p align="justify">
   
 Para modelar una vaso en 3D, primero ubicamos el eje en la vista TOP y luego añadimos un círculo con una dimensión de 60 mm, asegurándonos de que esté centrado en el plano. Después, utilizando la función de "shelf", para crear un orificio en la parte superior y luego utilizamos la función de "extrude" para convertirlo en un modelo 3D. Luego aplicamos un "fillet" para darle forma redondeada a la lata. Finalmente, en “part 1” en apariencias puedes cambiar los colores.
