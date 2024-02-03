@@ -56,7 +56,7 @@ Para realizar la representación de un vaso 3D, nos ubicamos en la vista “Top�
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen01.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen01.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -64,7 +64,7 @@ Luego realizamos las accion “Extrude” para pasar de un modelo 2D a un modelo
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen02.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen02.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -72,7 +72,7 @@ Después pasamos a quitarle la parte superior del vaso para que se parezca cada 
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen03.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen03.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -80,7 +80,7 @@ Le dimos bordes con la opción “Fillet”, quedando nuestro vaso de la siguien
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen04.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen04.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -88,7 +88,7 @@ Después escogimos que color queríamos para el vaso y lo seleccionamos.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen05.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen05.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -96,7 +96,7 @@ Finalmente quedando nuestro diseño del vaso de la siguiente manera:
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen06.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen06.jpg" width="600px"/>
 </div>
 
 ### Ejercicio 2: Representación de un vaso a partir de líneas
