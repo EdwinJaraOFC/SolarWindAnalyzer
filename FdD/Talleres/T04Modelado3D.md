@@ -41,3 +41,9 @@
 
 Onshape es una herramienta importante para el modelado 3D debido a su accesibilidad, capacidad de colaboración, modelado paramétrico y herramientas integradas para simulaciones y pruebas de rendimiento. Estas características hacen de Onshape una plataforma integral y poderosa para el diseño y la ingeniería colaborativa en 3D.
 </p>
+
+## 2. Materiales
+
+- Laptop
+- Software CAD (Onshape)
+- Impresora 3D
