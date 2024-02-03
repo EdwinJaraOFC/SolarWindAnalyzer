@@ -137,7 +137,7 @@ Para modelar una carcasa en 3D para un Arduino Uno, primero necesitas ubicar el 
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen18.jpg" width="400px"/>
 </div>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen19.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen19.jpg" width="600px"/>
 </div>
 
 <p align="justify">
@@ -158,7 +158,7 @@ Al momento de imprimir nuestro modelado 3D no tomamos en cuenta que debíamos de
 </div> 
 </div>
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen12.jpg" width="800px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen12.jpg" width="600px"/>
 </div>
 
 ## 5. Conclusión
