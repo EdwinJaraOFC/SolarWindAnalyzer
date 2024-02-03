@@ -44,6 +44,5 @@ Onshape es una herramienta importante para el modelado 3D debido a su accesibili
 
 ## 2. Materiales
 
-- Laptop
 - Software CAD (Onshape)
 - Impresora 3D
