@@ -46,3 +46,10 @@ Onshape es una herramienta importante para el modelado 3D debido a su accesibili
 - Laptop e implementos
 - Software CAD (Onshape)
 - Impresora 3D
+
+## 3. Desarrollo de ejercicios
+### Ejercicio del vaso
+<p align="justify">
+  
+Para modelar una vaso en 3D, primero ubicamos el eje en la vista TOP y luego añadimos un círculo con una dimensión de 60 mm, asegurándonos de que esté centrado en el plano. Después, utilizando la función de "shelf", para crear un orificio en la parte superior y luego utilizamos la función de "extrude" para convertirlo en un modelo 3D. Luego aplicamos un "fillet" para darle forma redondeada a la lata. Finalmente, en “part 1” en apariencias puedes cambiar los colores.
+</p>
