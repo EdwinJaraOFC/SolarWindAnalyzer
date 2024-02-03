@@ -24,3 +24,20 @@
 </p>
 
 <hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
+
+## 1. Descripción del Modelado 3D (Onshape)
+
+### Características y componentes de Onshape
+<p align="justify">
+
+**Modelado paramétrico:** Permite realizar cambios en el diseño de forma rápida y eficiente.
+**Colaboración en tiempo real:** Los usuarios pueden trabajar en un mismo diseño de forma simultánea
+**Acceso basado en la nube:** Al estar basado en la nube, Onshape permite a los usuarios acceder a sus diseños desde cualquier dispositivo con conexión a internet
+**Versionado automático:** Onshape guarda automáticamente el historial de versiones de los diseños
+</p>
+
+### Importancia del Onshape como herramienta para la creación del modelado 3D
+<p align="justify">
+
+Onshape es una herramienta importante para el modelado 3D debido a su accesibilidad, capacidad de colaboración, modelado paramétrico y herramientas integradas para simulaciones y pruebas de rendimiento. Estas características hacen de Onshape una plataforma integral y poderosa para el diseño y la ingeniería colaborativa en 3D.
+</p>
