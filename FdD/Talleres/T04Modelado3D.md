@@ -161,7 +161,7 @@ Paso extra: Tuvimos que recortar las partes que hacían que el case no entre cor
 </div>
 
 <p align="justify">
-Para realizar la representación del case Arduino UNO, empezamos insertando una imagen en un sketch en “top” y redimensionando un poco para posteriormente empezar a hacer el case.
+Paso extra: Usamos la función "extrude" pero con la diferencia de que esta vez la usamos parar borrar la parte que no necesitabamos del case, usando anteriormente los rectángulos, luego ajustamos y damos en enter para completar la eliminación de ese espacio.
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
@@ -169,7 +169,7 @@ Para realizar la representación del case Arduino UNO, empezamos insertando una 
 </div>
 
 <p align="justify">
-Para realizar la representación del case Arduino UNO, empezamos insertando una imagen en un sketch en “top” y redimensionando un poco para posteriormente empezar a hacer el case.
+Y al final de todos estos pasos el modelado del case Arduino UNO nos quedó de la siguiente manera:
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
