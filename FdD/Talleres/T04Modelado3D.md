@@ -74,12 +74,20 @@ Para modelar una vaso en 3D, primero ubicamos el eje en la vista TOP y luego añ
 
 Para modelar una vaso en 3D, primero ubicamos el eje en la vista TOP y luego añadimos un círculo con una dimensión de 60 mm, asegurándonos de que esté centrado en el plano. Después, utilizando la función de "shelf", para crear un orificio en la parte superior y luego utilizamos la función de "extrude" para convertirlo en un modelo 3D. Luego aplicamos un "fillet" para darle forma redondeada a la lata. Finalmente, en “part 1” en apariencias puedes cambiar los colores.
 
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
 ### Ejercicio 3: Representación de una taza a partir del ejercicio 1
 
 <p align="justify">
 
 Para modelar la taza en Onshape, se comenzó creando un documento "Sketch" y luego se utilizó la herramienta de dibujo para trazar el contorno de la taza en un plano. Después, se empleó la función "Extrude" para convertir el contorno en un modelo 3D y con el “Shelf” para quitar la parte “Top”. Finalmente, se agregaron detalles como el asa y se aplicó color al diseño. Este proceso permitió crear un modelo 3D de la taza.
 </p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
 
 ### Ejercicio 4: Representación de un case para Arduino UNO
 
@@ -88,7 +96,40 @@ Para modelar la taza en Onshape, se comenzó creando un documento "Sketch" y lue
 Para modelar una carcasa en 3D para un Arduino Uno, primero necesitas ubicar el eje en la vista TOP y luego añadir una imagen del Arduino con las medidas específicas. Después, asegúrate de que la altura sea de 8 mm y el grosor de 1 mm, para que  esté centrada en el plano. Luego, utiliza la función "lineal" para crear el marco del Arduino y añadir las medidas correspondientes. Después, puedes utilizar la función "shelf" para crear la tapa del estuche. Finalmente, con la opción "Part 1" puedes añadir color al estuche para terminar el modelo.
 </p>
 
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
+<p align="justify">
+
+Al momento de imprimir nuestro modelado 3D no tomamos en cuenta que debíamos dejar como mínimo 5 mm para que pueda insertar el arduino correctamente y a su vez nos equivocamos de posición en las entradas.
+</p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+
 ## 4. Evidencias del desarrollo de ejercicios
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller00.jpg" width="300px"/>
+</div>
 
 ## 5. Conclusión
 
