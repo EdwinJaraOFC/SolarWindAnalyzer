@@ -101,7 +101,7 @@ Finalmente quedando nuestro diseño del vaso de la siguiente manera:
 
 ### Ejercicio 2: Representación de un vaso a partir de líneas
 
-Para modelar una vaso en 3D, primero ubicamos el eje en la vista TOP y luego añadimos un círculo con una dimensión de 60 mm, asegurándonos de que esté centrado en el plano. Después, utilizando la función de "shelf", para crear un orificio en la parte superior y luego utilizamos la función de "extrude" para convertirlo en un modelo 3D. Luego aplicamos un "fillet" para darle forma redondeada a la lata. Finalmente, en “part 1” en apariencias puedes cambiar los colores.
+Para elaborar esta representación del vaso usamos "Sketch" con el puntero línea dándole la forma de la mitad de un vaso, luego presionando usando "revolve" y seleccionando el contorno del objeto que queremos pudimos obtener la forma del vaso a partir de simples líneas.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen07.jpg" width="400px"/>
