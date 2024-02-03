@@ -157,6 +157,9 @@ Al momento de imprimir nuestro modelado 3D no tomamos en cuenta que debíamos de
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen11.jpg" width="300px"/>
 </div>
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T04Imagen12.jpg" width="300px"/>
+</div>
 
 ## 5. Conclusión
 
