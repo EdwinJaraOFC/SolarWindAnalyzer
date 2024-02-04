@@ -103,6 +103,8 @@ Dada la urgencia del estudio, la determinación de la fuente de energía renovab
 ## Bibliografía
 Bertolotti, F., et al (2013). ES2431829T3 - Sistema sensor eólico que utiliza señales de aspas - Google Patents.<br>https://patents.google.com/patent/ES2431829T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=4
 
+Berrío, L. H., & Zuluaga, C.  (2014). Smart Grid y la energía solar fotovoltaica para la generación distribuida: unarevisión en el contexto energético mundial. Ingeniería y Desarrollo, 32(2), 369-396.<br>https://www.redalyc.org/articulo.oa?id=85232596010
+
 BOE-A-2019-5089 Real Decreto 244/2019, de 5 de abril, por el que se regulan las condiciones administrativas, técnicas y económicas del autoconsumo de energía eléctrica. (n.d.).<br>https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5089
 
 ENERLIFE, (2020). Velocidad del viento mínima para una instalación eólica en 3 pasos.<br>https://enerlife.cl/velocidad-del-viento-minima-para-una-instalacion-eolica-en-3-pasos/
