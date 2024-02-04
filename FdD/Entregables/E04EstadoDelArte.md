@@ -107,13 +107,13 @@ BOE-A-2019-5089 Real Decreto 244/2019, de 5 de abril, por el que se regulan las 
 
 ENERLIFE, (2020). Velocidad del viento mínima para una instalación eólica en 3 pasos.<br>https://enerlife.cl/velocidad-del-viento-minima-para-una-instalacion-eolica-en-3-pasos/
 
+Ferreira, P. M., Gomes, J. M., Martins, I. A. C., & Ruano, A. E. (2012). A neural network based intelligent predictive sensor for cloudiness, solar radiation and air temperature. Sensors (Switzerland), 12(11), 15750-15777. Scopus.<br>https://www.scopus.com/record/display.uri?eid=2-s2.0-84870550647&origin=reflist&sort=plf-f&src=s&sid=65563c7f245ff4129bf74d0c9eef85d0&sot=b&sdt=b&sl=42&s=TITLE-ABS-KEY%28energy+renovable+AND+sensor%29
+
 Hong, S. et al., (2014) . ES2473640T3 - Dispositivo y método de seguimiento solar para concentración fotovoltaica de alta eficacia - Google Patents.<br>https://patents.google.com/patent/ES2473640T3/es?q=(dispositivo+medidor+de+radiacion+solar)&oq=dispositivo+medidor+de+radiacion+solar&page=1
 
 Olesen, I. S. (2015). ES2553980T3 - Un sensor óptico de viento de turbina eólica - Google Patents.<br>https://patents.google.com/patent/ES2553980T3/es?q=(sensor+eolico)&oq=sensor+eolico&page=6
 
 Quesada-Kimsey, J. et al  (2009). Desarrollo de un sistema de adquisición de datos de campo para variables ambientales y de un sensor de viento, ambos de bajo costo y de arquitectura abierta.<br>https://repositoriotec.tec.ac.cr/handle/2238/5776
-
-Scopus preview -  Scopus (2012)  - A Neural Network Based Intelligent Predictive Sensor for Cloudiness, Solar Radiation and Air Temperature. (n.d.).<br>https://www.scopus.com/record/display.uri?eid=2-s2.0-84870550647&origin=reflist&sort=plf-f&src=s&sid=65563c7f245ff4129bf74d0c9eef85d0&sot=b&sdt=b&sl=42&s=TITLE-ABS-KEY%28energy+renovable+AND+sensor%29
 
 Solpro. (2021). ¿Qué ventajas tiene instalar placas solares en los colegios? SOLPRO ENERGIA SOLAR.<br>https://solproenergiasolar.com/ventajas-de-instalar-placas-solares-en-los-colegios/
 
