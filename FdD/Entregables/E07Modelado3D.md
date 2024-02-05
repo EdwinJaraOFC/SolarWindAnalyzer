@@ -10,8 +10,7 @@
 
 ## Pretotipo
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen02.jpg" width="450" style="margin: auto;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen03.jpg" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen03.jpg" width="650" style="margin: auto;">
 </p>
 
 ## Dimensiones Preliminares
