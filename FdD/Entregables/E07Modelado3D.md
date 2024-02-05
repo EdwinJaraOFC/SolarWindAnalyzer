@@ -5,7 +5,7 @@
 
 ## Proyecto preliminar escogido y Pretotipo
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen01.jpg" width="350" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen01.jpg" width="380" style="margin: auto;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen03.jpg" width="650" style="margin: auto;">
 </p>
 
