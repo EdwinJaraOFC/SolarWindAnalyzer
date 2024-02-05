@@ -20,8 +20,8 @@
 
 ## Modelado 3D
 
-- **Link de Modelado 3D en Onshape:** https://cad.onshape.com/documents/6067460ba82017ad390b8bbe/w/b210f3430e2e64227f715d53/e/d616d95ec30588e5f5b1e560
-- **Link de Modelado 3D en SketchFab:** https://sketchfab.com/3d-models/fdg5modelado3d-cb6372b8ec2e4b1285431172b48b8108
+- **Link de Modelado 3D en Onshape:**<br>https://cad.onshape.com/documents/6067460ba82017ad390b8bbe/w/b210f3430e2e64227f715d53/e/d616d95ec30588e5f5b1e560
+- **Link de Modelado 3D en SketchFab:**<br>https://sketchfab.com/3d-models/fdg5modelado3d-cb6372b8ec2e4b1285431172b48b8108
 
 ## Tabla de Componentes
 <p align="center">
