@@ -10,7 +10,13 @@
 </p>
 
 ## Dimensiones Preliminares
-
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen04.jpg" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen05.jpg" width="450" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen06.jpg" width="625" style="margin: auto;">
+</p>
 ## Modelado 3D
 
 ## Tabla de Componentes
