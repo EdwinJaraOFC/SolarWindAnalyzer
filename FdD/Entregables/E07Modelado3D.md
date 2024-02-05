@@ -17,6 +17,10 @@
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen06.jpg" width="625" style="margin: auto;">
 </p>
+
 ## Modelado 3D
 
 ## Tabla de Componentes
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen07.jpg" width="625" style="margin: auto;">
+</p>
