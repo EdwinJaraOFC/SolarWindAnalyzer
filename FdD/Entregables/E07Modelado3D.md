@@ -9,6 +9,9 @@
 </p>
 
 ## Pretotipo
+<video width="640" height="360" controls>
+    <source src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Video01.jpg" type="video/mp4">
+</video>
 
 ## Dimensiones Preliminares
 
