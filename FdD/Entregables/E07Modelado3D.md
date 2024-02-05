@@ -4,7 +4,9 @@
 </p>
 
 ## Proyecto preliminar escogido
-
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen01.png" width="950" style="margin: auto;">
+</p>
 ## Pretotipo
 
 ## Dimensiones Preliminares
