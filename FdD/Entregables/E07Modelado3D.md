@@ -3,13 +3,9 @@
   <h1 align="center">Modelado 3D de la Propuesta</h1>
 </p>
 
-## Proyecto preliminar escogido
+## Proyecto preliminar escogido y Pretotipo
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen01.jpg" width="450" style="margin: auto;">
-</p>
-
-## Pretotipo
-<p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen03.jpg" width="650" style="margin: auto;">
 </p>
 
