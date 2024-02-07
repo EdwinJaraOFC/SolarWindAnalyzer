@@ -41,7 +41,7 @@
 
 ## Laminado 3D
 
-<a href="https://github.com/Paradoxeado/prototypeProject/tree/main/FdD/Prototipado/HeliceImpresion.gcode" style="background: linear-gradient(45deg, #FFD700, #FF69B4, #1E90FF); color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 14px; margin: 10px; cursor: pointer; border-radius: 50px; border: none; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Archivo en Formato .gcode</a>
+<a href="https://github.com/Paradoxeado/prototypeProject/blob/main/Prototipado/HeliceImpresion.gcode" style="background: linear-gradient(45deg, #FFD700, #FF69B4, #1E90FF); color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 14px; margin: 10px; cursor: pointer; border-radius: 50px; border: none; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Archivo en Formato .gcode</a>
 </p>
 
 <p align="center">
