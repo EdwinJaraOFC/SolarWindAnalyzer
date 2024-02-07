@@ -24,7 +24,7 @@
 - **Link de Modelado 3D en SketchFab:**<br>https://skfb.ly/oQHG9
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/modelado_perfil.png" width="395" style="margin: auto;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/modelado_base.png" width="505" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen09.jpg" width="505" style="margin: auto;">
 </p>
 
 
