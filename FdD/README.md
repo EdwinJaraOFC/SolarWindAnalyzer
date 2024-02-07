@@ -8,10 +8,6 @@
 
 </p>
 
-## Actas semanales
-<p align="justify">
-Son documentos detallados que registran las discusiones, decisiones y acciones tomadas durante las reuniones semanales del equipo. Estos informes proporcionan una visión clara de los avances, desafíos y próximos pasos.
-</p>
 
 ## Entregables
 Encontraran los productos o resultados específicos que el equipo se compromete a entregar semanalmente.
@@ -24,7 +20,8 @@ Haremos dos presentaciones en diferentes fechas. Las cuales representan la final
 ### Lenguajes de programación usados:
 - HTML 
 - PYTHON
-- Markdown 
+- Markdown
+- c++ 
 
 ### Tipos de archivos usados:
 - pdf 
