@@ -53,7 +53,7 @@ El protoboard es una herramienta fundamental para la creación y prueba de circu
 En este circuito se trabajó con una resistencia de 1k ohmios, donde se apreciaba en serie y paralelo.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen03.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen03.png" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen04.jpg" width="300px"/>
 </div>
 
