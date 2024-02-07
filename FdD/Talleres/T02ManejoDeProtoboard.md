@@ -44,8 +44,8 @@ El protoboard es una herramienta fundamental para la creación y prueba de circu
 - Kit de electrónica B (Arduino UNO, cables, resistencias, protoboard)
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller10.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller11.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen01.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen02.jpg" width="300px"/>
 </div>
 
 ## 3. Desarrollo de ejercicios
@@ -53,15 +53,15 @@ El protoboard es una herramienta fundamental para la creación y prueba de circu
 En este circuito se trabajó con una resistencia de 1k ohmios, donde se apreciaba en serie y paralelo.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller26.png" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller27.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen03.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen04.jpg" width="300px"/>
 </div>
 
 Teniendo en cuenta los datos, hicimos los cálculos tanto en serie como en paralelo, teniendo como resultado que la resistencia total es de 666.66 ohm.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller28.jpg" width="400px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller29.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen05.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen06.jpg" width="300px"/>
 </div>
 
 ### Ejercicio 2
@@ -70,18 +70,18 @@ El diagrama de un circuito eléctrico que consiste en cinco resistencias etiquet
 Se diseñó un esquema donde las resistencias se colocaron en paralelo en los extremos y en serie en el centro.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller12.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller13.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen07.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen08.jpg" width="300px"/>
 </div>
 
 Al momento de calcular el valor total , se encontró que era de 400 ohmios.
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller14.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller16.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen09.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen10.jpg" width="300px"/>
 </div>
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller15.jpg" width="300px">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen11.jpg" width="300px">
 </p> 
 
 ### Ejercicio 3
@@ -96,8 +96,8 @@ R56 = R5  +  R6 = 2000 ohm<br>
 RT = 1 /(1/R13 + 1/R24 + 1/R56) = 666.67 ohm
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller17.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller18.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen12.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen13.jpg" width="300px"/>
 </div>
 
 **Resultado**
@@ -106,8 +106,8 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller19.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller20.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen14.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen15.jpg" width="300px"/>
 </div>
 
 ### Ejercicio 4
@@ -122,7 +122,7 @@ Para comprobar estos resultados hemos utilizado un multímetro, para lo cuál pr
 **Cálculo de las resistencias 1 y 2**
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller21.jpg" width="300px">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen16.jpg" width="300px">
 </p>
 
 **Imagen del circuito divisor de tensión**
@@ -131,8 +131,8 @@ La tensión se divide entre las resistencias en serie, y luego esa tensión divi
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller22.jpg" width="400px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller23.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen17.jpg" width="400px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen18.jpg" width="300px"/>
 </div>
 
 **Resultado**
@@ -141,8 +141,8 @@ El multímetro es una herramienta fundamental en la medición de resistencia el�
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller24.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller25.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen19.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T02Imagen20.jpg" width="300px"/>
 </div>
 
 ## 4. Evidencias del desarrollo de ejercicios
