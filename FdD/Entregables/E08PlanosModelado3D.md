@@ -5,22 +5,32 @@
 
 ## Plano: Maleta
 
-
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen01.jpg" width="750" style="margin: auto;">
+</p>
 
 ## Plano: Tapa para la Batería Portátil
 
-
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen02.jpg" width="750" style="margin: auto;">
+</p>
 
 ## Plano: Cierre de la Base
 
-
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen03.jpg" width="750" style="margin: auto;">
+</p>
 
 ## Plano: Tapa de la Caja del Anemómetro
 
-
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen04.jpg" width="750" style="margin: auto;">
+</p>
 
 ## Plano: Anemómetro
 
-
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen05.jpg" width="750" style="margin: auto;">
+</p>
 
 ## Laminado 3D
