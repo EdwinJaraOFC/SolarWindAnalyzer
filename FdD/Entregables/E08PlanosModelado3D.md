@@ -21,16 +21,22 @@
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen03.jpg" width="750" style="margin: auto;">
 </p>
 
-## Plano: Tapa de la Caja del Anemómetro
+## Plano: Cierre de la Tapa
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen04.jpg" width="750" style="margin: auto;">
 </p>
 
-## Plano: Anemómetro
+## Plano: Tapa de la Caja del Anemómetro
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen05.jpg" width="750" style="margin: auto;">
+</p>
+
+## Plano: Anemómetro
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen07.jpg" width="750" style="margin: auto;">
 </p>
 
 ## Laminado 3D
