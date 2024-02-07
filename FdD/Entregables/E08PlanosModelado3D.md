@@ -40,3 +40,7 @@
 </p>
 
 ## Laminado 3D
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E08Imagen08.jpg" width="750" style="margin: auto;">
+</p>
