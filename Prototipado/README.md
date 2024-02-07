@@ -21,3 +21,5 @@
 - png
 - jpg
 - mp4
+- stl
+- ino
