@@ -24,3 +24,21 @@
 </p>
 
 <hr style="border: 1px solid #ccc; margin-top: 50px; margin-bottom: 50px;">
+
+## 1. Introducción
+
+<p align="justify">
+Un esquemático de un circuito electrónico es un dibujo que representa los componentes del circuito y cómo están conectados entre sí. Es una herramienta visual que facilita la comprensión y el diseño de circuitos electrónicos. En un esquemático, los componentes como resistencias, capacitores, transistores, etc., se representan con símbolos estandarizados.
+</p>
+
+## 2. Descripción del el sistema de circuito electrónico
+### Características y componentes del el sistema de circuito electrónico
+
+<p align="justify">
+- **Componentes electrónicos:** Incluyen resistencias, capacitores, inductores, diodos, transistores, circuitos integrados, entre otros.
+- **Fuente de alimentación:** Proporciona la energía necesaria para que el circuito funcione correctamente.
+- **Conectores y terminales:** Permiten la conexión física del circuito con otros dispositivos o sistemas.
+- **Circuitos integrados:** Chips que contienen múltiples componentes electrónicos en un solo paquete.
+- **Placas de circuito impreso (PCB):** Proporcionan la estructura física para montar y conectar los componentes electrónicos de forma ordenada.
+- **Conexiones eléctricas:** Representan cómo se conectan los componentes entre sí para que el circuito funcione según el diseño.
+</p>
