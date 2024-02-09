@@ -202,7 +202,7 @@ El código fue ejecutado con éxito y a continuación se evidencia el correcto f
 
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T03Imagen05.jpg" width="300px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller36.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T03Imagen06.jpg" width="300px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoTaller37.jpg" width="300px"/>
 </div>
 
