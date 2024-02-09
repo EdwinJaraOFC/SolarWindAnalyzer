@@ -35,6 +35,7 @@ Un esquemático de un circuito electrónico es un dibujo que representa los comp
 ### Características y componentes del el sistema de circuito electrónico
 
 <p align="justify">
+  
 - **Componentes electrónicos:** Incluyen resistencias, capacitores, inductores, diodos, transistores, circuitos integrados, entre otros.
 - **Fuente de alimentación:** Proporciona la energía necesaria para que el circuito funcione correctamente.
 - **Conectores y terminales:** Permiten la conexión física del circuito con otros dispositivos o sistemas.
