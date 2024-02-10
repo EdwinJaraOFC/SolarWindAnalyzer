@@ -109,13 +109,10 @@ El circuito desarrollado para este ejercicio ha sido diseñado para complementar
 <p align="justify">
 Para la construcción de este circuito, hemos seleccionado cuidadosamente los siguientes componentes, cada uno desempeñando un papel crucial en el funcionamiento del sistema:
 
-- **Resistencias de 330 ohmios:** Estas resistencias se utilizan para limitar la corriente que pasa a través del LED, asegurando su correcto funcionamiento y protegiéndolo contra daños por corriente excesiva.
-
-- **Botón/pulsador:** Este componente actúa como un interruptor que permite controlar manualmente el encendido y apagado del LED. Al presionar el botón, se completa el circuito, permitiendo que la corriente fluya y encienda el LED.
-
-- **ESP32:** Se trata de un microcontrolador de bajo consumo y alto rendimiento que actúa como el cerebro del circuito. El ESP32 se encarga de procesar las señales provenientes del botón/pulsador y controlar la activación del LED de acuerdo con la entrada recibida.
-
-- **LED:** Este diodo emisor de luz es el componente que se ilumina cuando el circuito está activado. Su baja potencia y su larga vida útil lo convierten en una elección ideal para aplicaciones de iluminación controlada.
+- 2 Resistencias de 330 ohmios
+- 1 Botón/pulsador
+- 1 ESP32
+- 1 LED
 
 Al ensamblar estos componentes en el circuito, hemos prestado especial atención a la calidad de las conexiones eléctricas, evitando cualquier posibilidad de falsos contactos que puedan afectar el rendimiento del sistema. Quedando el circuito de la siguiente manera:
 </p>
