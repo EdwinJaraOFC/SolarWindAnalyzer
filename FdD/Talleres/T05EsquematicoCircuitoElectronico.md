@@ -30,7 +30,7 @@
 Un esquemático de un circuito electrónico es un dibujo que representa los componentes del circuito y cómo están conectados entre sí. Es una herramienta visual que facilita la comprensión y el diseño de circuitos electrónicos. En un esquemático, los componentes como resistencias, capacitores, transistores, etc., se representan con símbolos estandarizados.
 </p>
 
-## 2. Descripción del el sistema de circuito electrónico
+## 2. Descripción del sistema de circuito electrónico
 ### Características y componentes del el sistema de circuito electrónico
 <p align="justify">
   
