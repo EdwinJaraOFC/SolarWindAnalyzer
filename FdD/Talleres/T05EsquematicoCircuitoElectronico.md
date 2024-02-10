@@ -101,14 +101,24 @@ A continuación, procedimos a unir los componentes siguiendo los siguientes paso
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen09.png" width="328px"/>
 </div>
 
-<br>
-
-**¿ Para qué sirve el circuito?**
+### Ejercicio 2: Crear un circuito que guarde relación con nuestro proyecto
 <p align="justify">
-Sirve para encender el LED de manera controlada y segura. La resistencia se utiliza para limitar la corriente que pasa a través del LED, protegiéndolo y asegurando su funcionamiento correcto. 
+El circuito desarrollado para este ejercicio ha sido diseñado para complementar y potenciar los objetivos de nuestro proyecto principal. Su función principal es activar un LED mediante un botón o pulsador, desempeñando un papel esencial en el logro de nuestros objetivos. Se ha asegurado una integración perfecta con la arquitectura general del proyecto, garantizando una sinergia fluida entre todos los componentes. Además, se ha prestado especial atención a la modularidad, lo que facilita su expansión o adaptación futura según sea necesario.
 </p>
 
-### Ejercicio 2: Crear un circuito que guarde relación con nuestro proyecto
+<p align="justify">
+Para la construcción de este circuito, hemos seleccionado cuidadosamente los siguientes componentes, cada uno desempeñando un papel crucial en el funcionamiento del sistema:
+
+- **Resistencias de 330 ohmios:** Estas resistencias se utilizan para limitar la corriente que pasa a través del LED, asegurando su correcto funcionamiento y protegiéndolo contra daños por corriente excesiva.
+
+- **Botón/pulsador:** Este componente actúa como un interruptor que permite controlar manualmente el encendido y apagado del LED. Al presionar el botón, se completa el circuito, permitiendo que la corriente fluya y encienda el LED.
+
+- **ESP32:** Se trata de un microcontrolador de bajo consumo y alto rendimiento que actúa como el cerebro del circuito. El ESP32 se encarga de procesar las señales provenientes del botón/pulsador y controlar la activación del LED de acuerdo con la entrada recibida.
+
+- **LED:** Este diodo emisor de luz es el componente que se ilumina cuando el circuito está activado. Su baja potencia y su larga vida útil lo convierten en una elección ideal para aplicaciones de iluminación controlada.
+
+Al ensamblar estos componentes en el circuito, hemos prestado especial atención a la calidad de las conexiones eléctricas, evitando cualquier posibilidad de falsos contactos que puedan afectar el rendimiento del sistema. Quedando el circuito de la siguiente manera:
+</p>
 
 ## 4. Evidencias del desarrollo de ejercicios
 
