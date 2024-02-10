@@ -110,6 +110,10 @@ Sirve para encender el LED de manera controlada y segura. La resistencia se util
 
 ## 4. Evidencias del desarrollo de ejercicios
 
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/FotoGrupal07.jpg" width="600px"/>
+</div>
+
 ## 5. Conclusión
 <p align="justify">
 Finalmente ,en nuestro taller, aprendimos a utilizar las funciones de Flux.ai para diseñar un sistema que encienda un LED y conectar un ESP32 a una pantalla LCD con las resistencias necesarias. Además, exploramos cómo añadir funcionalidades adicionales mediante la programación de circuitos. Con estos conocimientos, podemos crear proyectos electrónicos de manera más eficiente y estética.
