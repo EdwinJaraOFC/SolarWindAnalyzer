@@ -133,7 +133,7 @@ Al ensamblar estos componentes en el circuito, hemos prestado especial atención
 </div>
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen14.png" width="450px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen15.png" width="480px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen15.png" width="500px"/>
 </div>
 
 ## 4. Evidencias del desarrollo de ejercicios
