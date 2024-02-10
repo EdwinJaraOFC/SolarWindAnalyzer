@@ -101,6 +101,8 @@ A continuación, procedimos a unir los componentes siguiendo los siguientes paso
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen09.png" width="328px"/>
 </div>
 
+<br>
+
 **¿ Para qué sirve el circuito?**
 <p align="justify">
 Sirve para encender el LED de manera controlada y segura. La resistencia se utiliza para limitar la corriente que pasa a través del LED, protegiéndolo y asegurando su funcionamiento correcto. 
