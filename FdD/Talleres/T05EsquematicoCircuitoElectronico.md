@@ -55,8 +55,8 @@ Con la ayuda del docente, pudimos crear un sistema el cual puede encender un led
 </p>
 
 <div align="center"; style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen01.png" width="380px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen02.png" width="380px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen01.png" width="370px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen02.png" width="370px"/>
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen03.png" width="390px"/>
 </div>
 
