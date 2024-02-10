@@ -109,8 +109,8 @@ El circuito desarrollado para este ejercicio ha sido diseñado para complementar
 <p align="justify">
 Para la construcción de este circuito, hemos seleccionado cuidadosamente los siguientes componentes, cada uno desempeñando un papel crucial en el funcionamiento del sistema:
 
-- 2 Resistencias de 330 ohmios
-- 1 Botón/pulsador
+- 3 Resistencias de 330 ohmios
+- 2 Botones/pulsadores
 - 1 ESP32
 - 1 LED
 
