@@ -54,6 +54,12 @@ Los sistemas de circuitos electrónicos son fundamentales para el desarrollo y f
 Con la ayuda del docente, pudimos crear un sistema el cual puede encender un led con los siguientes  implementos, resistencia genérica, led y un terminal de tornillo de 2 posiciones.
 </p>
 
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen01.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen02.jpg" width="300px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen03.jpg" width="300px"/>
+</div>
+
 <p align="justify">
 Posteriormente, modificamos el valor de la resistencia a 330 ohmios para optimizar el circuito.
 </p>
