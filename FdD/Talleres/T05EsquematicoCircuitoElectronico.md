@@ -42,7 +42,7 @@ Un esquemático de un circuito electrónico es un dibujo que representa los comp
 - **Conexiones eléctricas:** Representan cómo se conectan los componentes entre sí para que el circuito funcione según el diseño.
 </p>
 
-## Importancia del sistema de circuito electrónico
+### Importancia del sistema de circuito electrónico
 
 <p align="justify">
 Los sistemas de circuitos electrónicos son fundamentales para el desarrollo y funcionamiento de la tecnología moderna, desempeñando un papel crucial en nuestra vida cotidiana y en el progreso de la sociedad en su conjunto.
