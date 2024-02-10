@@ -76,3 +76,10 @@ A continuación, procedimos a unir los componentes siguiendo los siguientes paso
 
 **Vista Previa en 3D**
 </p>
+
+**¿ Para qué sirve el circuito?**
+<p align="justify">
+Sirve para encender el LED de manera controlada y segura. La resistencia se utiliza para limitar la corriente que pasa a través del LED, protegiéndolo y asegurando su funcionamiento correcto. 
+</p>
+
+### Ejercicio 2: Crear un circuito que guarde relación con nuestro proyecto
