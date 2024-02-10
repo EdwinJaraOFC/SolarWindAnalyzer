@@ -67,6 +67,12 @@ A continuación, procedimos a unir los componentes siguiendo los siguientes paso
 - Finalmente, asegurar que todas las conexiones estén firmes y seguras.
 </p>
 
-<p align="justify"> Vista Previa en 2D</p>
+<p align="justify">
+  
+**Vista Previa en 2D**
+</p>
 
-<p align="justify"> Vista Previa en 3D</p>
+<p align="justify">
+
+**Vista Previa en 3D**
+</p>
