@@ -64,6 +64,10 @@ Con la ayuda del docente, pudimos crear un sistema el cual puede encender un led
 Posteriormente, modificamos el valor de la resistencia a 330 ohmios para optimizar el circuito.
 </p>
 
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen04.png" width="600px"/>
+</div>
+
 <p align="justify">
 
 A continuación, procedimos a unir los componentes siguiendo los siguientes pasos:
@@ -73,15 +77,29 @@ A continuación, procedimos a unir los componentes siguiendo los siguientes paso
 - Finalmente, asegurar que todas las conexiones estén firmes y seguras.
 </p>
 
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen05.png" width="600px"/>
+</div>
+
 <p align="justify">
   
 **Vista Previa en 2D**
 </p>
 
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen06.png" width="600px"/>
+</div>
+
 <p align="justify">
 
 **Vista Previa en 3D**
 </p>
+
+<div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen07.png" width="320px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen08.png" width="322px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen09.png" width="328px"/>
+</div>
 
 **¿ Para qué sirve el circuito?**
 <p align="justify">
