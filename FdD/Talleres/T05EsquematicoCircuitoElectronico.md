@@ -123,7 +123,7 @@ Al ensamblar estos componentes en el circuito, hemos prestado especial atención
 **Vista Previa en 2D**
 <div align="center"; style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen10.png" width="400px"/>
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen11.png" width="350px"/>
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/T05Imagen11.png" width="370px"/>
 </div>
 
 **Vista Previa en 3D**
