@@ -47,3 +47,26 @@ Un esquemático de un circuito electrónico es un dibujo que representa los comp
 <p align="justify">
 Los sistemas de circuitos electrónicos son fundamentales para el desarrollo y funcionamiento de la tecnología moderna, desempeñando un papel crucial en nuestra vida cotidiana y en el progreso de la sociedad en su conjunto.
 </p>
+
+## 3. Ejercicios
+### Ejercicio 1: Crear un sistema que pueda encender un LED
+<p align="justify">
+Con la ayuda del docente, pudimos crear un sistema el cual puede encender un led con los siguientes  implementos, resistencia genérica, led y un terminal de tornillo de 2 posiciones.
+</p>
+
+<p align="justify">
+Posteriormente, modificamos el valor de la resistencia a 330 ohmios para optimizar el circuito.
+</p>
+
+<p align="justify">
+
+A continuación, procedimos a unir los componentes siguiendo los siguientes pasos:
+- Conectar una de las cables del LED al terminal de tornillo.
+- Conectar la resistencia de 330 ohmios a la otra pata del LED.
+- Conectar el extremo libre de la resistencia al otro terminal del tornillo.
+- Finalmente, asegurar que todas las conexiones estén firmes y seguras.
+</p>
+
+<p align="justify"> Vista Previa en 2D</p>
+
+<p align="justify"> Vista Previa en 3D</p>
