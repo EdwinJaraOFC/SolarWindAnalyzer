@@ -19,7 +19,7 @@
 
 ## Diagrama de Flujo
 
-<a href="https://github.com/Paradoxeado/prototypeProject/tree/main/FdD/Entregables/E01SobreNosotros.md" style="background: linear-gradient(45deg, #FFD700, #FF69B4, #1E90FF); color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 14px; margin: 10px; cursor: pointer; border-radius: 50px; border: none; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Enlace al Diagrama de Flujo en formato PDF</a>
+<a href="https://github.com/Paradoxeado/prototypeProject/blob/main/Prototipado/Software/DiagramaDeFlujo.pdf" style="background: linear-gradient(45deg, #FFD700, #FF69B4, #1E90FF); color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 14px; margin: 10px; cursor: pointer; border-radius: 50px; border: none; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Enlace al Diagrama de Flujo en formato PDF</a>
 </p>
 
 <p align="center">
