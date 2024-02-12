@@ -3,4 +3,9 @@
   <h1 align="center">Avance del Prototipo: Diagrama de Flujo, Circuito Esquemático y Elaboración de Código</h1>
 </p>
 
+## Esquemático Eléctrico
+
+
+
 ## Diagrama de Flujo
+
