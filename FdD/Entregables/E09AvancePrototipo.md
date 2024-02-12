@@ -5,7 +5,18 @@
 
 ## Esquemático Eléctrico
 
-
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E09Imagen01.jpg" width="750" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E09Imagen02.jpg" width="750" style="margin: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E09Imagen03.jpg" width="750" style="margin: auto;">
+</p>
 
 ## Diagrama de Flujo
 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E09Imagen04.jpg" width="750" style="margin: auto;">
+</p>
