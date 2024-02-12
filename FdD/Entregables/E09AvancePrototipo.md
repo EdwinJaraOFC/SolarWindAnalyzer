@@ -3,6 +3,8 @@
   <h1 align="center">Avance del Prototipo: Diagrama de Flujo, Circuito Esquemático y Elaboración de Código</h1>
 </p>
 
+## Acerca de nuestro Prototipo - Modelado 3D
+
 ## Esquemático Electrónico
 
 <p align="center">
