@@ -5,6 +5,11 @@
 
 ## Acerca de nuestro Prototipo - Modelado 3D
 
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen08.jpg" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen06.jpg" width="450" style="margin: auto;">
+</p>
+
 ## Esquemático Electrónico
 
 <p align="center">
