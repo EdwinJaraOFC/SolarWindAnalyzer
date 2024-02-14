@@ -6,7 +6,7 @@
 ## Acerca de nuestro Prototipo - Modelado 3D
 
 <p align="center">
-  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E09Imagen05.png" width="250" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E09Imagen05.png" width="280" style="margin: auto;">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/E07Imagen06.jpg" width="620" style="margin: auto;">
 </p>
 
