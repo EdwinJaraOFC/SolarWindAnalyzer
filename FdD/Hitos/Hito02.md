@@ -9,4 +9,8 @@
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/H02Imagen01.png" width="950" style="margin: auto;">
 </p>
 
-## Fotografías del Proyecto Final
+## Fotografía del Proyecto Final
+
+<p align="center">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/H02Imagen02.png" width="950" style="margin: auto;">
+</p>
