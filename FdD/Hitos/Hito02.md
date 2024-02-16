@@ -13,4 +13,5 @@
 
 <p align="center">
   <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/H02Imagen02.jpg" width="450" style="margin: auto;">
+  <img src="https://github.com/Paradoxeado/prototypeProject/blob/main/Im%C3%A1genes/H02Imagen03.jpg" width="450" style="margin: auto;">
 </p>
