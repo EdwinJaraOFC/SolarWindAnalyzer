@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150">
+  <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="150">
   <h1 align="center">ElectroScience</h1>
 </p>
 
@@ -16,10 +16,14 @@
 </blockquote>
 
 ## Tabla de Contenido
-  1. [¿Quiénes somos?](#quiénes-somos)
-  2. [Información del Proyecto](#información-del-proyecto)
-  3. [Finalidad de carpetas](#finalidad-de-carpetas)
-  4. [Roles de los miembros](#roles-de-los-miembros)
+- [Tabla de Contenido](#tabla-de-contenido)
+- [¿Quiénes somos?](#quiénes-somos)
+- [Información del Proyecto](#información-del-proyecto)
+  - [Tema del ODS 7 : Energía asequible y no contaminante](#tema-del-ods-7--energía-asequible-y-no-contaminante)
+  - [Visión:](#visión)
+  - [Misión:](#misión)
+- [Finalidad de carpetas](#finalidad-de-carpetas)
+- [Roles de los miembros](#roles-de-los-miembros)
 
 ## ¿Quiénes somos?
 <p align="justify">
